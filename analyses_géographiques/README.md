@@ -1,0 +1,2 @@
+# Analyses géographiques
+On trouvera ici l'analyse de la structure géographique de la base de données agrégeant les mentions d'Abel Bonnard dans la presse durant l'Occupation (Gallica-Presse). Plusieurs périodes et sous périodes sont analysées. Des cartes et des histogrammes rendent visible la surreprésentation de la presse de zone occupée et en particulier de Paris dans la notoriété donnée à Abel Bonnard durant l'Occupation.
