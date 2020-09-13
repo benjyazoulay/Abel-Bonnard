@@ -1,0 +1,4 @@
+# Notoriété publics des principaux personnages de la France occupée
+Nous avons extrait l’index du Dictionnaire de la collaboration de François Broche pour constituer une liste de 570 personnages publics de la France occupée. Il s’est ensuite agit de hiérarchiser cette liste en fonction de la notoriété des personnages retenus. Pour ce faire, nous avons extrait le nombre de numéros de presse numérisés dans Gallica mentionnant chaque nom de notre base. Nous avons effectué ce travail pour plusieurs sous périodes et nous avons classé cette liste par ordre décroissant ce qui fait apparaître les personnages les plus influents en premier.
+
+N.B. Les effets de structure ne sont pas pris en compte dans cette analyse. Ainsi, si le tirage de presse augmente sur une période concomitamment à l'émergence fulgurante d'un personnage dans l'espace public, la place qu'il occupe dans le classement final est plus élevée que sa place réelle.
