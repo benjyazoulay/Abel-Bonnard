@@ -1,0 +1,878 @@
+;lien;nom;naissance;mort;age;prefaces;id_wikidata;idref;memberof_af;reception;subject;ratio_prefaces;bnf;lien_bnf;nb_oeuvres;nb_oeuvres_1940;nb_ouvrages;nb_ouvrages_1940
+1;http://www.wikidata.org/entity/Q83158;Jean Cocteau;1889;1963;74;20;Q83158;26792680;FALSE;NA;1650;0.392156862745098;11897143s;http://data.bnf.fr/ark:/12148/cb11897143s#about;184;58;372;100
+2;http://www.wikidata.org/entity/Q9364;Jean-Paul Sartre;1905;1980;75;NA;Q9364;27123227;FALSE;NA;1213;NA;11923735k;http://data.bnf.fr/ark:/12148/cb11923735k#about;91;4;293;6
+3;http://www.wikidata.org/entity/Q42156;Henri Bergson;1859;1941;82;23;Q42156;27421848;TRUE;1914;1035;0.283950617283951;11891433v;http://data.bnf.fr/ark:/12148/cb11891433v#about;22;10;130;48
+4;http://www.wikidata.org/entity/Q47484;André Gide;1869;1951;82;22;Q47484;26890593;FALSE;NA;910;0.309859154929577;11904849c;http://data.bnf.fr/ark:/12148/cb11904849c#about;69;22;392;133
+5;http://www.wikidata.org/entity/Q200639;Paul Valéry;1871;1945;74;131;Q200639;27174484;TRUE;1925;905;1.89855072463768;119274707;http://data.bnf.fr/ark:/12148/cb119274707#about;70;31;289;88
+6;http://www.wikidata.org/entity/Q295830;Paul Claudel;1868;1955;87;33;Q295830;26790475;FALSE;NA;793;0.458333333333333;118969563;http://data.bnf.fr/ark:/12148/cb118969563#about;100;34;325;104
+7;http://www.wikidata.org/entity/Q151164;André Malraux;1901;1976;75;5;Q151164;02700483X;FALSE;NA;685;0.128205128205128;11914167k;http://data.bnf.fr/ark:/12148/cb11914167k#about;92;27;271;44
+8;http://www.wikidata.org/entity/Q151820;Louis-Ferdinand Céline;1894;1961;67;NA;Q151820;26774240;FALSE;NA;604;NA;11895729d;http://data.bnf.fr/ark:/12148/cb11895729d#about;38;5;130;12
+9;http://www.wikidata.org/entity/Q189564;Pierre Teilhard de Chardin;1881;1955;74;NA;Q189564;27156702;FALSE;NA;523;NA;11926160v;http://data.bnf.fr/ark:/12148/cb11926160v#about;99;15;131;16
+10;http://www.wikidata.org/entity/Q81685;François Mauriac;1885;1970;85;13;Q81685;27018741;TRUE;1933;495;0.236363636363636;11915247g;http://data.bnf.fr/ark:/12148/cb11915247g#about;29;10;133;25
+11;http://www.wikidata.org/entity/Q187166;Antonin Artaud;1896;1948;52;NA;Q187166;26692465;FALSE;NA;448;NA;118892409;http://data.bnf.fr/ark:/12148/cb118892409#about;27;10;45;11
+12;http://www.wikidata.org/entity/Q161955;André Breton;1896;1966;70;15;Q161955;26751852;FALSE;NA;410;0.340909090909091;118939509;http://data.bnf.fr/ark:/12148/cb118939509#about;83;31;169;45
+13;http://www.wikidata.org/entity/Q4128;Louis Aragon;1897;1982;85;5;Q4128;26689073;FALSE;NA;406;0.116279069767442;119347816;http://data.bnf.fr/ark:/12148/cb119347816#about;161;23;377;31
+14;http://www.wikidata.org/entity/Q207359;Georges Bataille;1897;1962;65;NA;Q207359;26649446;FALSE;NA;399;NA;11885715h;http://data.bnf.fr/ark:/12148/cb11885715h#about;54;6;110;6
+15;http://www.wikidata.org/entity/Q315072;Georges Bernanos;1888;1948;60;1;Q315072;27281388;FALSE;NA;397;0.0192307692307692;118914795;http://data.bnf.fr/ark:/12148/cb118914795#about;46;10;192;16
+16;http://www.wikidata.org/entity/Q160780;Henri Michaux;1899;1984;85;NA;Q160780;27027767;FALSE;NA;393;NA;119159582;http://data.bnf.fr/ark:/12148/cb119159582#about;101;13;165;14
+17;http://www.wikidata.org/entity/Q177411;Jean Giono;1895;1970;75;2;Q177411;26892286;FALSE;NA;391;0.0444444444444444;119050002;http://data.bnf.fr/ark:/12148/cb119050002#about;118;21;360;42
+18;http://www.wikidata.org/entity/Q163118;Marguerite Yourcenar;1903;1987;84;1;Q163118;27201694;FALSE;NA;348;0.027027027027027;11929535g;http://data.bnf.fr/ark:/12148/cb11929535g#about;45;10;97;15
+19;http://www.wikidata.org/entity/Q2908;Antoine de Saint-Exupéry;1900;1944;44;2;Q2908;27118266;FALSE;NA;340;0.05;11923342r;http://data.bnf.fr/ark:/12148/cb11923342r#about;62;6;232;9
+20;http://www.wikidata.org/entity/Q45723;Jacques Maritain;1882;1973;91;27;Q45723;27010562;FALSE;NA;320;0.46551724137931;119146209;http://data.bnf.fr/ark:/12148/cb119146209#about;114;42;178;52
+21;http://www.wikidata.org/entity/Q47162;Romain Rolland;1866;1944;78;35;Q47162;27106861;FALSE;NA;319;0.472972972972973;11922460q;http://data.bnf.fr/ark:/12148/cb11922460q#about;37;16;760;377
+22;http://www.wikidata.org/entity/Q315015;René Char;1907;1988;81;1;Q315015;26778912;FALSE;NA;314;0.0303030303030303;11896104n;http://data.bnf.fr/ark:/12148/cb11896104n#about;159;20;241;23
+23;http://www.wikidata.org/entity/Q270800;Gaston Bachelard;1884;1962;78;1;Q270800;26699710;FALSE;NA;299;0.0178571428571429;11889795z;http://data.bnf.fr/ark:/12148/cb11889795z#about;43;13;122;14
+24;http://www.wikidata.org/entity/Q309974;Jean Giraudoux;1882;1944;62;14;Q309974;26893177;FALSE;NA;298;0.241379310344828;119050769;http://data.bnf.fr/ark:/12148/cb119050769#about;143;85;434;172
+25;http://www.wikidata.org/entity/Q3048;Charles Maurras;1868;1952;84;46;Q3048;27019195;TRUE;1938;278;0.638888888888889;11915277d;http://data.bnf.fr/ark:/12148/cb11915277d#about;21;10;27;14
+26;http://www.wikidata.org/entity/Q123080;Blaise Cendrars;1887;1961;74;3;Q123080;26774348;FALSE;NA;263;0.0566037735849057;11895739q;http://data.bnf.fr/ark:/12148/cb11895739q#about;62;19;138;32
+27;http://www.wikidata.org/entity/Q152176;Paul Éluard;1895;1952;57;1;Q152176;26655195;FALSE;NA;214;0.0222222222222222;11886231m;http://data.bnf.fr/ark:/12148/cb11886231m#about;144;33;264;41
+28;http://www.wikidata.org/entity/Q379956;Henry de Montherlant;1895;1972;77;5;Q379956;27036197;FALSE;NA;208;0.111111111111111;119166574;http://data.bnf.fr/ark:/12148/cb119166574#about;128;49;340;91
+29;http://www.wikidata.org/entity/Q156214;Max Jacob;1876;1944;68;6;Q156214;26932644;FALSE;NA;207;0.09375;11908382s;http://data.bnf.fr/ark:/12148/cb11908382s#about;15;7;38;15
+30;http://www.wikidata.org/entity/Q470557;Jean Paulhan;1884;1968;84;1;Q470557;27060810;FALSE;NA;171;0.0178571428571429;11918814w;http://data.bnf.fr/ark:/12148/cb11918814w#about;84;8;122;13
+31;http://www.wikidata.org/entity/Q236630;Marcel Pagnol;1895;1974;79;1;Q236630;27055752;FALSE;NA;165;0.0222222222222222;119184123;http://data.bnf.fr/ark:/12148/cb119184123#about;51;10;134;13
+32;http://www.wikidata.org/entity/Q129155;Roger Martin du Gard;1881;1958;77;1;Q129155;27271803;FALSE;NA;159;0.0169491525423729;119147766;http://data.bnf.fr/ark:/12148/cb119147766#about;29;16;135;62
+33;http://www.wikidata.org/entity/Q154145;Gabriel Marcel;1889;1973;84;7;Q154145;27007561;FALSE;NA;158;0.137254901960784;119143941;http://data.bnf.fr/ark:/12148/cb119143941#about;78;22;103;28
+34;http://www.wikidata.org/entity/Q165274;Jacques Prévert;1900;1977;77;NA;Q165274;27082512;FALSE;NA;154;NA;119206049;http://data.bnf.fr/ark:/12148/cb119206049#about;98;5;219;6
+35;http://www.wikidata.org/entity/Q135640;Valery Larbaud;1881;1957;76;25;Q135640;26966107;FALSE;NA;141;0.423728813559322;11911085h;http://data.bnf.fr/ark:/12148/cb11911085h#about;84;40;144;67
+36;http://www.wikidata.org/entity/Q496850;René Guénon;1886;1951;65;NA;Q496850;26906120;FALSE;NA;136;NA;11906145j;http://data.bnf.fr/ark:/12148/cb11906145j#about;41;18;107;22
+37;http://www.wikidata.org/entity/Q440369;Maurice Denis;1870;1943;73;4;Q440369;29867002;FALSE;NA;128;0.0571428571428571;121402945;http://data.bnf.fr/ark:/12148/cb121402945#about;19;9;26;14
+38;http://www.wikidata.org/entity/Q1399264;Henri Bosco;1888;1976;88;NA;Q1399264;26740702;FALSE;NA;121;NA;118930457;http://data.bnf.fr/ark:/12148/cb118930457#about;36;8;123;11
+39;http://www.wikidata.org/entity/Q325974;Pierre Drieu La Rochelle;1893;1945;52;5;Q325974;26837471;FALSE;NA;120;0.106382978723404;119006177;http://data.bnf.fr/ark:/12148/cb119006177#about;46;19;90;24
+40;http://www.wikidata.org/entity/Q272;Paul Morand;1888;1976;88;26;Q272;27037002;FALSE;NA;111;0.5;11916728t;http://data.bnf.fr/ark:/12148/cb11916728t#about;126;69;249;113
+41;http://www.wikidata.org/entity/Q337276;Sacha Guitry;1885;1957;72;3;Q337276;27324206;FALSE;NA;111;0.0545454545454545;119065193;http://data.bnf.fr/ark:/12148/cb119065193#about;96;44;167;58
+42;http://www.wikidata.org/entity/Q379943;Pierre Jean Jouve;1887;1976;89;NA;Q379943;26941910;FALSE;NA;108;NA;119091338;http://data.bnf.fr/ark:/12148/cb119091338#about;79;39;201;71
+43;http://www.wikidata.org/entity/Q20733;Georges Duhamel;1884;1966;82;18;Q20733;26842181;TRUE;1935;106;0.321428571428571;11901017t;http://data.bnf.fr/ark:/12148/cb11901017t#about;144;76;335;144
+44;http://www.wikidata.org/entity/Q379931;Pierre Reverdy;1889;1960;71;1;Q379931;27096327;FALSE;NA;102;0.0196078431372549;11921653r;http://data.bnf.fr/ark:/12148/cb11921653r#about;29;11;46;13
+45;http://www.wikidata.org/entity/Q170095;Robert Desnos;1900;1945;45;3;Q170095;26827832;FALSE;NA;102;0.075;11899866v;http://data.bnf.fr/ark:/12148/cb11899866v#about;53;6;81;9
+46;http://www.wikidata.org/entity/Q334983;Jules Romains;1885;1972;87;4;Q334983;27107183;FALSE;NA;96;0.0727272727272727;13091632z;http://data.bnf.fr/ark:/12148/cb13091632z#about;151;71;295;113
+47;http://www.wikidata.org/entity/Q369758;Jacques Copeau;1879;1949;70;9;Q369758;30111641;FALSE;NA;91;0.147540983606557;11897602k;http://data.bnf.fr/ark:/12148/cb11897602k#about;8;5;9;6
+48;http://www.wikidata.org/entity/Q732569;Jules Supervielle;1884;1960;76;NA;Q732569;27151794;FALSE;NA;89;NA;119257592;http://data.bnf.fr/ark:/12148/cb119257592#about;59;26;115;40
+49;http://www.wikidata.org/entity/Q318026;Marcel Aymé;1902;1967;65;1;Q318026;26698544;FALSE;NA;87;0.0263157894736842;118897113;http://data.bnf.fr/ark:/12148/cb118897113#about;76;18;240;33
+50;http://www.wikidata.org/entity/Q561479;Marcel Jouhandeau;1888;1979;91;1;Q561479;26941198;FALSE;NA;83;0.0192307692307692;119090768;http://data.bnf.fr/ark:/12148/cb119090768#about;110;28;191;47
+51;http://www.wikidata.org/entity/Q224029;André Maurois;1885;1967;82;46;Q224029;27019098;TRUE;1938;80;0.836363636363636;119152700;http://data.bnf.fr/ark:/12148/cb119152700#about;29;7;47;13
+52;http://www.wikidata.org/entity/Q16409;Tristan Tzara;1896;1963;67;2;Q16409;27172058;FALSE;NA;80;0.0454545454545455;119273045;http://data.bnf.fr/ark:/12148/cb119273045#about;63;20;102;25
+53;http://www.wikidata.org/entity/Q1393434;Joë Bousquet;1897;1950;53;NA;Q1393434;27281833;FALSE;NA;78;NA;11893542k;http://data.bnf.fr/ark:/12148/cb11893542k#about;51;10;73;12
+54;http://www.wikidata.org/entity/Q430765;Roger Caillois;1913;1978;65;NA;Q430765;26762323;FALSE;NA;77;NA;11894811c;http://data.bnf.fr/ark:/12148/cb11894811c#about;67;5;127;7
+55;http://www.wikidata.org/entity/Q779953;Henri Pourrat;1887;1959;72;10;Q779953;27081257;FALSE;NA;76;0.188679245283019;119204847;http://data.bnf.fr/ark:/12148/cb119204847#about;107;38;226;51
+56;http://www.wikidata.org/entity/Q336467;Philippe Soupault;1897;1990;93;4;Q336467;02714500X;FALSE;NA;76;0.0930232558139535;11925251x;http://data.bnf.fr/ark:/12148/cb11925251x#about;12;2;20;8
+57;http://www.wikidata.org/entity/Q862935;Louis Guilloux;1899;1980;81;1;Q862935;26909820;FALSE;NA;75;0.024390243902439;11906466b;http://data.bnf.fr/ark:/12148/cb11906466b#about;30;6;68;11
+58;http://www.wikidata.org/entity/Q22750;Maurice Genevoix;1890;1980;90;4;Q22750;26887266;FALSE;NA;62;0.08;11904577s;http://data.bnf.fr/ark:/12148/cb11904577s#about;63;12;144;17
+59;http://www.wikidata.org/entity/Q1488;Robert Brasillach;1909;1945;36;NA;Q1488;26750139;FALSE;NA;60;NA;11893803h;http://data.bnf.fr/ark:/12148/cb11893803h#about;33;16;64;19
+60;http://www.wikidata.org/entity/Q817484;Benjamin Fondane;1898;1944;46;NA;Q817484;26868202;FALSE;NA;57;NA;11903030h;http://data.bnf.fr/ark:/12148/cb11903030h#about;31;6;39;6
+61;http://www.wikidata.org/entity/Q545423;Jacques Audiberti;1899;1965;66;NA;Q545423;26695553;FALSE;NA;56;NA;118894714;http://data.bnf.fr/ark:/12148/cb118894714#about;48;4;78;6
+62;http://www.wikidata.org/entity/Q723621;Paul Nizan;1905;1940;35;NA;Q723621;27048659;FALSE;NA;54;NA;11917755z;http://data.bnf.fr/ark:/12148/cb11917755z#about;13;7;49;16
+63;http://www.wikidata.org/entity/Q356537;Joseph Kessel;1898;1979;81;5;Q356537;26948540;FALSE;NA;53;0.119047619047619;13091504f;http://data.bnf.fr/ark:/12148/cb13091504f#about;66;34;182;49
+64;http://www.wikidata.org/entity/Q551550;Jean de La Varende;1887;1959;72;2;Q551550;26956802;FALSE;NA;53;0.0377358490566038;11910333v;http://data.bnf.fr/ark:/12148/cb11910333v#about;135;13;265;20
+65;http://www.wikidata.org/entity/Q949281;Jean-Richard Bloch;1884;1947;63;2;Q949281;26732947;FALSE;NA;51;0.0357142857142857;11892378s;http://data.bnf.fr/ark:/12148/cb11892378s#about;36;26;74;52
+66;http://www.wikidata.org/entity/Q518748;Jean Guéhenno;1890;1978;88;2;Q518748;26905949;FALSE;NA;50;0.04;11906130h;http://data.bnf.fr/ark:/12148/cb11906130h#about;34;8;57;12
+67;http://www.wikidata.org/entity/Q3184834;Joseph Delteil;1894;1978;84;1;Q3184834;26822415;FALSE;NA;50;0.0217391304347826;13091411f;http://data.bnf.fr/ark:/12148/cb13091411f#about;39;22;60;27
+68;http://www.wikidata.org/entity/Q274344;Édouard Herriot;1872;1957;85;83;Q274344;33451869;FALSE;NA;49;1.22058823529412;12431583w;http://data.bnf.fr/ark:/12148/cb12431583w#about;115;82;154;106
+69;http://www.wikidata.org/entity/Q711903;Albert Gleizes;1881;1953;72;NA;Q711903;26894327;FALSE;NA;49;NA;119051726;http://data.bnf.fr/ark:/12148/cb119051726#about;14;8;22;12
+70;http://www.wikidata.org/entity/Q546952;Pierre Mac Orlan;1882;1970;88;16;Q546952;27446506;FALSE;NA;48;0.275862068965517;118868438;http://data.bnf.fr/ark:/12148/cb118868438#about;183;98;350;134
+71;http://www.wikidata.org/entity/Q3172046;Jean Follain;1903;1971;68;NA;Q3172046;26867990;FALSE;NA;45;NA;119030117;http://data.bnf.fr/ark:/12148/cb119030117#about;44;6;62;7
+72;http://www.wikidata.org/entity/Q284769;Benjamin Péret;1899;1959;60;NA;Q284769;27064824;FALSE;NA;45;NA;11919121g;http://data.bnf.fr/ark:/12148/cb11919121g#about;46;17;67;22
+73;http://www.wikidata.org/entity/Q92562;Léon Daudet;1867;1942;75;16;Q92562;26812711;FALSE;NA;44;0.219178082191781;11898724d;http://data.bnf.fr/ark:/12148/cb11898724d#about;8;6;19;17
+74;http://www.wikidata.org/entity/Q551767;Pierre Benoît;1886;1962;76;8;Q551767;27684776;TRUE;1931;44;0.148148148148148;12004594z;http://data.bnf.fr/ark:/12148/cb12004594z#about;46;25;106;44
+75;http://www.wikidata.org/entity/Q456968;Jean Epstein;1897;1953;56;NA;Q456968;26851946;FALSE;NA;43;NA;13511300q;http://data.bnf.fr/ark:/12148/cb13511300q#about;15;11;25;17
+76;http://www.wikidata.org/entity/Q599801;Léon-Paul Fargue;1876;1947;71;4;Q599801;27685829;FALSE;NA;41;0.0625;11902269v;http://data.bnf.fr/ark:/12148/cb11902269v#about;15;5;25;9
+77;http://www.wikidata.org/entity/Q965990;Jean Cassou;1897;1986;89;21;Q965990;26771047;FALSE;NA;38;0.488372093023256;118954554;http://data.bnf.fr/ark:/12148/cb118954554#about;99;33;147;51
+78;http://www.wikidata.org/entity/Q25320;Paul Langevin;1872;1946;74;15;Q25320;31630510;FALSE;NA;38;0.220588235294118;122809107;http://data.bnf.fr/ark:/12148/cb122809107#about;24;18;37;29
+79;http://www.wikidata.org/entity/Q548860;Michel Seuphor;1901;1999;98;NA;Q548860;02713394X;FALSE;NA;36;NA;11924555w;http://data.bnf.fr/ark:/12148/cb11924555w#about;97;10;109;12
+80;http://www.wikidata.org/entity/Q287953;Jean Rostand;1894;1977;83;3;Q287953;27109887;FALSE;NA;35;0.0652173913043478;119226890;http://data.bnf.fr/ark:/12148/cb119226890#about;88;27;139;38
+81;http://www.wikidata.org/entity/Q951066;Léon Brunschvicg;1869;1944;75;13;Q951066;26757400;FALSE;NA;35;0.183098591549296;13091373q;http://data.bnf.fr/ark:/12148/cb13091373q#about;39;28;59;35
+82;http://www.wikidata.org/entity/Q360420;Serge Lifar;1905;1986;81;1;Q360420;26990199;FALSE;NA;33;0.0285714285714286;11913014g;http://data.bnf.fr/ark:/12148/cb11913014g#about;57;12;79;13
+83;http://www.wikidata.org/entity/Q1132720;Gaston Baty;1885;1952;67;NA;Q1132720;26709368;FALSE;NA;32;NA;11890563t;http://data.bnf.fr/ark:/12148/cb11890563t#about;25;11;41;17
+84;http://www.wikidata.org/entity/Q517743;André Chamson;1900;1983;83;NA;Q517743;26777541;FALSE;NA;32;NA;11896001b;http://data.bnf.fr/ark:/12148/cb11896001b#about;61;17;103;31
+85;http://www.wikidata.org/entity/Q699397;Jean Cayrol;1911;2005;94;NA;Q699397;26773384;FALSE;NA;32;NA;11895650z;http://data.bnf.fr/ark:/12148/cb11895650z#about;48;5;68;6
+86;http://www.wikidata.org/entity/Q2558435;Henry Bordeaux;1870;1963;93;56;Q2558435;26739399;TRUE;1919;31;0.8;11892936h;http://data.bnf.fr/ark:/12148/cb11892936h#about;29;20;42;31
+87;http://www.wikidata.org/entity/Q3369064;Patrice de La Tour du Pin;1911;1975;64;NA;Q3369064;26661098;FALSE;NA;31;NA;11886729f;http://data.bnf.fr/ark:/12148/cb11886729f#about;24;5;38;7
+88;http://www.wikidata.org/entity/Q666551;Alfred Baudrillart;1859;1942;83;133;Q666551;29752604;TRUE;1918;30;1.64197530864198;121308651;http://data.bnf.fr/ark:/12148/cb121308651#about;13;12;24;23
+89;http://www.wikidata.org/entity/Q577548;Jean Prévost;1901;1944;43;3;Q577548;27082601;FALSE;NA;29;0.0769230769230769;119206138;http://data.bnf.fr/ark:/12148/cb119206138#about;40;27;70;36
+90;http://www.wikidata.org/entity/Q59076;Marcel Arland;1899;1986;87;1;Q59076;26690349;FALSE;NA;29;0.024390243902439;118890920;http://data.bnf.fr/ark:/12148/cb118890920#about;53;17;93;23
+91;http://www.wikidata.org/entity/Q699401;Jacques Chardonne;1884;1968;84;NA;Q699401;26652277;FALSE;NA;29;NA;118859706;http://data.bnf.fr/ark:/12148/cb118859706#about;34;12;108;28
+92;http://www.wikidata.org/entity/Q867202;Armand Salacrou;1899;1989;90;NA;Q867202;27119467;FALSE;NA;28;NA;119234332;http://data.bnf.fr/ark:/12148/cb119234332#about;39;12;52;12
+93;http://www.wikidata.org/entity/Q314498;Konstantin Balmont;1867;1942;75;2;Q314498;64815862;FALSE;NA;25;0.0273972602739726;12163571g;http://data.bnf.fr/ark:/12148/cb12163571g#about;5;4;9;6
+94;http://www.wikidata.org/entity/Q115472;Princess Marie Bonaparte;1882;1962;80;1;Q115472;26737078;FALSE;NA;23;0.0172413793103448;118927108;http://data.bnf.fr/ark:/12148/cb118927108#about;29;11;37;12
+95;http://www.wikidata.org/entity/Q510114;Francis Carco;1886;1958;72;8;Q510114;26651483;FALSE;NA;22;0.148148148148148;11885901c;http://data.bnf.fr/ark:/12148/cb11885901c#about;130;96;262;156
+96;http://www.wikidata.org/entity/Q1338209;Emmanuel Bove;1898;1945;47;NA;Q1338209;02674824X;FALSE;NA;22;NA;13091366f;http://data.bnf.fr/ark:/12148/cb13091366f#about;35;25;93;39
+97;http://www.wikidata.org/entity/Q683230;Thierry Maulnier;1909;1988;79;1;Q683230;27018393;FALSE;NA;22;0.032258064516129;119152197;http://data.bnf.fr/ark:/12148/cb119152197#about;43;9;61;16
+98;http://www.wikidata.org/entity/Q508473;Maurice Sachs;1906;1945;39;NA;Q508473;27116751;FALSE;NA;22;NA;13091646n;http://data.bnf.fr/ark:/12148/cb13091646n#about;16;6;32;6
+99;http://www.wikidata.org/entity/Q3588553;Emile Guillaumin;1873;1951;78;2;Q3588553;26908832;FALSE;NA;21;0.0298507462686567;119063709;http://data.bnf.fr/ark:/12148/cb119063709#about;4;3;16;7
+100;http://www.wikidata.org/entity/Q725605;Marcel Brion;1895;1984;89;NA;Q725605;26753227;FALSE;NA;20;NA;11894054f;http://data.bnf.fr/ark:/12148/cb11894054f#about;96;18;166;23
+101;http://www.wikidata.org/entity/Q537014;Jacques de Lacretelle;1888;1985;97;6;Q537014;26959062;TRUE;1936;20;0.115384615384615;11910530c;http://data.bnf.fr/ark:/12148/cb11910530c#about;65;29;113;58
+102;http://www.wikidata.org/entity/Q3057186;Ernest Seillière;1866;1955;89;5;Q3057186;33793115;FALSE;NA;20;0.0675675675675676;12461986n;http://data.bnf.fr/ark:/12148/cb12461986n#about;92;76;103;85
+103;http://www.wikidata.org/entity/Q809732;Roger Vitrac;1899;1952;53;NA;Q809732;27188566;FALSE;NA;20;NA;119285655;http://data.bnf.fr/ark:/12148/cb119285655#about;15;8;26;11
+104;http://www.wikidata.org/entity/Q828641;Bertrand de Jouvenel;1903;1987;84;NA;Q828641;26942011;FALSE;NA;19;NA;11909141w;http://data.bnf.fr/ark:/12148/cb11909141w#about;34;9;51;11
+105;http://www.wikidata.org/entity/Q1393036;Roland Dorgelès;1885;1973;88;7;Q1393036;26835231;FALSE;NA;18;0.127272727272727;11900436z;http://data.bnf.fr/ark:/12148/cb11900436z#about;47;23;99;39
+106;http://www.wikidata.org/entity/Q733197;René Huyghe;1906;1997;91;8;Q733197;26929325;FALSE;NA;18;0.235294117647059;119081153;http://data.bnf.fr/ark:/12148/cb119081153#about;78;14;88;16
+107;http://www.wikidata.org/entity/Q465156;Daniel Guérin;1904;1988;84;NA;Q465156;26906384;FALSE;NA;18;NA;11906166h;http://data.bnf.fr/ark:/12148/cb11906166h#about;68;7;80;8
+108;http://www.wikidata.org/entity/Q1605686;Henri-Pierre Roché;1879;1959;80;NA;Q1605686;30117801;FALSE;NA;18;NA;119222965;http://data.bnf.fr/ark:/12148/cb119222965#about;8;4;19;7
+109;http://www.wikidata.org/entity/Q379949;Tristan Bernard;1866;1947;81;13;Q379949;26722445;FALSE;NA;17;0.175675675675676;11891535t;http://data.bnf.fr/ark:/12148/cb11891535t#about;16;13;17;14
+110;http://www.wikidata.org/entity/Q3184426;Joseph-Sébastien Pons;1886;1962;76;4;Q3184426;28632915;FALSE;NA;17;0.0740740740740741;12039873n;http://data.bnf.fr/ark:/12148/cb12039873n#about;17;7;19;8
+111;http://www.wikidata.org/entity/Q2706190;Raoul Follereau;1903;1977;74;2;Q2706190;26868008;FALSE;NA;17;0.0540540540540541;11903012k;http://data.bnf.fr/ark:/12148/cb11903012k#about;24;8;32;9
+112;http://www.wikidata.org/entity/Q3288750;Marcel Béalu;1908;1993;85;NA;Q3288750;26711672;FALSE;NA;17;NA;11890743r;http://data.bnf.fr/ark:/12148/cb11890743r#about;44;6;60;7
+113;http://www.wikidata.org/entity/Q968716;Roparz Hemon;1900;1978;78;NA;Q968716;26918528;FALSE;NA;17;NA;11907213f;http://data.bnf.fr/ark:/12148/cb11907213f#about;45;8;68;9
+114;http://www.wikidata.org/entity/Q517508;François Albert-Buisson;1881;1961;80;5;Q517508;33973490;FALSE;NA;17;0.0847457627118644;12477608p;http://data.bnf.fr/ark:/12148/cb12477608p#about;23;12;26;12
+115;http://www.wikidata.org/entity/Q3093739;Gabriel Faure;1877;1962;85;1;Q3093739;29472342;FALSE;NA;16;0.0158730158730159;121092788;http://data.bnf.fr/ark:/12148/cb121092788#about;6;6;8;8
+116;http://www.wikidata.org/entity/Q3087923;Tristan Derème;1889;1941;52;5;Q3087923;28276736;FALSE;NA;16;0.0980392156862745;120146050;http://data.bnf.fr/ark:/12148/cb120146050#about;56;47;77;62
+117;http://www.wikidata.org/entity/Q522679;André Salmon;1881;1969;88;5;Q522679;27120309;FALSE;NA;16;0.0847457627118644;11923498n;http://data.bnf.fr/ark:/12148/cb11923498n#about;92;67;131;81
+118;http://www.wikidata.org/entity/Q373251;Alphonse de Châteaubriant;1877;1951;74;3;Q373251;26782030;FALSE;NA;16;0.0476190476190476;13091385q;http://data.bnf.fr/ark:/12148/cb13091385q#about;41;24;86;42
+119;http://www.wikidata.org/entity/Q544531;Germain Bazin;1901;1990;89;NA;Q544531;26711486;FALSE;NA;16;NA;11890728v;http://data.bnf.fr/ark:/12148/cb11890728v#about;77;12;94;12
+120;http://www.wikidata.org/entity/Q561724;Paul Fort;1872;1960;88;9;Q561724;26869810;FALSE;NA;15;0.132352941176471;11903157t;http://data.bnf.fr/ark:/12148/cb11903157t#about;18;13;20;13
+121;http://www.wikidata.org/entity/Q640352;Henri Béraud;1885;1958;73;3;Q640352;26719592;FALSE;NA;15;0.0545454545454545;11891330j;http://data.bnf.fr/ark:/12148/cb11891330j#about;50;40;87;53
+122;http://www.wikidata.org/entity/Q706785;Edmond Jaloux;1878;1949;71;35;Q706785;26934493;TRUE;1936;14;0.564516129032258;11908532s;http://data.bnf.fr/ark:/12148/cb11908532s#about;12;8;12;8
+123;http://www.wikidata.org/entity/Q998913;Maurice Garçon;1889;1967;78;6;Q998913;34458115;FALSE;NA;14;0.117647058823529;12521234t;http://data.bnf.fr/ark:/12148/cb12521234t#about;65;25;91;31
+124;http://www.wikidata.org/entity/Q314990;Marcel Achard;1899;1974;75;NA;Q314990;27210014;FALSE;NA;14;NA;11930175n;http://data.bnf.fr/ark:/12148/cb11930175n#about;50;13;74;14
+125;http://www.wikidata.org/entity/Q648241;Maxence Van Der Meersch;1907;1951;44;1;Q648241;27175995;FALSE;NA;14;0.0303030303030303;119275757;http://data.bnf.fr/ark:/12148/cb119275757#about;36;6;112;8
+126;http://www.wikidata.org/entity/Q686138;Alfred Fabre-Luce;1899;1983;84;NA;Q686138;02665556X;FALSE;NA;14;NA;118862637;http://data.bnf.fr/ark:/12148/cb118862637#about;78;18;98;21
+127;http://www.wikidata.org/entity/Q982019;Gilbert Lely;1904;1985;81;NA;Q982019;02698167X;FALSE;NA;14;NA;11912318f;http://data.bnf.fr/ark:/12148/cb11912318f#about;19;9;32;11
+128;http://www.wikidata.org/entity/Q3385446;Pierre Herbart;1903;1974;71;NA;Q3385446;33052034;FALSE;NA;14;NA;13163572z;http://data.bnf.fr/ark:/12148/cb13163572z#about;14;4;33;7
+129;http://www.wikidata.org/entity/Q260458;Marc Boegner;1881;1970;89;5;Q260458;28871618;FALSE;NA;14;0.0847457627118644;11892521c;http://data.bnf.fr/ark:/12148/cb11892521c#about;33;12;33;12
+130;http://www.wikidata.org/entity/Q2341186;Claude Farrère;1876;1957;81;34;Q2341186;26655667;TRUE;1935;13;0.53125;118862726;http://data.bnf.fr/ark:/12148/cb118862726#about;18;13;24;18
+131;http://www.wikidata.org/entity/Q3569554;Wladimir d'Ormesson;1888;1973;85;7;Q3569554;27053652;FALSE;NA;13;0.134615384615385;130915889;http://data.bnf.fr/ark:/12148/cb130915889#about;47;22;52;25
+132;http://www.wikidata.org/entity/Q12353689;Paul Vigné d'Octon;1859;1943;84;3;Q12353689;32784767;FALSE;NA;13;0.037037037037037;12374653m;http://data.bnf.fr/ark:/12148/cb12374653m#about;43;41;57;54
+133;http://www.wikidata.org/entity/Q1393354;Georges Ribemont-Dessaignes;1884;1974;90;2;Q1393354;26669196;FALSE;NA;13;0.0357142857142857;118873852;http://data.bnf.fr/ark:/12148/cb118873852#about;38;12;57;17
+134;http://www.wikidata.org/entity/Q679016;Henri Decoin;1890;1969;79;NA;Q679016;15085174X;FALSE;NA;13;NA;121303331;http://data.bnf.fr/ark:/12148/cb121303331#about;8;5;9;6
+135;http://www.wikidata.org/entity/Q3265472;Lucien Descaves;1861;1949;88;39;Q3265472;26826577;FALSE;NA;12;0.493670886075949;11899778k;http://data.bnf.fr/ark:/12148/cb11899778k#about;15;12;23;15
+136;http://www.wikidata.org/entity/Q945057;Henri Lavedan;1859;1940;81;19;Q945057;34039600;TRUE;1898;12;0.234567901234568;124836125;http://data.bnf.fr/ark:/12148/cb124836125#about;133;124;199;176
+137;http://www.wikidata.org/entity/Q3132362;Henri de Rothschild;1872;1947;75;NA;Q3132362;30095999;FALSE;NA;12;NA;121580713;http://data.bnf.fr/ark:/12148/cb121580713#about;98;90;114;106
+138;http://www.wikidata.org/entity/Q3496669;Stanislas Fumet;1896;1983;87;NA;Q3496669;26876795;FALSE;NA;12;NA;11903737v;http://data.bnf.fr/ark:/12148/cb11903737v#about;34;9;40;11
+139;http://www.wikidata.org/entity/Q3435200;Robert Garric;1896;1967;71;2;Q3435200;30265932;FALSE;NA;12;0.0454545454545455;12171867s;http://data.bnf.fr/ark:/12148/cb12171867s#about;13;8;15;9
+140;http://www.wikidata.org/entity/Q71447;Claire Goll;1890;1977;87;NA;Q71447;02689632X;FALSE;NA;12;NA;119053377;http://data.bnf.fr/ark:/12148/cb119053377#about;40;9;44;10
+141;http://www.wikidata.org/entity/Q1913872;Maxime Alexandre;1899;1976;77;NA;Q1913872;02668151X;FALSE;NA;12;NA;11888400c;http://data.bnf.fr/ark:/12148/cb11888400c#about;20;6;24;7
+142;http://www.wikidata.org/entity/Q662931;Camille Mauclair;1872;1945;73;21;Q662931;27018008;FALSE;NA;11;0.308823529411765;11915191p;http://data.bnf.fr/ark:/12148/cb11915191p#about;13;11;13;11
+143;http://www.wikidata.org/entity/Q318440;Abel Hermant;1861;1950;89;3;Q318440;29236592;TRUE;1927;11;0.0379746835443038;120904879;http://data.bnf.fr/ark:/12148/cb120904879#about;21;20;24;22
+144;http://www.wikidata.org/entity/Q2616465;Victor Margueritte;1866;1942;76;25;Q2616465;27009246;FALSE;NA;11;0.337837837837838;11914524d;http://data.bnf.fr/ark:/12148/cb11914524d#about;5;5;23;14
+145;http://www.wikidata.org/entity/Q732725;Charles Vildrac;1882;1971;89;2;Q732725;27185680;FALSE;NA;11;0.0344827586206897;11928351x;http://data.bnf.fr/ark:/12148/cb11928351x#about;59;30;107;50
+146;http://www.wikidata.org/entity/Q3292642;Marie Le Franc;1879;1964;85;NA;Q3292642;30035791;FALSE;NA;11;NA;121533811;http://data.bnf.fr/ark:/12148/cb121533811#about;27;17;38;18
+147;http://www.wikidata.org/entity/Q3300411;Maurice Betz;1898;1946;48;1;Q3300411;26726521;FALSE;NA;11;0.0238095238095238;11891860v;http://data.bnf.fr/ark:/12148/cb11891860v#about;16;10;21;12
+148;http://www.wikidata.org/entity/Q2847777;André Fraigneau;1905;1991;86;1;Q2847777;26871912;FALSE;NA;11;0.0285714285714286;119033441;http://data.bnf.fr/ark:/12148/cb119033441#about;36;6;46;8
+149;http://www.wikidata.org/entity/Q18115605;Gabriel Mourey;1865;1943;78;4;Q18115605;56745729;FALSE;NA;11;0.0533333333333333;133332151;http://data.bnf.fr/ark:/12148/cb133332151#about;59;55;71;67
+150;http://www.wikidata.org/entity/Q3265556;Lucien Jacques;1891;1961;70;NA;Q3265556;02693342X;FALSE;NA;11;NA;11908445v;http://data.bnf.fr/ark:/12148/cb11908445v#about;17;9;19;10
+151;http://www.wikidata.org/entity/Q681776;Pierre-Henri Simon;1903;1972;69;NA;Q681776;27139204;FALSE;NA;11;NA;119248442;http://data.bnf.fr/ark:/12148/cb119248442#about;47;7;74;8
+152;http://www.wikidata.org/entity/Q3292905;Marie de Heredia;1875;1963;88;11;Q3292905;02946305X;FALSE;NA;11;0.169230769230769;121085180;http://data.bnf.fr/ark:/12148/cb121085180#about;6;6;9;8
+153;http://www.wikidata.org/entity/Q297770;Marthe Bibesco;1886;1973;87;2;Q297770;28171330;FALSE;NA;11;0.037037037037037;130919423;http://data.bnf.fr/ark:/12148/cb130919423#about;39;24;57;34
+154;http://www.wikidata.org/entity/Q318391;Abel Bonnard;1883;1968;85;16;Q318391;28479653;TRUE;1932;10;0.280701754385965;120307109;http://data.bnf.fr/ark:/12148/cb120307109#about;43;34;59;40
+155;http://www.wikidata.org/entity/Q1251496;Charles Maurice Donnay;1859;1945;86;7;Q1251496;33149909;TRUE;1907;10;0.0864197530864197;12404587c;http://data.bnf.fr/ark:/12148/cb12404587c#about;132;117;192;154
+156;http://www.wikidata.org/entity/Q3131604;Henri Massis;1886;1970;84;8;Q3131604;28438922;FALSE;NA;10;0.148148148148148;12027398x;http://data.bnf.fr/ark:/12148/cb12027398x#about;47;27;57;31
+157;http://www.wikidata.org/entity/Q817441;Benjamin Crémieux;1888;1944;56;5;Q817441;35759763;FALSE;NA;10;0.0961538461538462;13488390g;http://data.bnf.fr/ark:/12148/cb13488390g#about;25;23;31;28
+158;http://www.wikidata.org/entity/Q716823;Léon Bérard;1876;1960;84;10;Q716823;29560284;TRUE;1934;10;0.15625;12903149b;http://data.bnf.fr/ark:/12148/cb12903149b#about;17;13;19;15
+159;http://www.wikidata.org/entity/Q3289218;Marcel Martinet;1887;1944;57;5;Q3289218;27013839;FALSE;NA;10;0.0943396226415094;119148723;http://data.bnf.fr/ark:/12148/cb119148723#about;22;12;31;18
+160;http://www.wikidata.org/entity/Q3167016;Jean-Louis Vaudoyer;1883;1963;80;18;Q3167016;33119406;FALSE;NA;10;0.315789473684211;124017876;http://data.bnf.fr/ark:/12148/cb124017876#about;12;5;15;6
+161;http://www.wikidata.org/entity/Q2164102;Maurice Paléologue;1859;1944;85;6;Q2164102;03439530X;TRUE;1928;10;0.0740740740740741;12515516g;http://data.bnf.fr/ark:/12148/cb12515516g#about;32;27;44;37
+162;http://www.wikidata.org/entity/Q1454330;Maurice Rat;1891;1969;78;2;Q1454330;33540500;FALSE;NA;10;0.0408163265306122;124398155;http://data.bnf.fr/ark:/12148/cb124398155#about;53;15;91;18
+163;http://www.wikidata.org/entity/Q845559;Jean Mistler;1897;1988;91;NA;Q845559;02703206X;FALSE;NA;10;NA;11916300b;http://data.bnf.fr/ark:/12148/cb11916300b#about;62;12;68;12
+164;http://www.wikidata.org/entity/Q2898000;Bernard Groethuysen;1880;1946;66;4;Q2898000;02690392X;FALSE;NA;10;0.0666666666666667;119059685;http://data.bnf.fr/ark:/12148/cb119059685#about;14;5;20;6
+165;http://www.wikidata.org/entity/Q3372766;Pauline de Broglie;1888;1972;84;3;Q3372766;27056902;FALSE;NA;10;0.0576923076923077;13091589n;http://data.bnf.fr/ark:/12148/cb13091589n#about;24;12;37;17
+166;http://www.wikidata.org/entity/Q3121976;Guy Lévis Mano;1904;1980;76;NA;Q3121976;26661683;FALSE;NA;10;NA;11886776z;http://data.bnf.fr/ark:/12148/cb11886776z#about;28;13;47;25
+167;http://www.wikidata.org/entity/Q3372320;Paul Tuffrau;1887;1973;86;NA;Q3372320;28599314;FALSE;NA;10;NA;126939654;http://data.bnf.fr/ark:/12148/cb126939654#about;20;11;37;15
+168;http://www.wikidata.org/entity/Q2383344;Armand Godoy;1880;1964;84;1;Q2383344;26895374;FALSE;NA;9;0.0166666666666667;11905258x;http://data.bnf.fr/ark:/12148/cb11905258x#about;45;31;76;53
+169;http://www.wikidata.org/entity/Q3093602;Gabriel Audisio;1900;1978;78;NA;Q3093602;26695707;FALSE;NA;9;NA;118894834;http://data.bnf.fr/ark:/12148/cb118894834#about;37;15;44;15
+170;http://www.wikidata.org/entity/Q1911356;Maurice Levaillant;1883;1961;78;7;Q1911356;26987384;FALSE;NA;9;0.12280701754386;119127652;http://data.bnf.fr/ark:/12148/cb119127652#about;34;24;46;34
+171;http://www.wikidata.org/entity/Q2978077;Claude Roger-Marx;1888;1977;89;5;Q2978077;27105997;FALSE;NA;9;0.0961538461538462;11922388t;http://data.bnf.fr/ark:/12148/cb11922388t#about;101;40;127;54
+172;http://www.wikidata.org/entity/Q713011;Henri Bernstein;1876;1953;77;NA;Q713011;29497280;FALSE;NA;9;NA;12242728d;http://data.bnf.fr/ark:/12148/cb12242728d#about;63;53;91;72
+173;http://www.wikidata.org/entity/Q3042797;Joseph Malègue;1876;1940;64;NA;Q3042797;30524407;FALSE;NA;9;NA;12192194d;http://data.bnf.fr/ark:/12148/cb12192194d#about;8;5;13;8
+174;http://www.wikidata.org/entity/Q775364;Henri-René Lenormand;1882;1951;69;4;Q775364;33241694;FALSE;NA;9;0.0689655172413793;12412804d;http://data.bnf.fr/ark:/12148/cb12412804d#about;50;38;68;48
+175;http://www.wikidata.org/entity/Q326138;Marcel Prévost;1862;1941;79;21;Q326138;28023218;TRUE;1909;8;0.269230769230769;11994223w;http://data.bnf.fr/ark:/12148/cb11994223w#about;15;15;43;40
+176;http://www.wikidata.org/entity/Q285992;Émile Henriot;1889;1961;72;12;Q285992;26919125;FALSE;NA;8;0.235294117647059;11907264b;http://data.bnf.fr/ark:/12148/cb11907264b#about;129;80;158;95
+177;http://www.wikidata.org/entity/Q3081769;Francis de Miomandre;1880;1959;79;7;Q3081769;27031330;FALSE;NA;8;0.116666666666667;119162393;http://data.bnf.fr/ark:/12148/cb119162393#about;92;70;122;85
+178;http://www.wikidata.org/entity/Q945624;Fernand Gregh;1873;1960;87;7;Q945624;30394732;FALSE;NA;8;0.104477611940299;121817682;http://data.bnf.fr/ark:/12148/cb121817682#about;50;32;63;43
+179;http://www.wikidata.org/entity/Q2847274;André Berry;1902;1986;84;NA;Q2847274;26723441;FALSE;NA;8;NA;118916175;http://data.bnf.fr/ark:/12148/cb118916175#about;30;7;33;8
+180;http://www.wikidata.org/entity/Q2211070;Ramon Fernandez;1894;1944;50;8;Q2211070;26862255;FALSE;NA;8;0.173913043478261;11902581j;http://data.bnf.fr/ark:/12148/cb11902581j#about;28;15;35;17
+181;http://www.wikidata.org/entity/Q55771123;Georges Mongredien;1901;1980;79;3;Q55771123;02703450X;FALSE;NA;8;0.0769230769230769;11916503x;http://data.bnf.fr/ark:/12148/cb11916503x#about;49;27;58;28
+182;http://www.wikidata.org/entity/Q984530;Robert Aron;1898;1975;77;1;Q984530;26691841;FALSE;NA;8;0.0238095238095238;11889202r;http://data.bnf.fr/ark:/12148/cb11889202r#about;36;6;61;6
+183;http://www.wikidata.org/entity/Q3290687;Marguerite Burnat-Provins;1872;1952;80;NA;Q3290687;34274561;FALSE;NA;8;NA;12737375p;http://data.bnf.fr/ark:/12148/cb12737375p#about;25;18;29;20
+184;http://www.wikidata.org/entity/Q2121130;Simin Palay;1874;1965;91;1;Q2121130;32332343;FALSE;NA;8;0.0151515151515152;123382420;http://data.bnf.fr/ark:/12148/cb123382420#about;36;21;41;21
+185;http://www.wikidata.org/entity/Q659294;Henri Pollès;1909;1994;85;NA;Q659294;27077918;FALSE;NA;8;NA;11920184d;http://data.bnf.fr/ark:/12148/cb11920184d#about;20;8;22;8
+186;http://www.wikidata.org/entity/Q481146;Pascal Pia;1903;1979;76;1;Q481146;27071162;FALSE;NA;8;0.027027027027027;11919612w;http://data.bnf.fr/ark:/12148/cb11919612w#about;23;9;26;9
+187;http://www.wikidata.org/entity/Q3122266;Guy de Larigaudie;1908;1940;32;NA;Q3122266;26966379;FALSE;NA;8;NA;11911106n;http://data.bnf.fr/ark:/12148/cb11911106n#about;16;8;31;8
+188;http://www.wikidata.org/entity/Q291260;Évariste Lévi-Provençal;1894;1956;62;NA;Q291260;31692826;FALSE;NA;8;NA;122859751;http://data.bnf.fr/ark:/12148/cb122859751#about;48;24;55;25
+189;http://www.wikidata.org/entity/Q3173119;Jean Lebrau;1891;1983;92;4;Q3173119;26976099;FALSE;NA;7;0.0816326530612245;11911897q;http://data.bnf.fr/ark:/12148/cb11911897q#about;44;18;54;22
+190;http://www.wikidata.org/entity/Q3287816;Marc Bernard;1900;1983;83;NA;Q3287816;27903745;FALSE;NA;7;NA;11984554s;http://data.bnf.fr/ark:/12148/cb11984554s#about;30;7;45;7
+191;http://www.wikidata.org/entity/Q2300830;Édouard Bourdet;1887;1945;58;1;Q2300830;32367686;FALSE;NA;7;0.0188679245283019;12341087x;http://data.bnf.fr/ark:/12148/cb12341087x#about;19;14;50;31
+192;http://www.wikidata.org/entity/Q3370831;Paul Cazin;1881;1963;82;1;Q3370831;26773864;FALSE;NA;7;0.0169491525423729;118956968;http://data.bnf.fr/ark:/12148/cb118956968#about;17;5;21;7
+193;http://www.wikidata.org/entity/Q2861926;Armand Lunel;1892;1977;85;NA;Q2861926;26998025;FALSE;NA;7;NA;11913633d;http://data.bnf.fr/ark:/12148/cb11913633d#about;25;11;38;16
+194;http://www.wikidata.org/entity/Q12948848;Philadelphe de Gerde;1871;1952;81;4;Q12948848;30882737;FALSE;NA;7;0.0579710144927536;12220961w;http://data.bnf.fr/ark:/12148/cb12220961w#about;15;13;16;14
+195;http://www.wikidata.org/entity/Q971735;Marcel Allain;1885;1969;84;NA;Q971735;26682141;FALSE;NA;7;NA;11888461k;http://data.bnf.fr/ark:/12148/cb11888461k#about;74;38;101;48
+196;http://www.wikidata.org/entity/Q273338;Valentine de Saint-Point;1875;1953;78;NA;Q273338;30669014;FALSE;NA;7;NA;12203963w;http://data.bnf.fr/ark:/12148/cb12203963w#about;9;7;10;8
+197;http://www.wikidata.org/entity/Q1368557;Vladimir Solomonovich Pozner;1905;1992;87;NA;Q1368557;27081613;FALSE;NA;7;NA;119205192;http://data.bnf.fr/ark:/12148/cb119205192#about;28;10;44;14
+198;http://www.wikidata.org/entity/Q980799;Antoine de Lévis Mirepoix;1884;1981;97;NA;Q980799;26988186;FALSE;NA;7;NA;11912827s;http://data.bnf.fr/ark:/12148/cb11912827s#about;54;17;84;23
+199;http://www.wikidata.org/entity/Q2386365;Juda Tchernoff;1872;1950;78;NA;Q2386365;32586531;FALSE;NA;7;NA;123588035;http://data.bnf.fr/ark:/12148/cb123588035#about;24;23;26;25
+200;http://www.wikidata.org/entity/Q3372390;Paul Voivenel;1880;1975;95;3;Q3372390;27189775;FALSE;NA;6;0.05;11928647h;http://data.bnf.fr/ark:/12148/cb11928647h#about;33;18;38;20
+201;http://www.wikidata.org/entity/Q541308;Georges Lecomte;1867;1958;91;22;Q541308;50631659;TRUE;1924;6;0.301369863013699;12728225w;http://data.bnf.fr/ark:/12148/cb12728225w#about;108;79;128;97
+202;http://www.wikidata.org/entity/Q3420837;Raymond Escholier;1882;1971;89;8;Q3420837;03349651X;FALSE;NA;6;0.137931034482759;124357404;http://data.bnf.fr/ark:/12148/cb124357404#about;73;54;114;84
+203;http://www.wikidata.org/entity/Q3103347;Georges Pillement;1898;1984;86;1;Q3103347;31849830;FALSE;NA;6;0.0238095238095238;12298854q;http://data.bnf.fr/ark:/12148/cb12298854q#about;75;16;104;19
+204;http://www.wikidata.org/entity/Q15407608;Louis Perceau;1883;1942;59;6;Q15407608;29416914;FALSE;NA;6;0.105263157894737;121049211;http://data.bnf.fr/ark:/12148/cb121049211#about;23;13;29;16
+205;http://www.wikidata.org/entity/Q2848983;Andrée Viollis;1870;1950;80;NA;Q2848983;33580952;FALSE;NA;6;NA;127320520;http://data.bnf.fr/ark:/12148/cb127320520#about;22;17;30;24
+206;http://www.wikidata.org/entity/Q3300796;Maurice Fombeure;1906;1981;75;1;Q3300796;02686813X;FALSE;NA;6;0.0294117647058824;119030237;http://data.bnf.fr/ark:/12148/cb119030237#about;37;8;52;11
+207;http://www.wikidata.org/entity/Q3455763;Régis Messac;1893;1945;52;NA;Q3455763;28339207;FALSE;NA;6;NA;120194943;http://data.bnf.fr/ark:/12148/cb120194943#about;23;7;35;10
+208;http://www.wikidata.org/entity/Q2848875;André de Richaud;1907;1968;61;NA;Q2848875;27099199;FALSE;NA;6;NA;11921888z;http://data.bnf.fr/ark:/12148/cb11921888z#about;23;11;55;12
+209;http://www.wikidata.org/entity/Q3300600;Maurice Constantin-Weyer;1881;1964;83;5;Q3300600;26797712;FALSE;NA;6;0.0847457627118644;118975536;http://data.bnf.fr/ark:/12148/cb118975536#about;46;28;87;51
+210;http://www.wikidata.org/entity/Q3271219;Léon Moussinac;1890;1964;74;1;Q3271219;27041336;FALSE;NA;6;0.02;11917114q;http://data.bnf.fr/ark:/12148/cb11917114q#about;33;22;42;26
+211;http://www.wikidata.org/entity/Q3262108;Louis Guillaume;1907;1971;64;1;Q3262108;26908638;FALSE;NA;6;0.0303030303030303;119063542;http://data.bnf.fr/ark:/12148/cb119063542#about;41;7;45;7
+212;http://www.wikidata.org/entity/Q15041263;André Wurmser;1899;1984;85;NA;Q15041263;27200310;FALSE;NA;6;NA;119294414;http://data.bnf.fr/ark:/12148/cb119294414#about;29;5;41;6
+213;http://www.wikidata.org/entity/Q458721;Georges Hugnet;1906;1974;68;2;Q458721;26927543;FALSE;NA;6;0.0588235294117647;11907960w;http://data.bnf.fr/ark:/12148/cb11907960w#about;31;9;41;12
+214;http://www.wikidata.org/entity/Q610261;Félix Bertaux;1881;1948;67;7;Q610261;26723700;FALSE;NA;6;0.11864406779661;11891637s;http://data.bnf.fr/ark:/12148/cb11891637s#about;31;18;49;24
+215;http://www.wikidata.org/entity/Q3385966;Pierre Lhande;1877;1957;80;10;Q3385966;26989174;FALSE;NA;6;0.158730158730159;126210124;http://data.bnf.fr/ark:/12148/cb126210124#about;52;49;58;52
+216;http://www.wikidata.org/entity/Q2446531;Pierre Francastel;1900;1970;70;2;Q2446531;26872161;FALSE;NA;6;0.05;119033639;http://data.bnf.fr/ark:/12148/cb119033639#about;29;7;42;9
+217;http://www.wikidata.org/entity/Q3132189;Henri Zislin;1875;1958;83;NA;Q3132189;88214346;FALSE;NA;6;NA;135078052;http://data.bnf.fr/ark:/12148/cb135078052#about;7;6;10;8
+218;http://www.wikidata.org/entity/Q3175632;Jean Pange;1881;1957;76;NA;Q3175632;27056899;FALSE;NA;6;NA;11918515d;http://data.bnf.fr/ark:/12148/cb11918515d#about;29;17;35;20
+219;http://www.wikidata.org/entity/Q646689;Maurice Magre;1877;1941;64;4;Q646689;27001679;FALSE;NA;5;0.0634920634920635;11913919p;http://data.bnf.fr/ark:/12148/cb11913919p#about;7;6;9;8
+220;http://www.wikidata.org/entity/Q3174476;Jean Royère;1871;1956;85;8;Q3174476;90490088;FALSE;NA;5;0.115942028985507;121395463;http://data.bnf.fr/ark:/12148/cb121395463#about;37;33;39;35
+221;http://www.wikidata.org/entity/Q586479;Louis Madelin;1871;1956;85;28;Q586479;27000834;TRUE;1927;5;0.405797101449275;119138480;http://data.bnf.fr/ark:/12148/cb119138480#about;7;7;8;7
+222;http://www.wikidata.org/entity/Q3141758;René Benjamin;1885;1948;63;2;Q3141758;28466594;FALSE;NA;5;0.0363636363636364;12029690g;http://data.bnf.fr/ark:/12148/cb12029690g#about;84;61;147;98
+223;http://www.wikidata.org/entity/Q145370;Francis Ambrière;1907;1998;91;NA;Q145370;26684152;FALSE;NA;5;NA;11888636x;http://data.bnf.fr/ark:/12148/cb11888636x#about;16;7;26;7
+224;http://www.wikidata.org/entity/Q566346;Bernard Faÿ;1893;1978;85;4;Q566346;02686021X;FALSE;NA;5;0.0851063829787234;11902431q;http://data.bnf.fr/ark:/12148/cb11902431q#about;40;17;54;23
+225;http://www.wikidata.org/entity/Q503758;André Chaumeix;1874;1955;81;4;Q503758;32905866;TRUE;1930;5;0.0606060606060606;123845092;http://data.bnf.fr/ark:/12148/cb123845092#about;30;22;32;24
+226;http://www.wikidata.org/entity/Q3559764;Vincent Muselli;1879;1956;77;NA;Q3559764;30407370;FALSE;NA;5;NA;121827340;http://data.bnf.fr/ark:/12148/cb121827340#about;20;10;21;11
+227;http://www.wikidata.org/entity/Q3387339;Pierre Véry;1900;1960;60;1;Q3387339;27182606;FALSE;NA;5;0.025;119280873;http://data.bnf.fr/ark:/12148/cb119280873#about;41;19;107;20
+228;http://www.wikidata.org/entity/Q3262686;Louis Mercier;1870;1951;81;3;Q3262686;32854579;FALSE;NA;5;0.0428571428571429;12380375b;http://data.bnf.fr/ark:/12148/cb12380375b#about;35;25;51;31
+229;http://www.wikidata.org/entity/Q3172208;Jean Galtier-Boissière;1891;1966;75;3;Q3172208;26880148;FALSE;NA;5;0.0612244897959184;11904000t;http://data.bnf.fr/ark:/12148/cb11904000t#about;37;13;63;18
+230;http://www.wikidata.org/entity/Q15078919;Mathilde Pomès;1886;1977;91;NA;Q15078919;30036186;FALSE;NA;5;NA;12153415h;http://data.bnf.fr/ark:/12148/cb12153415h#about;14;6;16;7
+231;http://www.wikidata.org/entity/Q28869851;Marie Dormoy;1886;1974;88;NA;Q28869851;32849494;FALSE;NA;5;NA;123799300;http://data.bnf.fr/ark:/12148/cb123799300#about;17;10;20;12
+232;http://www.wikidata.org/entity/Q1285511;Louis Parrot;1906;1948;42;NA;Q1285511;50584421;FALSE;NA;5;NA;11918664w;http://data.bnf.fr/ark:/12148/cb11918664w#about;18;4;29;6
+233;http://www.wikidata.org/entity/Q1648745;Maurice Raynal;1884;1954;70;2;Q1648745;58922997;FALSE;NA;5;0.0357142857142857;12690022n;http://data.bnf.fr/ark:/12148/cb12690022n#about;22;12;25;12
+234;http://www.wikidata.org/entity/Q165910;Pierre Dac;1893;1975;82;NA;Q165910;26808609;FALSE;NA;5;NA;118983965;http://data.bnf.fr/ark:/12148/cb118983965#about;31;7;55;7
+235;http://www.wikidata.org/entity/Q2831690;Albert t'Serstevens;1885;1974;89;5;Q2831690;53442105;FALSE;NA;5;0.0909090909090909;11925878m;http://data.bnf.fr/ark:/12148/cb11925878m#about;58;22;93;28
+236;http://www.wikidata.org/entity/Q2092984;Pierre-Barthélemy Gheusi;1865;1943;78;2;Q2092984;73694967;FALSE;NA;5;0.0266666666666667;12937587k;http://data.bnf.fr/ark:/12148/cb12937587k#about;85;73;104;87
+237;http://www.wikidata.org/entity/Q2847306;André Billy;1882;1971;89;5;Q2847306;26728990;FALSE;NA;4;0.0862068965517241;11892068n;http://data.bnf.fr/ark:/12148/cb11892068n#about;62;22;82;26
+238;http://www.wikidata.org/entity/Q3089964;Frédéric Lefèvre;1889;1949;60;1;Q3089964;30150868;FALSE;NA;4;0.0196078431372549;121624411;http://data.bnf.fr/ark:/12148/cb121624411#about;40;28;55;32
+239;http://www.wikidata.org/entity/Q1085320;Maurice Rostand;1891;1968;77;1;Q1085320;33166935;FALSE;NA;4;0.0204081632653061;12406114j;http://data.bnf.fr/ark:/12148/cb12406114j#about;52;39;87;66
+240;http://www.wikidata.org/entity/Q3384777;Pierre Dominique;1889;1973;84;1;Q3384777;26834405;FALSE;NA;4;0.0196078431372549;11900367z;http://data.bnf.fr/ark:/12148/cb11900367z#about;55;27;67;32
+241;http://www.wikidata.org/entity/Q3379532;Philippe Chabaneix;1898;1982;84;NA;Q3379532;02677514X;FALSE;NA;4;NA;118958061;http://data.bnf.fr/ark:/12148/cb118958061#about;22;15;22;15
+242;http://www.wikidata.org/entity/Q3384095;Pierre Bost;1901;1975;74;NA;Q3384095;29021812;FALSE;NA;4;NA;12073499m;http://data.bnf.fr/ark:/12148/cb12073499m#about;31;22;42;29
+243;http://www.wikidata.org/entity/Q3087522;Roger Vercel;1894;1957;63;1;Q3087522;02718031X;FALSE;NA;4;0.0217391304347826;119279086;http://data.bnf.fr/ark:/12148/cb119279086#about;56;13;109;16
+244;http://www.wikidata.org/entity/Q15970679;Louis de Gonzague-Frick;1883;1958;75;1;Q15970679;67051367;FALSE;NA;4;0.0175438596491228;12918659f;http://data.bnf.fr/ark:/12148/cb12918659f#about;12;7;12;7
+245;http://www.wikidata.org/entity/Q3383636;Pierre Abraham;1892;1974;82;NA;Q3383636;26647834;FALSE;NA;4;NA;11885563t;http://data.bnf.fr/ark:/12148/cb11885563t#about;19;13;25;16
+246;http://www.wikidata.org/entity/Q1063803;Charles Braibant;1889;1976;87;1;Q1063803;34837604;FALSE;NA;4;0.0196078431372549;12554795r;http://data.bnf.fr/ark:/12148/cb12554795r#about;30;12;45;16
+247;http://www.wikidata.org/entity/Q3142621;Hugues Lapaire;1869;1967;98;2;Q3142621;35652748;FALSE;NA;4;0.028169014084507;13486526f;http://data.bnf.fr/ark:/12148/cb13486526f#about;79;58;95;65
+248;http://www.wikidata.org/entity/Q740850;Ernest Pérochon;1885;1942;57;2;Q740850;27065685;FALSE;NA;4;0.0363636363636364;11919182p;http://data.bnf.fr/ark:/12148/cb11919182p#about;34;24;89;48
+249;http://www.wikidata.org/entity/Q1360589;Georges Lakhovsky;1870;1942;72;1;Q1360589;77812727;FALSE;NA;4;0.0142857142857143;12617789w;http://data.bnf.fr/ark:/12148/cb12617789w#about;25;20;30;24
+250;http://www.wikidata.org/entity/Q3261452;Louis Chaigne;1899;1973;74;NA;Q3261452;35647744;FALSE;NA;4;NA;134862405;http://data.bnf.fr/ark:/12148/cb134862405#about;47;13;79;17
+251;http://www.wikidata.org/entity/Q3370495;Paul Archambault;1883;1950;67;1;Q3370495;26689553;FALSE;NA;4;0.0175438596491228;118890386;http://data.bnf.fr/ark:/12148/cb118890386#about;41;29;48;35
+252;http://www.wikidata.org/entity/Q6152897;Lucien Maury;1872;1953;81;26;Q6152897;32117671;FALSE;NA;4;0.382352941176471;123209496;http://data.bnf.fr/ark:/12148/cb123209496#about;28;22;34;26
+253;http://www.wikidata.org/entity/Q460180;Georgette Leblanc;1869;1941;72;NA;Q460180;50263595;FALSE;NA;4;NA;13508185v;http://data.bnf.fr/ark:/12148/cb13508185v#about;8;7;10;9
+254;http://www.wikidata.org/entity/Q5307942;Rosa Bailly;1890;1976;86;1;Q5307942;26701367;FALSE;NA;4;0.02;121694097;http://data.bnf.fr/ark:/12148/cb121694097#about;30;9;37;14
+255;http://www.wikidata.org/entity/Q19356181;Isabelle Rivière;1889;1971;82;7;Q19356181;27102327;FALSE;NA;4;0.137254901960784;119221183;http://data.bnf.fr/ark:/12148/cb119221183#about;12;6;20;6
+256;http://www.wikidata.org/entity/Q16222625;Noël Vesper;1882;1944;62;NA;Q16222625;30303818;FALSE;NA;4;NA;12174769x;http://data.bnf.fr/ark:/12148/cb12174769x#about;15;13;19;17
+257;http://www.wikidata.org/entity/Q3265452;Lucien Daudet;1878;1946;68;1;Q3265452;29491509;FALSE;NA;4;0.0161290322580645;12110751n;http://data.bnf.fr/ark:/12148/cb12110751n#about;9;9;13;12
+258;http://www.wikidata.org/entity/Q445480;Thyde Monnier;1887;1967;80;NA;Q445480;27034976;FALSE;NA;4;NA;11916545v;http://data.bnf.fr/ark:/12148/cb11916545v#about;44;5;63;6
+259;http://www.wikidata.org/entity/Q2847020;André-Charles Coppier;1866;1948;82;4;Q2847020;32299079;FALSE;NA;4;0.0540540540540541;12156140m;http://data.bnf.fr/ark:/12148/cb12156140m#about;11;10;12;11
+260;http://www.wikidata.org/entity/Q2833861;Alexandre Masseron;1880;1959;79;NA;Q2833861;27015289;FALSE;NA;4;NA;11914988r;http://data.bnf.fr/ark:/12148/cb11914988r#about;29;18;38;22
+261;http://www.wikidata.org/entity/Q275504;Geneviève Tabouis;1892;1985;93;NA;Q275504;27153444;FALSE;NA;4;NA;11925893h;http://data.bnf.fr/ark:/12148/cb11925893h#about;15;6;19;7
+262;http://www.wikidata.org/entity/Q2401368;Aimé Pallière;1868;1949;81;NA;Q2401368;67698468;FALSE;NA;4;NA;126296461;http://data.bnf.fr/ark:/12148/cb126296461#about;8;6;10;7
+263;http://www.wikidata.org/entity/Q3159134;Jacques Hébertot;1886;1970;84;NA;Q3159134;102050279;FALSE;NA;4;NA;129185413;http://data.bnf.fr/ark:/12148/cb129185413#about;7;7;7;7
+264;http://www.wikidata.org/entity/Q20046308;Albert Boudon-Lashermes;1882;1967;85;NA;Q20046308;02880404X;FALSE;NA;4;NA;12056460w;http://data.bnf.fr/ark:/12148/cb12056460w#about;13;8;16;8
+265;http://www.wikidata.org/entity/Q50379504;René-Albert Gutmann;1885;1981;96;NA;Q50379504;26910861;FALSE;NA;4;NA;119065689;http://data.bnf.fr/ark:/12148/cb119065689#about;40;29;50;33
+266;http://www.wikidata.org/entity/Q3271572;Léonce Bourliaguet;1895;1965;70;NA;Q3271572;26746387;FALSE;NA;4;NA;11893489z;http://data.bnf.fr/ark:/12148/cb11893489z#about;48;7;76;8
+267;http://www.wikidata.org/entity/Q523071;André Thérive;1891;1967;76;11;Q523071;34057803;FALSE;NA;3;0.224489795918367;12485267t;http://data.bnf.fr/ark:/12148/cb12485267t#about;99;73;117;89
+268;http://www.wikidata.org/entity/Q2861943;Armand Praviel;1875;1944;69;1;Q2861943;29774497;FALSE;NA;3;0.0153846153846154;12132658p;http://data.bnf.fr/ark:/12148/cb12132658p#about;5;5;6;6
+269;http://www.wikidata.org/entity/Q3170295;Jean Ajalbert;1863;1947;84;10;Q3170295;26679701;FALSE;NA;3;0.12987012987013;11888247g;http://data.bnf.fr/ark:/12148/cb11888247g#about;7;6;10;7
+270;http://www.wikidata.org/entity/Q2454214;Tristan Klingsor;1874;1966;92;2;Q2454214;26950944;FALSE;NA;3;0.0303030303030303;11909856v;http://data.bnf.fr/ark:/12148/cb11909856v#about;14;11;24;16
+271;http://www.wikidata.org/entity/Q3301131;Maurice Martin du Gard;1896;1970;74;1;Q3301131;50303279;FALSE;NA;3;0.0227272727272727;12438222j;http://data.bnf.fr/ark:/12148/cb12438222j#about;33;26;48;32
+272;http://www.wikidata.org/entity/Q330443;Octave Aubry;1881;1946;65;NA;Q330443;26695251;FALSE;NA;3;NA;11889446x;http://data.bnf.fr/ark:/12148/cb11889446x#about;27;22;58;40
+273;http://www.wikidata.org/entity/Q1876788;Henri Bachelin;1879;1941;62;20;Q1876788;34183485;FALSE;NA;3;0.327868852459016;12496771w;http://data.bnf.fr/ark:/12148/cb12496771w#about;60;52;84;63
+274;http://www.wikidata.org/entity/Q3287891;Marc Chadourne;1895;1975;80;4;Q3287891;26775735;FALSE;NA;3;0.0888888888888889;11895854w;http://data.bnf.fr/ark:/12148/cb11895854w#about;14;6;22;9
+275;http://www.wikidata.org/entity/Q2960242;Charles Silvestre;1889;1948;59;NA;Q2960242;70663971;FALSE;NA;3;NA;12736483b;http://data.bnf.fr/ark:/12148/cb12736483b#about;34;31;49;43
+276;http://www.wikidata.org/entity/Q3263606;Louis Émié;1900;1967;67;NA;Q3263606;30211336;FALSE;NA;3;NA;12167519b;http://data.bnf.fr/ark:/12148/cb12167519b#about;37;5;41;6
+277;http://www.wikidata.org/entity/Q3499047;Steve Passeur;1899;1966;67;NA;Q3499047;05980176X;FALSE;NA;3;NA;13324049t;http://data.bnf.fr/ark:/12148/cb13324049t#about;19;14;23;17
+278;http://www.wikidata.org/entity/Q3185478;Joseph Peyré;1892;1968;76;NA;Q3185478;27069591;FALSE;NA;3;NA;119194846;http://data.bnf.fr/ark:/12148/cb119194846#about;42;13;110;22
+279;http://www.wikidata.org/entity/Q2365412;Jean Sarment;1897;1976;79;NA;Q2365412;29876338;FALSE;NA;3;NA;12141003q;http://data.bnf.fr/ark:/12148/cb12141003q#about;39;29;72;56
+280;http://www.wikidata.org/entity/Q3271400;Léon Vérane;1886;1954;68;NA;Q3271400;29774500;FALSE;NA;3;NA;121326591;http://data.bnf.fr/ark:/12148/cb121326591#about;21;11;25;12
+281;http://www.wikidata.org/entity/Q440779;Rosemonde Gérard;1866;1954;88;1;Q440779;32105304;FALSE;NA;3;0.0135135135135135;12319986c;http://data.bnf.fr/ark:/12148/cb12319986c#about;33;29;48;43
+282;http://www.wikidata.org/entity/Q3104166;Germaine Beaumont;1890;1983;93;1;Q3104166;26712660;FALSE;NA;3;0.02;11890818t;http://data.bnf.fr/ark:/12148/cb11890818t#about;21;5;31;6
+283;http://www.wikidata.org/entity/Q3104170;Germaine Acremant;1889;1986;97;NA;Q3104170;26677261;FALSE;NA;3;NA;118880604;http://data.bnf.fr/ark:/12148/cb118880604#about;31;15;46;22
+284;http://www.wikidata.org/entity/Q3050904;Elian-J. Finbert;1899;1977;78;5;Q3050904;71454004;FALSE;NA;3;0.121951219512195;12605848w;http://data.bnf.fr/ark:/12148/cb12605848w#about;39;9;53;12
+285;http://www.wikidata.org/entity/Q3176054;Jeanne Galzy;1883;1977;94;2;Q3176054;26880245;FALSE;NA;3;0.0350877192982456;11904008k;http://data.bnf.fr/ark:/12148/cb11904008k#about;32;16;54;24
+286;http://www.wikidata.org/entity/Q33055;Jean d'Esme;1894;1966;72;NA;Q33055;03375747X;FALSE;NA;3;NA;124592168;http://data.bnf.fr/ark:/12148/cb124592168#about;45;19;87;34
+287;http://www.wikidata.org/entity/Q3123741;Gérard Bauër;1888;1967;79;1;Q3123741;02671034X;FALSE;NA;3;0.0192307692307692;118906366;http://data.bnf.fr/ark:/12148/cb118906366#about;32;15;38;15
+288;http://www.wikidata.org/entity/Q3263755;Louise Hervieu;1878;1954;76;NA;Q3263755;30384540;FALSE;NA;3;NA;128057766;http://data.bnf.fr/ark:/12148/cb128057766#about;10;7;16;11
+289;http://www.wikidata.org/entity/Q3196555;Kikou Yamata;1897;1975;78;1;Q3196555;29226945;FALSE;NA;3;0.0232558139534884;11929476s;http://data.bnf.fr/ark:/12148/cb11929476s#about;25;16;34;18
+290;http://www.wikidata.org/entity/Q3386257;Pierre Messiaen;1883;1957;74;NA;Q3386257;34194118;FALSE;NA;3;NA;124977327;http://data.bnf.fr/ark:/12148/cb124977327#about;10;6;11;6
+291;http://www.wikidata.org/entity/Q3131267;Henri Hertz;1875;1966;91;1;Q3131267;77850157;FALSE;NA;3;0.0153846153846154;12612843n;http://data.bnf.fr/ark:/12148/cb12612843n#about;21;18;26;23
+292;http://www.wikidata.org/entity/Q3098317;Louis Verneuil;1893;1952;59;NA;Q3098317;03276622X;FALSE;NA;3;NA;12373183x;http://data.bnf.fr/ark:/12148/cb12373183x#about;53;50;79;63
+293;http://www.wikidata.org/entity/Q3262638;Louis Marlio;1878;1952;74;2;Q3262638;56870736;FALSE;NA;3;0.032258064516129;10280534v;http://data.bnf.fr/ark:/12148/cb10280534v#about;20;10;24;12
+294;http://www.wikidata.org/entity/Q1605745;Henri Bédarida;1887;1957;70;NA;Q1605745;26714051;FALSE;NA;3;NA;118909152;http://data.bnf.fr/ark:/12148/cb118909152#about;45;36;52;41
+295;http://www.wikidata.org/entity/Q3099143;Gaston Roupnel;1871;1946;75;2;Q3099143;31613837;FALSE;NA;3;0.0289855072463768;12279488r;http://data.bnf.fr/ark:/12148/cb12279488r#about;12;10;15;10
+296;http://www.wikidata.org/entity/Q517725;André Cayatte;1909;1989;80;NA;Q517725;26773287;FALSE;NA;3;NA;118956410;http://data.bnf.fr/ark:/12148/cb118956410#about;10;7;11;8
+297;http://www.wikidata.org/entity/Q3420979;Raymond Las Vergnas;1902;1994;92;NA;Q3420979;26967391;FALSE;NA;3;NA;11911182r;http://data.bnf.fr/ark:/12148/cb11911182r#about;26;5;28;6
+298;http://www.wikidata.org/entity/Q18115330;Louis Labat;1867;1947;80;NA;Q18115330;61115770;FALSE;NA;3;NA;12617272s;http://data.bnf.fr/ark:/12148/cb12617272s#about;20;18;20;18
+299;http://www.wikidata.org/entity/Q3183962;Jos Jullien;1877;1956;79;NA;Q3183962;120464632;FALSE;NA;3;NA;13008604j;http://data.bnf.fr/ark:/12148/cb13008604j#about;6;5;8;7
+300;http://www.wikidata.org/entity/Q3171300;Jean Choleau;1879;1965;86;NA;Q3171300;56873719;FALSE;NA;3;NA;150701190;http://data.bnf.fr/ark:/12148/cb150701190#about;26;12;33;15
+301;http://www.wikidata.org/entity/Q274891;Émile Armand;1872;1962;90;4;Q274891;35182911;FALSE;NA;3;0.0588235294117647;13172574m;http://data.bnf.fr/ark:/12148/cb13172574m#about;49;40;51;40
+302;http://www.wikidata.org/entity/Q2824844;Adolphe Javal;1873;1944;71;NA;Q2824844;35441763;FALSE;NA;3;NA;133211528;http://data.bnf.fr/ark:/12148/cb133211528#about;31;20;35;24
+303;http://www.wikidata.org/entity/Q523299;André Warnot;1885;1960;75;1;Q523299;33321094;FALSE;NA;3;0.0181818181818182;124198659;http://data.bnf.fr/ark:/12148/cb124198659#about;56;40;64;45
+304;http://www.wikidata.org/entity/Q2848559;André Rolland de Renéville;1903;1962;59;NA;Q2848559;28619730;FALSE;NA;3;NA;12041854n;http://data.bnf.fr/ark:/12148/cb12041854n#about;10;4;15;6
+305;http://www.wikidata.org/entity/Q3131619;Henri Mazel;1864;1947;83;2;Q3131619;02999537X;FALSE;NA;2;0.0263157894736842;12150285d;http://data.bnf.fr/ark:/12148/cb12150285d#about;42;39;56;51
+306;http://www.wikidata.org/entity/Q3588629;Émile Magne;1877;1953;76;2;Q3588629;30384273;FALSE;NA;2;0.0317460317460317;12180957q;http://data.bnf.fr/ark:/12148/cb12180957q#about;58;50;70;58
+307;http://www.wikidata.org/entity/Q3264810;Luc Durtain;1881;1959;78;4;Q3264810;02836628X;FALSE;NA;2;0.0677966101694915;12291107k;http://data.bnf.fr/ark:/12148/cb12291107k#about;45;38;59;49
+308;http://www.wikidata.org/entity/Q12735024;Mario Meunier;1880;1960;80;1;Q12735024;27026205;FALSE;NA;2;0.0166666666666667;119158385;http://data.bnf.fr/ark:/12148/cb119158385#about;18;15;30;17
+309;http://www.wikidata.org/entity/Q1337206;Émile Ripert;1882;1948;66;19;Q1337206;27101339;FALSE;NA;2;0.327586206896552;11922047d;http://data.bnf.fr/ark:/12148/cb11922047d#about;59;50;77;58
+310;http://www.wikidata.org/entity/Q3186294;José Germain;1884;1964;80;6;Q3186294;07551737X;FALSE;NA;2;0.107142857142857;140289863;http://data.bnf.fr/ark:/12148/cb140289863#about;119;100;154;124
+311;http://www.wikidata.org/entity/Q17977163;Henry Dérieux;1892;1941;49;1;Q17977163;03030380X;FALSE;NA;2;0.0208333333333333;12174768k;http://data.bnf.fr/ark:/12148/cb12174768k#about;23;17;23;17
+312;http://www.wikidata.org/entity/Q507746;Alexandre Arnoux;1884;1973;89;4;Q507746;26691671;FALSE;NA;2;0.0714285714285714;118891928;http://data.bnf.fr/ark:/12148/cb118891928#about;63;23;88;28
+313;http://www.wikidata.org/entity/Q3262928;Louis Pize;1892;1976;84;NA;Q3262928;27075591;FALSE;NA;2;NA;119199628;http://data.bnf.fr/ark:/12148/cb119199628#about;28;16;30;16
+314;http://www.wikidata.org/entity/Q3022926;Denis Saurat;1890;1958;68;NA;Q3022926;35157178;FALSE;NA;2;NA;13476167q;http://data.bnf.fr/ark:/12148/cb13476167q#about;26;11;34;14
+315;http://www.wikidata.org/entity/Q2982529;Colette Yver;1874;1953;79;2;Q2982529;59533676;FALSE;NA;2;0.0303030303030303;134811907;http://data.bnf.fr/ark:/12148/cb134811907#about;62;51;81;59
+316;http://www.wikidata.org/entity/Q3331525;Myriam Harry;1869;1958;89;3;Q3331525;33637202;FALSE;NA;2;0.0422535211267606;12448490s;http://data.bnf.fr/ark:/12148/cb12448490s#about;51;35;72;49
+317;http://www.wikidata.org/entity/Q2659138;Philippe Hériat;1898;1971;73;1;Q2659138;02961807X;FALSE;NA;2;0.0238095238095238;12120586z;http://data.bnf.fr/ark:/12148/cb12120586z#about;23;8;53;15
+318;http://www.wikidata.org/entity/Q947449;Louis Laloy;1874;1944;70;NA;Q947449;26961970;FALSE;NA;2;NA;11910775w;http://data.bnf.fr/ark:/12148/cb11910775w#about;11;6;21;14
+319;http://www.wikidata.org/entity/Q3588493;Émile Fabre;1869;1955;86;2;Q3588493;30766524;FALSE;NA;2;0.028169014084507;12211654t;http://data.bnf.fr/ark:/12148/cb12211654t#about;40;35;55;49
+320;http://www.wikidata.org/entity/Q3166180;Jean-Jacques Bernard;1888;1972;84;NA;Q3166180;50586750;FALSE;NA;2;NA;121277328;http://data.bnf.fr/ark:/12148/cb121277328#about;30;16;43;24
+321;http://www.wikidata.org/entity/Q1277237;Marie Gasquet;1872;1960;88;NA;Q1277237;96642572;FALSE;NA;2;NA;12738322b;http://data.bnf.fr/ark:/12148/cb12738322b#about;14;13;14;13
+322;http://www.wikidata.org/entity/Q3052535;Emmanuel Aegerter;1883;1945;62;NA;Q3052535;29818168;FALSE;NA;2;NA;12737786f;http://data.bnf.fr/ark:/12148/cb12737786f#about;25;19;32;21
+323;http://www.wikidata.org/entity/Q2848370;André Obey;1892;1975;83;NA;Q2848370;27051447;FALSE;NA;2;NA;11918016c;http://data.bnf.fr/ark:/12148/cb11918016c#about;26;13;37;18
+324;http://www.wikidata.org/entity/Q3425944;René Béhaine;1880;1966;86;NA;Q3425944;97938823;FALSE;NA;2;NA;12727967h;http://data.bnf.fr/ark:/12148/cb12727967h#about;12;9;13;9
+325;http://www.wikidata.org/entity/Q3436161;Robert Rey;1888;1964;76;5;Q3436161;29443466;FALSE;NA;2;0.0961538461538462;121069685;http://data.bnf.fr/ark:/12148/cb121069685#about;46;16;58;21
+326;http://www.wikidata.org/entity/Q5626032;Gérard de Lacaze-Duthiers;1876;1958;82;2;Q5626032;77467272;FALSE;NA;2;0.03125;12490106b;http://data.bnf.fr/ark:/12148/cb12490106b#about;47;36;60;46
+327;http://www.wikidata.org/entity/Q3100646;Geneviève Fauconnier;1886;1969;83;NA;Q3100646;29962145;FALSE;NA;2;NA;12147677c;http://data.bnf.fr/ark:/12148/cb12147677c#about;6;3;18;8
+328;http://www.wikidata.org/entity/Q2847266;André Berge;1902;1995;93;NA;Q2847266;26720175;FALSE;NA;2;NA;11891370s;http://data.bnf.fr/ark:/12148/cb11891370s#about;32;7;48;8
+329;http://www.wikidata.org/entity/Q19945064;Paul Gaultier;1872;1960;88;3;Q19945064;30126371;FALSE;NA;2;0.0441176470588235;121604886;http://data.bnf.fr/ark:/12148/cb121604886#about;24;21;38;35
+330;http://www.wikidata.org/entity/Q3291929;Marie-Jeanne Durry;1901;1980;79;NA;Q3291929;31655718;FALSE;NA;2;NA;12282973m;http://data.bnf.fr/ark:/12148/cb12282973m#about;27;12;40;17
+331;http://www.wikidata.org/entity/Q19956094;Pierre Guéguen;1889;1965;76;NA;Q19956094;29842379;FALSE;NA;2;NA;121384279;http://data.bnf.fr/ark:/12148/cb121384279#about;18;9;24;11
+332;http://www.wikidata.org/entity/Q2848302;André Metz;1891;1968;77;NA;Q2848302;32481977;FALSE;NA;2;NA;12350359g;http://data.bnf.fr/ark:/12148/cb12350359g#about;9;8;10;9
+333;http://www.wikidata.org/entity/Q16509438;Jules Véran;1868;1960;92;2;Q16509438;99522330;FALSE;NA;2;0.0277777777777778;102588716;http://data.bnf.fr/ark:/12148/cb102588716#about;16;12;16;12
+334;http://www.wikidata.org/entity/Q20859539;Renée Zeller;1887;1971;84;NA;Q20859539;92631819;FALSE;NA;2;NA;109299881;http://data.bnf.fr/ark:/12148/cb109299881#about;45;22;56;26
+335;http://www.wikidata.org/entity/Q3371293;Paul Gavault;1865;1951;86;1;Q3371293;30355931;FALSE;NA;2;0.0133333333333333;13092098g;http://data.bnf.fr/ark:/12148/cb13092098g#about;83;65;102;73
+336;http://www.wikidata.org/entity/Q934708;André Savignon;1878;1947;69;NA;Q934708;10646888X;FALSE;NA;2;NA;12658253k;http://data.bnf.fr/ark:/12148/cb12658253k#about;13;10;39;26
+337;http://www.wikidata.org/entity/Q21401585;Jehan d'Ivray;1861;1940;79;1;Q21401585;55809944;FALSE;NA;2;0.0126582278481013;13610309r;http://data.bnf.fr/ark:/12148/cb13610309r#about;19;18;25;21
+338;http://www.wikidata.org/entity/Q19357508;Gabriel de La Rochefoucauld;1875;1942;67;2;Q19357508;58575804;FALSE;NA;2;0.0307692307692308;127355376;http://data.bnf.fr/ark:/12148/cb127355376#about;13;11;18;15
+339;http://www.wikidata.org/entity/Q375915;Louis Cazamian;1877;1965;88;3;Q375915;28528484;FALSE;NA;2;0.0476190476190476;12034661w;http://data.bnf.fr/ark:/12148/cb12034661w#about;8;5;10;7
+340;http://www.wikidata.org/entity/Q3425759;René Arcos;1881;1959;78;NA;Q3425759;29813603;FALSE;NA;2;NA;121360491;http://data.bnf.fr/ark:/12148/cb121360491#about;14;13;19;17
+341;http://www.wikidata.org/entity/Q571711;Jean Gaulmier;1905;1997;92;NA;Q571711;26884461;FALSE;NA;2;NA;119043490;http://data.bnf.fr/ark:/12148/cb119043490#about;27;8;32;8
+342;http://www.wikidata.org/entity/Q54959217;Paule Henry-Bordeaux;1903;1999;96;NA;Q54959217;30206243;FALSE;NA;2;NA;13092044j;http://data.bnf.fr/ark:/12148/cb13092044j#about;6;6;9;8
+343;http://www.wikidata.org/entity/Q53441989;Maximilien Gauthier;1893;1977;84;NA;Q53441989;26885026;FALSE;NA;2;NA;12608181h;http://data.bnf.fr/ark:/12148/cb12608181h#about;58;13;65;14
+344;http://www.wikidata.org/entity/Q22338448;Ernest d'Hauterive;1864;1957;93;NA;Q22338448;34266372;FALSE;NA;2;NA;12503916w;http://data.bnf.fr/ark:/12148/cb12503916w#about;12;11;17;14
+345;http://www.wikidata.org/entity/Q3425982;René Chalupt;1885;1957;72;NA;Q3425982;69815674;FALSE;NA;2;NA;12805792f;http://data.bnf.fr/ark:/12148/cb12805792f#about;22;16;23;16
+346;http://www.wikidata.org/entity/Q33883526;Charles Delvert;1879;1940;61;NA;Q33883526;86117947;FALSE;NA;2;NA;12601060k;http://data.bnf.fr/ark:/12148/cb12601060k#about;15;13;21;16
+347;http://www.wikidata.org/entity/Q3301494;Maurice Vaussard;1888;1978;90;1;Q3301494;27178676;FALSE;NA;2;0.0192307692307692;11927781q;http://data.bnf.fr/ark:/12148/cb11927781q#about;25;9;28;10
+348;http://www.wikidata.org/entity/Q3057230;Ernest de Ganay;1880;1963;83;NA;Q3057230;28801474;FALSE;NA;2;NA;12056251c;http://data.bnf.fr/ark:/12148/cb12056251c#about;19;10;19;10
+349;http://www.wikidata.org/entity/Q3176095;Jeanne Leuba;1882;1979;97;NA;Q3176095;30940923;FALSE;NA;2;NA;12735250k;http://data.bnf.fr/ark:/12148/cb12735250k#about;10;7;10;7
+350;http://www.wikidata.org/entity/Q21335488;Jacques de Coussange;1869;1944;75;4;Q21335488;34626867;FALSE;NA;2;0.0563380281690141;125363099;http://data.bnf.fr/ark:/12148/cb125363099#about;14;14;15;15
+351;http://www.wikidata.org/entity/Q3101610;George Groslier;1887;1945;58;NA;Q3101610;29910382;FALSE;NA;2;NA;121435863;http://data.bnf.fr/ark:/12148/cb121435863#about;15;12;19;14
+352;http://www.wikidata.org/entity/Q36878373;Augustin Boyer d’Agen;1857;1945;88;15;Q36878373;30691109;FALSE;NA;2;0.180722891566265;12205627p;http://data.bnf.fr/ark:/12148/cb12205627p#about;65;62;78;74
+353;http://www.wikidata.org/entity/Q10274023;Ernest Martinenche;1869;1941;72;6;Q10274023;03337404X;FALSE;NA;2;0.0845070422535211;12424616j;http://data.bnf.fr/ark:/12148/cb12424616j#about;13;11;13;11
+354;http://www.wikidata.org/entity/Q5074719;Charles-Auguste Bontemps;1893;1981;88;NA;Q5074719;26738988;FALSE;NA;2;NA;118928963;http://data.bnf.fr/ark:/12148/cb118928963#about;19;5;21;7
+355;http://www.wikidata.org/entity/Q377169;Victor Henri Bérenger;1867;1952;85;18;Q377169;33648719;FALSE;NA;2;0.246575342465753;12449438x;http://data.bnf.fr/ark:/12148/cb12449438x#about;25;22;27;22
+356;http://www.wikidata.org/entity/Q2744857;Henri Antoine Jules-Bois;1868;1943;75;6;Q2744857;35133503;FALSE;NA;2;0.0833333333333333;131694128;http://data.bnf.fr/ark:/12148/cb131694128#about;40;36;48;41
+357;http://www.wikidata.org/entity/Q3289016;Marcel Génermont;1891;1983;92;1;Q3289016;26887037;FALSE;NA;2;0.0204081632653061;11904559v;http://data.bnf.fr/ark:/12148/cb11904559v#about;20;5;29;9
+358;http://www.wikidata.org/entity/Q18115689;Georges Payelle;1859;1941;82;NA;Q18115689;96205032;FALSE;NA;2;NA;104101141;http://data.bnf.fr/ark:/12148/cb104101141#about;19;19;21;20
+359;http://www.wikidata.org/entity/Q1857821;Michel-Dimitri Calvocoressi;1877;1944;67;NA;Q1857821;33263337;FALSE;NA;2;NA;12414723w;http://data.bnf.fr/ark:/12148/cb12414723w#about;50;41;62;50
+360;http://www.wikidata.org/entity/Q3056977;Ernest Gengenbach;1903;1979;76;NA;Q3056977;28126017;FALSE;NA;2;NA;12002263c;http://data.bnf.fr/ark:/12148/cb12002263c#about;10;6;16;6
+361;http://www.wikidata.org/entity/Q3301070;Maurice Limat;1914;2002;88;NA;Q3301070;26990431;FALSE;NA;2;NA;11913036s;http://data.bnf.fr/ark:/12148/cb11913036s#about;317;27;362;27
+362;http://www.wikidata.org/entity/Q3292758;Marie Reynès-Monlaur;1866;1940;74;NA;Q3292758;87563908;FALSE;NA;2;NA;12728158k;http://data.bnf.fr/ark:/12148/cb12728158k#about;35;35;54;54
+363;http://www.wikidata.org/entity/Q67173917;Berthe Auroy;1880;1968;88;NA;Q67173917;12959394X;FALSE;NA;2;NA;12408317m;http://data.bnf.fr/ark:/12148/cb12408317m#about;7;6;9;7
+364;http://www.wikidata.org/entity/Q3288694;Marcel Boll;1886;1971;85;11;Q3288694;32336357;FALSE;NA;1;0.203703703703704;12338571d;http://data.bnf.fr/ark:/12148/cb12338571d#about;80;45;127;52
+365;http://www.wikidata.org/entity/Q3372081;Paul Reboux;1877;1963;86;7;Q3372081;29579589;FALSE;NA;1;0.111111111111111;12117554t;http://data.bnf.fr/ark:/12148/cb12117554t#about;20;14;23;14
+366;http://www.wikidata.org/entity/Q3371404;Paul Guiton;1882;1944;62;1;Q3371404;52602435;FALSE;NA;1;0.0172413793103448;13567849x;http://data.bnf.fr/ark:/12148/cb13567849x#about;16;9;17;9
+367;http://www.wikidata.org/entity/Q3069152;Fernand Fleuret;1883;1945;62;2;Q3069152;28998057;FALSE;NA;1;0.0350877192982456;12071691x;http://data.bnf.fr/ark:/12148/cb12071691x#about;43;40;67;57
+368;http://www.wikidata.org/entity/Q18197781;René Martineau;1866;1948;82;3;Q18197781;85834149;FALSE;NA;1;0.0405405405405405;12358651g;http://data.bnf.fr/ark:/12148/cb12358651g#about;24;24;25;25
+369;http://www.wikidata.org/entity/Q3121919;Guy Lavaud;1883;1958;75;NA;Q3121919;27783790;FALSE;NA;1;NA;11911407t;http://data.bnf.fr/ark:/12148/cb11911407t#about;18;12;22;15
+370;http://www.wikidata.org/entity/Q3173425;Jean Martet;1886;1940;54;2;Q3173425;113802161;FALSE;NA;1;0.037037037037037;127184106;http://data.bnf.fr/ark:/12148/cb127184106#about;31;27;55;40
+371;http://www.wikidata.org/entity/Q57204772;Jean Vignaud;1875;1962;87;NA;Q57204772;124050948;FALSE;NA;1;NA;14820688d;http://data.bnf.fr/ark:/12148/cb14820688d#about;27;21;33;23
+372;http://www.wikidata.org/entity/Q15310793;Clément Vautel;1876;1954;78;NA;Q15310793;35356812;FALSE;NA;1;NA;134803222;http://data.bnf.fr/ark:/12148/cb134803222#about;25;21;35;25
+373;http://www.wikidata.org/entity/Q1238937;Paul Chack;1876;1945;69;7;Q1238937;30099943;FALSE;NA;1;0.109375;12158371x;http://data.bnf.fr/ark:/12148/cb12158371x#about;67;38;102;46
+374;http://www.wikidata.org/entity/Q62085831;Gabriel Boissy;1879;1949;70;3;Q62085831;67260594;FALSE;NA;1;0.0491803278688525;130021428;http://data.bnf.fr/ark:/12148/cb130021428#about;38;28;61;30
+375;http://www.wikidata.org/entity/Q29913475;Paul Brulat;1866;1940;74;3;Q29913475;35133546;FALSE;NA;1;0.0405405405405405;13475525n;http://data.bnf.fr/ark:/12148/cb13475525n#about;36;35;47;44
+376;http://www.wikidata.org/entity/Q1399009;Maurice Dekobra;1883;1973;90;NA;Q1399009;26818124;FALSE;NA;1;NA;11899145z;http://data.bnf.fr/ark:/12148/cb11899145z#about;82;37;129;50
+377;http://www.wikidata.org/entity/Q63457411;Henry Charpentier;1889;1952;63;NA;Q63457411;131279858;FALSE;NA;1;NA;12034326j;http://data.bnf.fr/ark:/12148/cb12034326j#about;16;9;18;11
+378;http://www.wikidata.org/entity/Q3057141;Ernest Prévost;1872;1952;80;1;Q3057141;10316376X;FALSE;NA;1;0.0147058823529412;13023755x;http://data.bnf.fr/ark:/12148/cb13023755x#about;11;10;11;10
+379;http://www.wikidata.org/entity/Q17635927;Octave Béliard;1876;1951;75;1;Q17635927;67128211;FALSE;NA;1;0.015625;125890004;http://data.bnf.fr/ark:/12148/cb125890004#about;14;10;15;11
+380;http://www.wikidata.org/entity/Q332733;Jacques Deval;1890;1972;82;NA;Q332733;30155487;FALSE;NA;1;NA;121628476;http://data.bnf.fr/ark:/12148/cb121628476#about;38;21;65;41
+381;http://www.wikidata.org/entity/Q1065691;Charles Oulmont;1883;1984;101;2;Q1065691;33118469;FALSE;NA;1;0.0350877192982456;12401703b;http://data.bnf.fr/ark:/12148/cb12401703b#about;58;41;66;47
+382;http://www.wikidata.org/entity/Q2847555;André Corthis;1882;1952;70;NA;Q2847555;29578450;FALSE;NA;1;NA;121174625;http://data.bnf.fr/ark:/12148/cb121174625#about;34;24;50;34
+383;http://www.wikidata.org/entity/Q2641297;Paul Géraldy;1885;1983;98;2;Q2641297;26888394;FALSE;NA;1;0.0363636363636364;119046652;http://data.bnf.fr/ark:/12148/cb119046652#about;48;35;128;75
+384;http://www.wikidata.org/entity/Q3155031;Isabelle Sandy;1884;1975;91;1;Q3155031;33428670;FALSE;NA;1;0.0178571428571429;12429495b;http://data.bnf.fr/ark:/12148/cb12429495b#about;49;27;68;40
+385;http://www.wikidata.org/entity/Q18221983;Pierre du Colombier;1889;1975;86;1;Q18221983;26838435;FALSE;NA;1;0.0196078431372549;11900703t;http://data.bnf.fr/ark:/12148/cb11900703t#about;51;14;60;14
+386;http://www.wikidata.org/entity/Q3093985;Gabriel Trarieux;1870;1940;70;1;Q3093985;80683169;FALSE;NA;1;0.0142857142857143;146537264;http://data.bnf.fr/ark:/12148/cb146537264#about;42;41;55;53
+387;http://www.wikidata.org/entity/Q18221907;Pierre Paraf;1893;1989;96;NA;Q18221907;27057801;FALSE;NA;1;NA;119185816;http://data.bnf.fr/ark:/12148/cb119185816#about;36;16;46;20
+388;http://www.wikidata.org/entity/Q3384269;Pierre Camo;1877;1974;97;3;Q3384269;34035907;FALSE;NA;1;0.0476190476190476;12483271k;http://data.bnf.fr/ark:/12148/cb12483271k#about;8;7;8;7
+389;http://www.wikidata.org/entity/Q18197660;Georges Le Cardonnel;1872;1941;69;1;Q18197660;29527309;FALSE;NA;1;0.0147058823529412;12729737h;http://data.bnf.fr/ark:/12148/cb12729737h#about;8;7;9;8
+390;http://www.wikidata.org/entity/Q3309744;Michel Georges-Michel;1883;1985;102;NA;Q3309744;33184119;FALSE;NA;1;NA;12407634s;http://data.bnf.fr/ark:/12148/cb12407634s#about;50;31;73;45
+391;http://www.wikidata.org/entity/Q2848078;André Lang;1893;1986;93;NA;Q2848078;57054053;FALSE;NA;1;NA;129672772;http://data.bnf.fr/ark:/12148/cb129672772#about;38;27;47;34
+392;http://www.wikidata.org/entity/Q3426189;René Fernandat;1884;1959;75;NA;Q3426189;77836839;FALSE;NA;1;NA;12687709v;http://data.bnf.fr/ark:/12148/cb12687709v#about;16;12;21;13
+393;http://www.wikidata.org/entity/Q3048608;Edward Montier;1870;1954;84;3;Q3048608;101295413;FALSE;NA;1;0.0428571428571429;126266678;http://data.bnf.fr/ark:/12148/cb126266678#about;103;83;124;96
+394;http://www.wikidata.org/entity/Q3524511;Thierry Sandre;1890;1950;60;2;Q3524511;29628059;FALSE;NA;1;0.04;12121329t;http://data.bnf.fr/ark:/12148/cb12121329t#about;23;14;36;24
+395;http://www.wikidata.org/entity/Q3265769;Lucienne Favre;1894;1958;64;NA;Q3265769;69356327;FALSE;NA;1;NA;11005965k;http://data.bnf.fr/ark:/12148/cb11005965k#about;10;9;18;12
+396;http://www.wikidata.org/entity/Q3424979;Renaud de Jouvenel;1907;1982;75;NA;Q3424979;34040439;FALSE;NA;1;NA;124836930;http://data.bnf.fr/ark:/12148/cb124836930#about;15;5;16;6
+397;http://www.wikidata.org/entity/Q3300492;Maurice Brillant;1881;1953;72;3;Q3300492;26752999;FALSE;NA;1;0.0508474576271186;11894040r;http://data.bnf.fr/ark:/12148/cb11894040r#about;33;26;40;30
+398;http://www.wikidata.org/entity/Q3588522;Emile Gabory;1872;1954;82;5;Q3588522;29496640;FALSE;NA;1;0.0735294117647059;130919214;http://data.bnf.fr/ark:/12148/cb130919214#about;34;26;38;29
+399;http://www.wikidata.org/entity/Q3132932;Henry Malherbe;1886;1958;72;3;Q3132932;29774543;FALSE;NA;1;0.0555555555555556;130087891;http://data.bnf.fr/ark:/12148/cb130087891#about;16;12;23;17
+400;http://www.wikidata.org/entity/Q739973;Gabriel Chevallier;1895;1969;74;NA;Q739973;26786079;FALSE;NA;1;NA;11896629c;http://data.bnf.fr/ark:/12148/cb11896629c#about;19;7;53;11
+401;http://www.wikidata.org/entity/Q3173466;Jean Mauclère;1887;1951;64;NA;Q3173466;29297540;FALSE;NA;1;NA;12095409q;http://data.bnf.fr/ark:/12148/cb12095409q#about;99;67;119;78
+402;http://www.wikidata.org/entity/Q56072998;Raoul Stéphan;1889;1965;76;NA;Q56072998;34772138;FALSE;NA;1;NA;125491326;http://data.bnf.fr/ark:/12148/cb125491326#about;15;9;17;9
+403;http://www.wikidata.org/entity/Q11984914;Gabriel Reuillard;1885;1973;88;NA;Q11984914;99430533;FALSE;NA;1;NA;12739684z;http://data.bnf.fr/ark:/12148/cb12739684z#about;19;17;30;27
+404;http://www.wikidata.org/entity/Q18195871;Lucie Paul-Margueritte;1886;1955;69;NA;Q18195871;29691362;FALSE;NA;1;NA;12126118t;http://data.bnf.fr/ark:/12148/cb12126118t#about;37;26;45;31
+405;http://www.wikidata.org/entity/Q3276710;Magdeleine du Genestoux;1873;1942;69;NA;Q3276710;11113093X;FALSE;NA;1;NA;127372088;http://data.bnf.fr/ark:/12148/cb127372088#about;72;60;74;61
+406;http://www.wikidata.org/entity/Q3271782;Léopold Chauveau;1870;1940;70;NA;Q3271782;67028411;FALSE;NA;1;NA;121513132;http://data.bnf.fr/ark:/12148/cb121513132#about;20;15;28;19
+407;http://www.wikidata.org/entity/Q26271918;François Boucher;1885;1966;81;NA;Q26271918;30732476;FALSE;NA;1;NA;122089513;http://data.bnf.fr/ark:/12148/cb122089513#about;23;10;28;13
+408;http://www.wikidata.org/entity/Q81536531;Paul Sentenac;1884;1958;74;NA;Q81536531;29215897;FALSE;NA;1;NA;12088894d;http://data.bnf.fr/ark:/12148/cb12088894d#about;19;14;22;17
+409;http://www.wikidata.org/entity/Q2848848;André de Fouquières;1874;1959;85;1;Q2848848;95881298;FALSE;NA;1;0.0151515151515152;121723591;http://data.bnf.fr/ark:/12148/cb121723591#about;11;6;15;6
+410;http://www.wikidata.org/entity/Q3387361;Pierre Wolff;1865;1944;79;NA;Q3387361;61795100;FALSE;NA;1;NA;14653644s;http://data.bnf.fr/ark:/12148/cb14653644s#about;63;61;88;82
+411;http://www.wikidata.org/entity/Q968715;Francis Yard;1876;1947;71;NA;Q968715;30245850;FALSE;NA;1;NA;121703226;http://data.bnf.fr/ark:/12148/cb121703226#about;14;10;15;10
+412;http://www.wikidata.org/entity/Q3094002;Gabriel d'Aubarède;1898;1995;97;NA;Q3094002;73326267;FALSE;NA;1;NA;127439658;http://data.bnf.fr/ark:/12148/cb127439658#about;16;6;19;7
+413;http://www.wikidata.org/entity/Q3264732;Luc Benoist;1893;1980;87;NA;Q3264732;26718324;FALSE;NA;1;NA;118912428;http://data.bnf.fr/ark:/12148/cb118912428#about;23;10;36;11
+414;http://www.wikidata.org/entity/Q18197788;Yvanhoé Rambosson;1872;1943;71;3;Q18197788;56962282;FALSE;NA;1;0.0441176470588235;14972413n;http://data.bnf.fr/ark:/12148/cb14972413n#about;11;10;11;10
+415;http://www.wikidata.org/entity/Q76322965;Paul Jamati;1890;1960;70;1;Q76322965;61537837;FALSE;NA;1;0.02;12714868n;http://data.bnf.fr/ark:/12148/cb12714868n#about;10;5;12;7
+416;http://www.wikidata.org/entity/Q16222736;Simon Gantillon;1887;1961;74;NA;Q16222736;50631764;FALSE;NA;1;NA;12731126g;http://data.bnf.fr/ark:/12148/cb12731126g#about;9;7;16;11
+417;http://www.wikidata.org/entity/Q23913603;Lucien Corpechot;1871;1944;73;NA;Q23913603;77502973;FALSE;NA;1;NA;13008806s;http://data.bnf.fr/ark:/12148/cb13008806s#about;15;14;16;15
+418;http://www.wikidata.org/entity/Q3370327;Paul-Louis Couchoud;1879;1959;80;9;Q3370327;35081317;FALSE;NA;1;0.147540983606557;134744959;http://data.bnf.fr/ark:/12148/cb134744959#about;24;16;27;19
+419;http://www.wikidata.org/entity/Q55231304;Paul Courteault;1867;1950;83;1;Q55231304;03273820X;FALSE;NA;1;0.0136986301369863;123710715;http://data.bnf.fr/ark:/12148/cb123710715#about;43;37;52;46
+420;http://www.wikidata.org/entity/Q2833874;Alexandre Mercereau;1884;1945;61;NA;Q2833874;35709731;FALSE;NA;1;NA;134873849;http://data.bnf.fr/ark:/12148/cb134873849#about;13;11;16;14
+421;http://www.wikidata.org/entity/Q2164420;Marcelle Auclair;1899;1983;84;4;Q2164420;26695405;FALSE;NA;1;0.0975609756097561;11889458x;http://data.bnf.fr/ark:/12148/cb11889458x#about;27;5;41;6
+422;http://www.wikidata.org/entity/Q61653695;François Le Grix;1881;1966;85;4;Q61653695;67022529;FALSE;NA;1;0.0677966101694915;12940111r;http://data.bnf.fr/ark:/12148/cb12940111r#about;18;11;20;12
+423;http://www.wikidata.org/entity/Q2509753;Paul Vialar;1898;1996;98;NA;Q2509753;27183211;FALSE;NA;1;NA;119281385;http://data.bnf.fr/ark:/12148/cb119281385#about;78;6;126;9
+424;http://www.wikidata.org/entity/Q18117860;Édouard de Rougemont;1881;1969;88;NA;Q18117860;119856026;FALSE;NA;1;NA;13001796m;http://data.bnf.fr/ark:/12148/cb13001796m#about;13;10;15;12
+425;http://www.wikidata.org/entity/Q2161746;Jacques Natanson;1901;1975;74;NA;Q2161746;30315336;FALSE;NA;1;NA;12175636x;http://data.bnf.fr/ark:/12148/cb12175636x#about;21;11;30;17
+426;http://www.wikidata.org/entity/Q2960165;Charles Régismanset;1877;1945;68;2;Q2960165;71389407;FALSE;NA;1;0.0317460317460317;12127130x;http://data.bnf.fr/ark:/12148/cb12127130x#about;6;5;7;6
+427;http://www.wikidata.org/entity/Q3103692;Georges de La Fouchardière;1874;1946;72;1;Q3103692;29546168;FALSE;NA;1;0.0151515151515152;12114964h;http://data.bnf.fr/ark:/12148/cb12114964h#about;13;12;14;12
+428;http://www.wikidata.org/entity/Q3425985;René Chambe;1889;1983;94;1;Q3425985;26776715;FALSE;NA;1;0.0196078431372549;11895934j;http://data.bnf.fr/ark:/12148/cb11895934j#about;20;5;38;11
+429;http://www.wikidata.org/entity/Q35231961;Marc-André Fabre;1894;1959;65;NA;Q35231961;30599296;FALSE;NA;1;NA;12198188x;http://data.bnf.fr/ark:/12148/cb12198188x#about;17;9;18;9
+430;http://www.wikidata.org/entity/Q3309546;Michel Duran;1900;1994;94;NA;Q3309546;32553587;FALSE;NA;1;NA;123561581;http://data.bnf.fr/ark:/12148/cb123561581#about;12;3;22;6
+431;http://www.wikidata.org/entity/Q3010142;Céline Arnauld;1885;1952;67;NA;Q3010142;06705692X;FALSE;NA;1;NA;130920854;http://data.bnf.fr/ark:/12148/cb130920854#about;10;10;11;11
+432;http://www.wikidata.org/entity/Q3372608;Paule Régnier;1888;1950;62;NA;Q3372608;145580830;FALSE;NA;1;NA;16950637k;http://data.bnf.fr/ark:/12148/cb16950637k#about;18;9;23;11
+433;http://www.wikidata.org/entity/Q2934992;Camille Le Mercier d'Erm;1888;1978;90;NA;Q2934992;26973901;FALSE;NA;1;NA;11911702x;http://data.bnf.fr/ark:/12148/cb11911702x#about;23;16;30;16
+434;http://www.wikidata.org/entity/Q3370518;Paul Arrighi;1895;1975;80;NA;Q3370518;33877408;FALSE;NA;1;NA;12468969r;http://data.bnf.fr/ark:/12148/cb12468969r#about;27;14;32;17
+435;http://www.wikidata.org/entity/Q3103199;Georges Millandy;1870;1964;94;NA;Q3103199;148523714;FALSE;NA;1;NA;125458596;http://data.bnf.fr/ark:/12148/cb125458596#about;18;14;23;19
+436;http://www.wikidata.org/entity/Q517886;Léon Groc;1882;1956;74;NA;Q517886;26903830;FALSE;NA;1;NA;11905961r;http://data.bnf.fr/ark:/12148/cb11905961r#about;71;41;85;46
+437;http://www.wikidata.org/entity/Q94246;René Guillot;1900;1969;69;NA;Q94246;71041192;FALSE;NA;1;NA;119064561;http://data.bnf.fr/ark:/12148/cb119064561#about;115;6;187;8
+438;http://www.wikidata.org/entity/Q3172448;Jean Guitton;1887;1973;86;NA;Q3172448;90189914;FALSE;NA;1;NA;11318323f;http://data.bnf.fr/ark:/12148/cb11318323f#about;8;6;9;6
+439;http://www.wikidata.org/entity/Q3047846;Edmond Guiraud;1879;1961;82;NA;Q3047846;88540146;FALSE;NA;1;NA;14653806s;http://data.bnf.fr/ark:/12148/cb14653806s#about;13;12;15;14
+440;http://www.wikidata.org/entity/Q3385721;Pierre Ladoué;1881;1973;92;NA;Q3385721;81873492;FALSE;NA;1;NA;126670472;http://data.bnf.fr/ark:/12148/cb126670472#about;29;15;32;17
+441;http://www.wikidata.org/entity/Q3131823;Henri Potez;1863;1946;83;5;Q3131823;33932093;FALSE;NA;1;0.0649350649350649;12473918v;http://data.bnf.fr/ark:/12148/cb12473918v#about;21;19;25;23
+442;http://www.wikidata.org/entity/Q15407114;Marie Dauguet;1860;1942;82;NA;Q15407114;108552322;FALSE;NA;1;NA;122870542;http://data.bnf.fr/ark:/12148/cb122870542#about;9;9;9;9
+443;http://www.wikidata.org/entity/Q55770622;Aimé Dupuy;1888;1976;88;NA;Q55770622;26845008;FALSE;NA;1;NA;10820459q;http://data.bnf.fr/ark:/12148/cb10820459q#about;15;6;17;8
+444;http://www.wikidata.org/entity/Q2374293;Yvonne Girault;1896;1984;88;NA;Q2374293;26893339;FALSE;NA;1;NA;11905090v;http://data.bnf.fr/ark:/12148/cb11905090v#about;23;13;25;13
+445;http://www.wikidata.org/entity/Q3170727;Jean Bernier;1894;1975;81;NA;Q3170727;03146193X;FALSE;NA;1;NA;122673387;http://data.bnf.fr/ark:/12148/cb122673387#about;6;5;10;6
+446;http://www.wikidata.org/entity/Q56072065;Ivan Gaussen;1896;1978;82;NA;Q56072065;26884771;FALSE;NA;1;NA;11904376w;http://data.bnf.fr/ark:/12148/cb11904376w#about;22;7;30;10
+447;http://www.wikidata.org/entity/Q3387618;Pierre de Massot;1900;1969;69;1;Q3387618;28197682;FALSE;NA;1;0.025;120081688;http://data.bnf.fr/ark:/12148/cb120081688#about;23;9;23;9
+448;http://www.wikidata.org/entity/Q15455107;Jacques de la Faye;1855;1940;85;1;Q15455107;29439906;FALSE;NA;1;0.0117647058823529;107229195;http://data.bnf.fr/ark:/12148/cb107229195#about;19;19;26;26
+449;http://www.wikidata.org/entity/Q29454721;Noël Bernard;1875;1971;96;NA;Q29454721;84439602;FALSE;NA;1;NA;123844282;http://data.bnf.fr/ark:/12148/cb123844282#about;13;7;16;10
+450;http://www.wikidata.org/entity/Q3271749;Léontine Zanta;1872;1942;70;NA;Q3271749;27202631;FALSE;NA;1;NA;131816698;http://data.bnf.fr/ark:/12148/cb131816698#about;9;7;11;8
+451;http://www.wikidata.org/entity/Q3577305;Ève Paul Margueritte;1885;1971;86;NA;Q3577305;27060691;FALSE;NA;1;NA;12630239p;http://data.bnf.fr/ark:/12148/cb12630239p#about;39;20;45;24
+452;http://www.wikidata.org/entity/Q2144687;René Guyon;1876;1963;87;NA;Q2144687;66888514;FALSE;NA;1;NA;13009920v;http://data.bnf.fr/ark:/12148/cb13009920v#about;14;13;15;14
+453;http://www.wikidata.org/entity/Q2847467;André Chagny;1872;1965;93;NA;Q2847467;08117585X;FALSE;NA;1;NA;125957845;http://data.bnf.fr/ark:/12148/cb125957845#about;69;51;84;54
+454;http://www.wikidata.org/entity/Q15967003;Simone Saint-Clair;1896;1975;79;NA;Q15967003;59625058;FALSE;NA;1;NA;10511758q;http://data.bnf.fr/ark:/12148/cb10511758q#about;23;9;24;9
+455;http://www.wikidata.org/entity/Q3158014;Jacques-Marie Rougé;1873;1956;83;1;Q3158014;27111164;FALSE;NA;1;0.0149253731343284;119227867;http://data.bnf.fr/ark:/12148/cb119227867#about;11;7;13;8
+456;http://www.wikidata.org/entity/Q18533836;Gabrielle Rosenthal;1881;1941;60;NA;Q18533836;174559615;FALSE;NA;1;NA;127277987;http://data.bnf.fr/ark:/12148/cb127277987#about;6;5;8;7
+457;http://www.wikidata.org/entity/Q1349886;Robert Florey;1900;1979;79;NA;Q1349886;33431965;FALSE;NA;1;NA;124297955;http://data.bnf.fr/ark:/12148/cb124297955#about;9;7;11;8
+458;http://www.wikidata.org/entity/Q3435362;Robert Havard de La Montagne;1877;1963;86;NA;Q3435362;81329857;FALSE;NA;1;NA;13091937h;http://data.bnf.fr/ark:/12148/cb13091937h#about;11;8;13;9
+459;http://www.wikidata.org/entity/Q20081099;Noël Clément-Janin;1862;1947;85;3;Q20081099;61167401;FALSE;NA;1;0.0384615384615385;128058007;http://data.bnf.fr/ark:/12148/cb128058007#about;30;29;31;30
+460;http://www.wikidata.org/entity/Q3102739;Georges Gabory;1899;1978;79;NA;Q3102739;28608399;FALSE;NA;1;NA;12040957q;http://data.bnf.fr/ark:/12148/cb12040957q#about;13;10;15;12
+461;http://www.wikidata.org/entity/Q3374036;Pedro Descoqs;1877;1946;69;NA;Q3374036;03340917X;FALSE;NA;1;NA;12427770b;http://data.bnf.fr/ark:/12148/cb12427770b#about;8;7;8;7
+462;http://www.wikidata.org/entity/Q3557310;Victor Féli;1861;1952;91;NA;Q3557310;86307215;FALSE;NA;1;NA;12731217s;http://data.bnf.fr/ark:/12148/cb12731217s#about;16;14;24;22
+463;http://www.wikidata.org/entity/Q29382408;André Bruyère;1882;1962;80;NA;Q29382408;76426017;FALSE;NA;1;NA;12130281m;http://data.bnf.fr/ark:/12148/cb12130281m#about;47;35;51;36
+464;http://www.wikidata.org/entity/Q55773042;Henry Corot;1864;1941;77;NA;Q55773042;164335749;FALSE;NA;1;NA;108484650;http://data.bnf.fr/ark:/12148/cb108484650#about;54;52;71;66
+465;http://www.wikidata.org/entity/Q3019118;Jules-Charles Truffier;1856;1943;87;3;Q3019118;60886218;FALSE;NA;1;0.0357142857142857;14843796f;http://data.bnf.fr/ark:/12148/cb14843796f#about;111;107;122;117
+466;http://www.wikidata.org/entity/Q3570825;Xavier Magallon;1866;1956;90;3;Q3570825;30506093;FALSE;NA;1;0.0405405405405405;121906631;http://data.bnf.fr/ark:/12148/cb121906631#about;25;20;29;22
+467;http://www.wikidata.org/entity/Q18238897;Marcel Bernhardt;1868;1942;74;1;Q18238897;30074649;FALSE;NA;1;0.0138888888888889;12156383f;http://data.bnf.fr/ark:/12148/cb12156383f#about;20;18;22;20
+468;http://www.wikidata.org/entity/Q2959159;Charles Gailly Taurines;1857;1941;84;1;Q2959159;34567682;FALSE;NA;1;0.0120481927710843;12531068s;http://data.bnf.fr/ark:/12148/cb12531068s#about;30;25;37;32
+469;http://www.wikidata.org/entity/Q64685131;Raymond Turenne;1861;1940;79;1;Q64685131;180463403;FALSE;NA;1;0.0126582278481013;15374522g;http://data.bnf.fr/ark:/12148/cb15374522g#about;5;5;7;7
+470;http://www.wikidata.org/entity/Q66793706;Achille Viallate;1866;1943;77;NA;Q66793706;67033482;FALSE;NA;1;NA;13204886n;http://data.bnf.fr/ark:/12148/cb13204886n#about;14;14;15;15
+471;http://www.wikidata.org/entity/Q3103217;Georges Montagnier;1892;1967;75;NA;Q3103217;167347179;FALSE;NA;1;NA;11185467q;http://data.bnf.fr/ark:/12148/cb11185467q#about;11;7;14;10
+472;http://www.wikidata.org/entity/Q3176135;Jeanne Mette;1867;1955;88;NA;Q3176135;67042295;FALSE;NA;1;NA;12149592g;http://data.bnf.fr/ark:/12148/cb12149592g#about;25;19;29;21
+473;http://www.wikidata.org/entity/Q3240951;Lily Lévy;1882;1958;76;NA;Q3240951;79211844;FALSE;NA;1;NA;12130564v;http://data.bnf.fr/ark:/12148/cb12130564v#about;33;24;40;30
+474;http://www.wikidata.org/entity/Q3588873;Émilie Tillion;1876;1945;69;NA;Q3588873;130704628;FALSE;NA;1;NA;12206539n;http://data.bnf.fr/ark:/12148/cb12206539n#about;10;8;14;11
+475;http://www.wikidata.org/entity/Q17635962;Olympe Gevin-Cassal;1859;1945;86;NA;Q17635962;153438029;FALSE;NA;1;NA;12994265z;http://data.bnf.fr/ark:/12148/cb12994265z#about;18;16;24;20
+476;http://www.wikidata.org/entity/Q18115688;Gaston Picard;1892;1962;70;1;Q18115688;77258223;FALSE;NA;0;0.0208333333333333;12467022c;http://data.bnf.fr/ark:/12148/cb12467022c#about;46;36;50;38
+477;http://www.wikidata.org/entity/Q3262603;Louis Mandin;1872;1943;71;NA;Q3262603;03399188X;FALSE;NA;0;NA;124792547;http://data.bnf.fr/ark:/12148/cb124792547#about;10;10;10;10
+478;http://www.wikidata.org/entity/Q3301127;Maurice Martin;1861;1941;80;NA;Q3301127;60260653;FALSE;NA;0;NA;10729416f;http://data.bnf.fr/ark:/12148/cb10729416f#about;7;5;11;7
+479;http://www.wikidata.org/entity/Q3171721;Jean Desthieux;1895;1944;49;3;Q3171721;56783213;FALSE;NA;0;0.0666666666666667;127353307;http://data.bnf.fr/ark:/12148/cb127353307#about;36;34;50;47
+480;http://www.wikidata.org/entity/Q1350743;Maurice Bedel;1883;1954;71;4;Q1350743;31763448;FALSE;NA;0;0.0701754385964912;12704634k;http://data.bnf.fr/ark:/12148/cb12704634k#about;36;23;71;44
+481;http://www.wikidata.org/entity/Q1533015;René Lalou;1889;1960;71;10;Q1533015;34000038;FALSE;NA;0;0.196078431372549;124800045;http://data.bnf.fr/ark:/12148/cb124800045#about;27;16;66;23
+482;http://www.wikidata.org/entity/Q3436735;Robert de Souza;1864;1946;82;1;Q3436735;33767718;FALSE;NA;0;0.0131578947368421;130067975;http://data.bnf.fr/ark:/12148/cb130067975#about;30;30;33;33
+483;http://www.wikidata.org/entity/Q18002932;Augustin-Thierry;1868;1956;88;NA;Q18002932;85592722;FALSE;NA;0;NA;12747209t;http://data.bnf.fr/ark:/12148/cb12747209t#about;24;19;35;26
+484;http://www.wikidata.org/entity/Q1614825;Paul Raynal;1885;1971;86;NA;Q1614825;145854019;FALSE;NA;0;NA;12365808c;http://data.bnf.fr/ark:/12148/cb12365808c#about;9;7;35;19
+485;http://www.wikidata.org/entity/Q1285628;Edmond Haraucourt;1856;1941;85;14;Q1285628;28281012;FALSE;NA;0;0.166666666666667;12014925f;http://data.bnf.fr/ark:/12148/cb12014925f#about;18;9;37;12
+486;http://www.wikidata.org/entity/Q17341422;Gaston Rageot;1871;1942;71;2;Q17341422;35576162;FALSE;NA;0;0.0289855072463768;134847104;http://data.bnf.fr/ark:/12148/cb134847104#about;52;50;61;59
+487;http://www.wikidata.org/entity/Q15407145;Fernand Divoire;1883;1951;68;NA;Q15407145;29710030;FALSE;NA;0;NA;12127604r;http://data.bnf.fr/ark:/12148/cb12127604r#about;30;27;42;36
+488;http://www.wikidata.org/entity/Q3579990;Édouard Peisson;1896;1963;67;NA;Q3579990;03028709X;FALSE;NA;0;NA;12173525h;http://data.bnf.fr/ark:/12148/cb12173525h#about;38;16;103;29
+489;http://www.wikidata.org/entity/Q3059862;Eugène Figuière;1882;1944;62;3;Q3059862;29654262;FALSE;NA;0;0.0517241379310345;12123327m;http://data.bnf.fr/ark:/12148/cb12123327m#about;25;24;27;25
+490;http://www.wikidata.org/entity/Q3131558;Henri Malo;1868;1948;80;7;Q3131558;60508078;FALSE;NA;0;0.0972222222222222;12623003n;http://data.bnf.fr/ark:/12148/cb12623003n#about;71;54;86;62
+491;http://www.wikidata.org/entity/Q3426406;René Jeanne;1887;1969;82;NA;Q3426406;31858686;FALSE;NA;0;NA;12299510h;http://data.bnf.fr/ark:/12148/cb12299510h#about;61;40;72;44
+492;http://www.wikidata.org/entity/Q15078859;Auguste Bailly;1878;1967;89;2;Q15078859;03348063X;FALSE;NA;0;0.032258064516129;12434252h;http://data.bnf.fr/ark:/12148/cb12434252h#about;74;46;112;66
+493;http://www.wikidata.org/entity/Q745528;Claude Aveline;1901;1992;91;NA;Q745528;154243035;FALSE;NA;0;NA;11889646g;http://data.bnf.fr/ark:/12148/cb11889646g#about;125;43;198;54
+494;http://www.wikidata.org/entity/Q3385091;Pierre Frondaie;1884;1948;64;NA;Q3385091;26876086;FALSE;NA;0;NA;11903677t;http://data.bnf.fr/ark:/12148/cb11903677t#about;47;43;120;99
+495;http://www.wikidata.org/entity/Q3271358;Léon Treich;1889;1973;84;NA;Q3271358;88011348;FALSE;NA;0;NA;127572498;http://data.bnf.fr/ark:/12148/cb127572498#about;34;9;37;9
+496;http://www.wikidata.org/entity/Q3288648;Marcel Batilliat;1871;1941;70;NA;Q3288648;33575401;FALSE;NA;0;NA;12442998g;http://data.bnf.fr/ark:/12148/cb12442998g#about;10;10;14;12
+497;http://www.wikidata.org/entity/Q20054488;Louis Roubaud;1884;1941;57;1;Q20054488;59644680;FALSE;NA;0;0.0178571428571429;12138083p;http://data.bnf.fr/ark:/12148/cb12138083p#about;29;26;39;34
+498;http://www.wikidata.org/entity/Q3103508;Georges Suarez;1890;1944;54;NA;Q3103508;28937929;FALSE;NA;0;NA;12067021b;http://data.bnf.fr/ark:/12148/cb12067021b#about;21;15;31;20
+499;http://www.wikidata.org/entity/Q25249306;Pierre Pascal;1909;1990;81;NA;Q25249306;160837804;FALSE;NA;0;NA;12100172r;http://data.bnf.fr/ark:/12148/cb12100172r#about;8;6;8;6
+500;http://www.wikidata.org/entity/Q15970691;René Jouglet;1884;1961;77;NA;Q15970691;67831699;FALSE;NA;0;NA;14037375r;http://data.bnf.fr/ark:/12148/cb14037375r#about;39;26;53;32
+501;http://www.wikidata.org/entity/Q3263181;Louis Thomas;1885;1962;77;NA;Q3263181;87813416;FALSE;NA;0;NA;12031019q;http://data.bnf.fr/ark:/12148/cb12031019q#about;65;46;73;50
+502;http://www.wikidata.org/entity/Q2621437;Charles Méré;1883;1970;87;NA;Q2621437;29952697;FALSE;NA;0;NA;12742053j;http://data.bnf.fr/ark:/12148/cb12742053j#about;38;38;63;63
+503;http://www.wikidata.org/entity/Q788152;Jean Fayard;1902;1978;76;1;Q788152;83336249;FALSE;NA;0;0.0263157894736842;11447312b;http://data.bnf.fr/ark:/12148/cb11447312b#about;29;25;35;28
+504;http://www.wikidata.org/entity/Q16915049;Paul Achard;1887;1962;75;NA;Q16915049;69750440;FALSE;NA;0;NA;14841972h;http://data.bnf.fr/ark:/12148/cb14841972h#about;29;17;46;22
+505;http://www.wikidata.org/entity/Q3185144;Joseph Jolinon;1885;1971;86;NA;Q3185144;83339639;FALSE;NA;0;NA;12738713g;http://data.bnf.fr/ark:/12148/cb12738713g#about;35;17;47;27
+506;http://www.wikidata.org/entity/Q3103265;Georges Normandy;1882;1946;64;6;Q3103265;28474031;FALSE;NA;0;0.103448275862069;12030242j;http://data.bnf.fr/ark:/12148/cb12030242j#about;33;27;38;31
+507;http://www.wikidata.org/entity/Q3105841;Gilbert Robin;1893;1967;74;NA;Q3105841;70134944;FALSE;NA;0;NA;127304022;http://data.bnf.fr/ark:/12148/cb127304022#about;33;19;43;20
+508;http://www.wikidata.org/entity/Q3276502;Magali;1898;1986;88;NA;Q3276502;02700113X;FALSE;NA;0;NA;11173944r;http://data.bnf.fr/ark:/12148/cb11173944r#about;38;36;47;39
+509;http://www.wikidata.org/entity/Q20731647;Raymond Schwab;1884;1956;72;2;Q20731647;27128830;FALSE;NA;0;0.0357142857142857;11924170p;http://data.bnf.fr/ark:/12148/cb11924170p#about;20;13;24;15
+510;http://www.wikidata.org/entity/Q2831177;Albert Flory;1890;1978;88;NA;Q2831177;88485595;FALSE;NA;0;NA;126061366;http://data.bnf.fr/ark:/12148/cb126061366#about;19;6;22;9
+511;http://www.wikidata.org/entity/Q15970640;Alex Coutet;1880;1952;72;NA;Q15970640;75775875;FALSE;NA;0;NA;12737781q;http://data.bnf.fr/ark:/12148/cb12737781q#about;15;7;15;7
+512;http://www.wikidata.org/entity/Q3387247;Pierre Veber;1869;1942;73;1;Q3387247;29463637;FALSE;NA;0;0.0140845070422535;12108574g;http://data.bnf.fr/ark:/12148/cb12108574g#about;28;25;37;30
+513;http://www.wikidata.org/entity/Q15407131;Cécile Périn;1877;1959;82;1;Q15407131;30304245;FALSE;NA;0;0.0158730158730159;12174802x;http://data.bnf.fr/ark:/12148/cb12174802x#about;19;12;21;13
+514;http://www.wikidata.org/entity/Q3573661;Yves Gandon;1899;1975;76;NA;Q3573661;26880555;FALSE;NA;0;NA;11904035g;http://data.bnf.fr/ark:/12148/cb11904035g#about;51;16;72;17
+515;http://www.wikidata.org/entity/Q1130529;Denys Amiel;1884;1977;93;2;Q1130529;30098432;FALSE;NA;0;0.0357142857142857;121582573;http://data.bnf.fr/ark:/12148/cb121582573#about;20;12;26;15
+516;http://www.wikidata.org/entity/Q15970553;André Armandy;1882;1958;76;NA;Q15970553;26690519;FALSE;NA;0;NA;118891076;http://data.bnf.fr/ark:/12148/cb118891076#about;41;28;69;36
+517;http://www.wikidata.org/entity/Q2847769;André Foulon de Vaulx;1873;1951;78;2;Q2847769;02960799X;FALSE;NA;0;0.0298507462686567;10066125g;http://data.bnf.fr/ark:/12148/cb10066125g#about;32;32;37;37
+518;http://www.wikidata.org/entity/Q3426180;René Fauchois;1882;1962;80;NA;Q3426180;59401001;FALSE;NA;0;NA;12144487d;http://data.bnf.fr/ark:/12148/cb12144487d#about;74;45;109;66
+519;http://www.wikidata.org/entity/Q15407444;Fernand Marc;1900;1979;79;NA;Q15407444;164281258;FALSE;NA;0;NA;14795645m;http://data.bnf.fr/ark:/12148/cb14795645m#about;21;17;23;18
+520;http://www.wikidata.org/entity/Q18533760;Pierre Jalabert;1881;1968;87;NA;Q18533760;85780960;FALSE;NA;0;NA;12739470q;http://data.bnf.fr/ark:/12148/cb12739470q#about;32;21;41;26
+521;http://www.wikidata.org/entity/Q3300288;Maurice-Pierre Boyé;1899;1968;69;NA;Q3300288;26748525;FALSE;NA;0;NA;118936734;http://data.bnf.fr/ark:/12148/cb118936734#about;17;10;25;12
+522;http://www.wikidata.org/entity/Q16546027;Daniel Thaly;1879;1950;71;NA;Q16546027;91602548;FALSE;NA;0;NA;126418013;http://data.bnf.fr/ark:/12148/cb126418013#about;9;8;9;8
+523;http://www.wikidata.org/entity/Q3171323;Noël Santon;1900;1958;58;NA;Q3171323;129433136;FALSE;NA;0;NA;102542947;http://data.bnf.fr/ark:/12148/cb102542947#about;35;29;44;32
+524;http://www.wikidata.org/entity/Q3360535;Marie-Louise Pailleron;1870;1951;81;NA;Q3360535;99215721;FALSE;NA;0;NA;12736794t;http://data.bnf.fr/ark:/12148/cb12736794t#about;40;35;45;40
+525;http://www.wikidata.org/entity/Q2861860;Armand Got;1890;1976;86;NA;Q2861860;26897881;FALSE;NA;0;NA;11905471p;http://data.bnf.fr/ark:/12148/cb11905471p#about;21;7;22;7
+526;http://www.wikidata.org/entity/Q3385286;Pierre Gourdon;1869;1952;83;NA;Q3385286;129584843;FALSE;NA;0;NA;12727841j;http://data.bnf.fr/ark:/12148/cb12727841j#about;69;50;74;54
+527;http://www.wikidata.org/entity/Q3158839;Jacques Dyssord;1880;1952;72;NA;Q3158839;57795118;FALSE;NA;0;NA;127375846;http://data.bnf.fr/ark:/12148/cb127375846#about;21;18;26;23
+528;http://www.wikidata.org/entity/Q47106892;Frédéric Saisset;1873;1953;80;NA;Q47106892;07668606X;FALSE;NA;0;NA;12749484m;http://data.bnf.fr/ark:/12148/cb12749484m#about;27;17;30;18
+529;http://www.wikidata.org/entity/Q3434634;Robert Bourget-Pailleron;1897;1970;73;NA;Q3434634;156055422;FALSE;NA;0;NA;11274694w;http://data.bnf.fr/ark:/12148/cb11274694w#about;24;10;28;11
+530;http://www.wikidata.org/entity/Q946896;Léon de Poncins;1897;1975;78;1;Q946896;27078566;FALSE;NA;0;0.0232558139534884;11920245s;http://data.bnf.fr/ark:/12148/cb11920245s#about;28;15;36;17
+531;http://www.wikidata.org/entity/Q3426156;René Duverne;1893;1974;81;1;Q3426156;139262369;FALSE;NA;0;0.0212765957446809;10894972q;http://data.bnf.fr/ark:/12148/cb10894972q#about;75;48;83;50
+532;http://www.wikidata.org/entity/Q3384359;Pierre Chanlaine;1885;1969;84;NA;Q3384359;148603564;FALSE;NA;0;NA;12137459p;http://data.bnf.fr/ark:/12148/cb12137459p#about;58;25;78;32
+533;http://www.wikidata.org/entity/Q50322613;Jean Suberville;1887;1953;66;NA;Q50322613;59636971;FALSE;NA;0;NA;12743797b;http://data.bnf.fr/ark:/12148/cb12743797b#about;25;16;32;20
+534;http://www.wikidata.org/entity/Q3047991;Edmond Spalikowski;1874;1951;77;NA;Q3047991;84434066;FALSE;NA;0;NA;12692625t;http://data.bnf.fr/ark:/12148/cb12692625t#about;85;79;98;87
+535;http://www.wikidata.org/entity/Q19631247;Hector Talvart;1880;1959;79;3;Q19631247;27154327;FALSE;NA;0;0.05;119259704;http://data.bnf.fr/ark:/12148/cb119259704#about;109;69;114;72
+536;http://www.wikidata.org/entity/Q3056972;Ernest Gaubert;1881;1945;64;NA;Q3056972;29476046;FALSE;NA;0;NA;12109535t;http://data.bnf.fr/ark:/12148/cb12109535t#about;37;37;46;46
+537;http://www.wikidata.org/entity/Q3298941;Mathilde Alanic;1864;1948;84;NA;Q3298941;78058805;FALSE;NA;0;NA;127262409;http://data.bnf.fr/ark:/12148/cb127262409#about;62;56;94;81
+538;http://www.wikidata.org/entity/Q2366496;René Laporte;1905;1954;49;NA;Q2366496;72479671;FALSE;NA;0;NA;120266975;http://data.bnf.fr/ark:/12148/cb120266975#about;31;10;42;14
+539;http://www.wikidata.org/entity/Q2898373;Bernard Nabonne;1897;1951;54;NA;Q2898373;92611982;FALSE;NA;0;NA;12738086r;http://data.bnf.fr/ark:/12148/cb12738086r#about;19;10;27;15
+540;http://www.wikidata.org/entity/Q2934897;Camille Cé;1878;1959;81;NA;Q2934897;67387535;FALSE;NA;0;NA;15457337f;http://data.bnf.fr/ark:/12148/cb15457337f#about;11;11;15;15
+541;http://www.wikidata.org/entity/Q3372217;Paul Souchon;1874;1951;77;1;Q3372217;29716462;FALSE;NA;0;0.0151515151515152;13558693w;http://data.bnf.fr/ark:/12148/cb13558693w#about;34;23;41;28
+542;http://www.wikidata.org/entity/Q57280911;Henri Brochet;1898;1952;54;NA;Q57280911;57171459;FALSE;NA;0;NA;142984270;http://data.bnf.fr/ark:/12148/cb142984270#about;106;53;123;60
+543;http://www.wikidata.org/entity/Q26235213;Alphonse Métérié;1887;1967;80;NA;Q26235213;190609303;FALSE;NA;0;NA;14770821j;http://data.bnf.fr/ark:/12148/cb14770821j#about;14;11;14;11
+544;http://www.wikidata.org/entity/Q18012066;Judith Cladel;1873;1958;85;3;Q18012066;33447764;FALSE;NA;0;0.0447761194029851;12431203k;http://data.bnf.fr/ark:/12148/cb12431203k#about;15;12;18;13
+545;http://www.wikidata.org/entity/Q3296323;Maryse Choisy;1903;1979;76;NA;Q3296323;26787571;FALSE;NA;0;NA;11896739z;http://data.bnf.fr/ark:/12148/cb11896739z#about;41;19;49;25
+546;http://www.wikidata.org/entity/Q2383116;Jean Marquet;1883;1954;71;NA;Q2383116;144547554;FALSE;NA;0;NA;127369513;http://data.bnf.fr/ark:/12148/cb127369513#about;11;10;15;13
+547;http://www.wikidata.org/entity/Q3122002;Guy Mazeline;1900;1996;96;NA;Q3122002;67045650;FALSE;NA;0;NA;12155078s;http://data.bnf.fr/ark:/12148/cb12155078s#about;24;13;35;21
+548;http://www.wikidata.org/entity/Q55771779;Henri Sérouya;1895;1968;73;NA;Q55771779;27133044;FALSE;NA;0;NA;11924488k;http://data.bnf.fr/ark:/12148/cb11924488k#about;31;5;41;6
+549;http://www.wikidata.org/entity/Q3103663;Georges d'Esparbès;1863;1944;81;5;Q3103663;29502268;FALSE;NA;0;0.0649350649350649;127289892;http://data.bnf.fr/ark:/12148/cb127289892#about;40;36;56;46
+550;http://www.wikidata.org/entity/Q1508805;Georges Berr;1867;1942;75;NA;Q1508805;67260667;FALSE;NA;0;NA;12944625s;http://data.bnf.fr/ark:/12148/cb12944625s#about;62;55;75;59
+551;http://www.wikidata.org/entity/Q24680816;Jean Lescoffier;1875;1947;72;NA;Q24680816;03375621X;FALSE;NA;0;NA;13001741b;http://data.bnf.fr/ark:/12148/cb13001741b#about;12;11;13;11
+552;http://www.wikidata.org/entity/Q3384059;Pierre Bonardi;1887;1964;77;1;Q3384059;72643722;FALSE;NA;0;0.0188679245283019;127379442;http://data.bnf.fr/ark:/12148/cb127379442#about;22;16;33;23
+553;http://www.wikidata.org/entity/Q88342108;Albert Acremant;1882;1942;60;1;Q88342108;33189005;FALSE;NA;0;0.0172413793103448;12408074m;http://data.bnf.fr/ark:/12148/cb12408074m#about;10;9;10;9
+554;http://www.wikidata.org/entity/Q3302224;Max Maurey;1866;1947;81;NA;Q3302224;67387764;FALSE;NA;0;NA;127285309;http://data.bnf.fr/ark:/12148/cb127285309#about;53;41;65;44
+555;http://www.wikidata.org/entity/Q692757;Lucien Fabre;1889;1952;63;NA;Q692757;26856344;FALSE;NA;0;NA;11902117b;http://data.bnf.fr/ark:/12148/cb11902117b#about;15;10;19;14
+556;http://www.wikidata.org/entity/Q3174103;Jean Pourtal de Ladevèze;1898;1976;78;NA;Q3174103;103669302;FALSE;NA;0;NA;12632748h;http://data.bnf.fr/ark:/12148/cb12632748h#about;32;10;33;10
+557;http://www.wikidata.org/entity/Q50386888;Raymond Cortat;1901;1972;71;NA;Q50386888;68936249;FALSE;NA;0;NA;10999923w;http://data.bnf.fr/ark:/12148/cb10999923w#about;11;5;47;9
+558;http://www.wikidata.org/entity/Q2848182;André Lorulot;1885;1963;78;3;Q2848182;29771439;FALSE;NA;0;0.0545454545454545;121323801;http://data.bnf.fr/ark:/12148/cb121323801#about;108;77;116;83
+559;http://www.wikidata.org/entity/Q24648709;Édouard Schneider;1880;1960;80;1;Q24648709;29714273;FALSE;NA;0;0.0166666666666667;12127929x;http://data.bnf.fr/ark:/12148/cb12127929x#about;37;33;55;45
+560;http://www.wikidata.org/entity/Q3426783;René Pujol;1878;1942;64;NA;Q3426783;138146349;FALSE;NA;0;NA;148282589;http://data.bnf.fr/ark:/12148/cb148282589#about;50;46;80;73
+561;http://www.wikidata.org/entity/Q15407225;Marcel Thiébaut;1897;1961;64;NA;Q15407225;03499971X;FALSE;NA;0;NA;12569087m;http://data.bnf.fr/ark:/12148/cb12569087m#about;18;12;21;15
+562;http://www.wikidata.org/entity/Q17496818;Antonine Coullet;1892;1983;91;NA;Q17496818;91007682;FALSE;NA;0;NA;112757305;http://data.bnf.fr/ark:/12148/cb112757305#about;15;11;20;14
+563;http://www.wikidata.org/entity/Q1630517;René Trintzius;1898;1953;55;NA;Q1630517;30057345;FALSE;NA;0;NA;121550674;http://data.bnf.fr/ark:/12148/cb121550674#about;28;11;39;19
+564;http://www.wikidata.org/entity/Q2847829;André George;1890;1978;88;NA;Q2847829;33668817;FALSE;NA;0;NA;12451284t;http://data.bnf.fr/ark:/12148/cb12451284t#about;21;17;36;22
+565;http://www.wikidata.org/entity/Q59626444;Jean de Pierrefeu;1881;1940;59;1;Q59626444;30257344;FALSE;NA;0;0.0169491525423729;12171202j;http://data.bnf.fr/ark:/12148/cb12171202j#about;18;17;20;18
+566;http://www.wikidata.org/entity/Q3288641;Marcel Barrière;1860;1954;94;NA;Q3288641;77590872;FALSE;NA;0;NA;127300933;http://data.bnf.fr/ark:/12148/cb127300933#about;18;17;22;20
+567;http://www.wikidata.org/entity/Q3592352;Étienne Rey;1879;1965;86;2;Q3592352;34555455;FALSE;NA;0;0.0327868852459016;125299262;http://data.bnf.fr/ark:/12148/cb125299262#about;28;25;37;33
+568;http://www.wikidata.org/entity/Q177300;René Lote;1883;1944;61;NA;Q177300;67646689;FALSE;NA;0;NA;12707211j;http://data.bnf.fr/ark:/12148/cb12707211j#about;29;28;33;32
+569;http://www.wikidata.org/entity/Q15987813;Max Fischer;1880;1957;77;NA;Q15987813;114457328;FALSE;NA;0;NA;13487572v;http://data.bnf.fr/ark:/12148/cb13487572v#about;46;42;61;54
+570;http://www.wikidata.org/entity/Q3074332;Floris Delattre;1880;1950;70;NA;Q3074332;32022328;FALSE;NA;0;NA;12313119k;http://data.bnf.fr/ark:/12148/cb12313119k#about;16;12;18;12
+571;http://www.wikidata.org/entity/Q2593206;Georges Polti;1867;1946;79;NA;Q2593206;56742312;FALSE;NA;0;NA;12632345c;http://data.bnf.fr/ark:/12148/cb12632345c#about;18;18;28;22
+572;http://www.wikidata.org/entity/Q3102258;Georges Beaume;1861;1940;79;NA;Q3102258;78812321;FALSE;NA;0;NA;127286192;http://data.bnf.fr/ark:/12148/cb127286192#about;65;63;84;78
+573;http://www.wikidata.org/entity/Q3515001;Tancrède de Visan;1878;1945;67;8;Q3515001;80779476;FALSE;NA;0;0.129032258064516;127383408;http://data.bnf.fr/ark:/12148/cb127383408#about;14;14;19;19
+574;http://www.wikidata.org/entity/Q2366325;Louis Francis;1900;1959;59;NA;Q2366325;114271615;FALSE;NA;0;NA;109509963;http://data.bnf.fr/ark:/12148/cb109509963#about;8;5;11;7
+575;http://www.wikidata.org/entity/Q3142536;Hugues Delorme;1868;1942;74;NA;Q3142536;111190347;FALSE;NA;0;NA;14654146b;http://data.bnf.fr/ark:/12148/cb14654146b#about;64;53;68;56
+576;http://www.wikidata.org/entity/Q3261112;Louis Artus;1870;1960;90;NA;Q3261112;91305357;FALSE;NA;0;NA;12734710g;http://data.bnf.fr/ark:/12148/cb12734710g#about;44;40;48;41
+577;http://www.wikidata.org/entity/Q3438811;Roger Chauviré;1880;1957;77;NA;Q3438811;03251624X;FALSE;NA;0;NA;123531229;http://data.bnf.fr/ark:/12148/cb123531229#about;15;5;19;6
+578;http://www.wikidata.org/entity/Q59531394;Rose Celli;1895;1982;87;NA;Q59531394;31759343;FALSE;NA;0;NA;12291477k;http://data.bnf.fr/ark:/12148/cb12291477k#about;17;12;34;12
+579;http://www.wikidata.org/entity/Q3035005;Dominique Bonnaud;1864;1943;79;2;Q3035005;154244244;FALSE;NA;0;0.0263157894736842;14670131r;http://data.bnf.fr/ark:/12148/cb14670131r#about;36;16;38;18
+580;http://www.wikidata.org/entity/Q3100629;Geneviève Duhamelet;1890;1980;90;2;Q3100629;79979025;FALSE;NA;0;0.04;111998926;http://data.bnf.fr/ark:/12148/cb111998926#about;64;22;82;26
+581;http://www.wikidata.org/entity/Q3186603;José de Bérys;1883;1957;74;1;Q3186603;35214422;FALSE;NA;0;0.0175438596491228;13477335w;http://data.bnf.fr/ark:/12148/cb13477335w#about;49;43;49;43
+582;http://www.wikidata.org/entity/Q19294993;Louis Guimbaud;1869;1957;88;1;Q19294993;82029040;FALSE;NA;0;0.0140845070422535;12751200g;http://data.bnf.fr/ark:/12148/cb12751200g#about;16;13;21;16
+583;http://www.wikidata.org/entity/Q3291515;Marie-Anne Comnène;1887;1978;91;NA;Q3291515;87689855;FALSE;NA;0;NA;10890834x;http://data.bnf.fr/ark:/12148/cb10890834x#about;16;9;26;14
+584;http://www.wikidata.org/entity/Q20775499;René Martel;1893;1976;83;NA;Q20775499;83814396;FALSE;NA;0;NA;108670741;http://data.bnf.fr/ark:/12148/cb108670741#about;11;8;12;9
+585;http://www.wikidata.org/entity/Q3265397;Lucien Boyer;1876;1942;66;NA;Q3265397;33166153;FALSE;NA;0;NA;12406046w;http://data.bnf.fr/ark:/12148/cb12406046w#about;46;40;58;52
+586;http://www.wikidata.org/entity/Q2935006;Camille Marbo;1883;1969;86;NA;Q2935006;52464180;FALSE;NA;0;NA;12735136r;http://data.bnf.fr/ark:/12148/cb12735136r#about;40;10;48;13
+587;http://www.wikidata.org/entity/Q3484648;Simonne Ratel;1900;1948;48;NA;Q3484648;144707225;FALSE;NA;0;NA;10976748j;http://data.bnf.fr/ark:/12148/cb10976748j#about;18;14;27;17
+588;http://www.wikidata.org/entity/Q56072009;Amélie Fillon;1880;1968;88;NA;Q56072009;145509575;FALSE;NA;0;NA;12919001q;http://data.bnf.fr/ark:/12148/cb12919001q#about;14;8;15;9
+589;http://www.wikidata.org/entity/Q93990699;Line Deberre;1886;1976;90;NA;Q93990699;129588571;FALSE;NA;0;NA;155802289;http://data.bnf.fr/ark:/12148/cb155802289#about;103;77;105;79
+590;http://www.wikidata.org/entity/Q50385733;Marguerite Duportal;1869;1946;77;NA;Q50385733;197878245;FALSE;NA;0;NA;130087938;http://data.bnf.fr/ark:/12148/cb130087938#about;25;22;28;24
+591;http://www.wikidata.org/entity/Q3438638;Roger Allard;1885;1961;76;1;Q3438638;136870163;FALSE;NA;0;0.0181818181818182;12001235w;http://data.bnf.fr/ark:/12148/cb12001235w#about;27;25;29;26
+592;http://www.wikidata.org/entity/Q15970621;André Charpentier;1884;1966;82;NA;Q15970621;119131625;FALSE;NA;0;NA;12147753n;http://data.bnf.fr/ark:/12148/cb12147753n#about;50;35;54;37
+593;http://www.wikidata.org/entity/Q2847302;André Birabeau;1890;1974;84;NA;Q2847302;68706014;FALSE;NA;0;NA;15072574q;http://data.bnf.fr/ark:/12148/cb15072574q#about;56;38;79;57
+594;http://www.wikidata.org/entity/Q27535587;Henri Chabrol;1897;1981;84;NA;Q27535587;180991639;FALSE;NA;0;NA;11895847m;http://data.bnf.fr/ark:/12148/cb11895847m#about;20;7;23;9
+595;http://www.wikidata.org/entity/Q50384923;Charles Clerc;1879;1960;81;NA;Q50384923;84760834;FALSE;NA;0;NA;131945588;http://data.bnf.fr/ark:/12148/cb131945588#about;24;18;26;19
+596;http://www.wikidata.org/entity/Q2978154;Claude Silve;1887;1978;91;1;Q2978154;92002226;FALSE;NA;0;0.0188679245283019;107483766;http://data.bnf.fr/ark:/12148/cb107483766#about;6;5;15;13
+597;http://www.wikidata.org/entity/Q3271853;Léopold Marchand;1891;1952;61;NA;Q3271853;77445686;FALSE;NA;0;NA;126233849;http://data.bnf.fr/ark:/12148/cb126233849#about;16;11;27;20
+598;http://www.wikidata.org/entity/Q2830274;Alain Serdac;1898;1982;84;NA;Q2830274;59312963;FALSE;NA;0;NA;10109442j;http://data.bnf.fr/ark:/12148/cb10109442j#about;12;7;17;12
+599;http://www.wikidata.org/entity/Q3089657;Frédéric Boutet;1874;1941;67;NA;Q3089657;83483144;FALSE;NA;0;NA;12728606q;http://data.bnf.fr/ark:/12148/cb12728606q#about;60;55;63;58
+600;http://www.wikidata.org/entity/Q3134554;Hervé Lauwick;1891;1975;84;NA;Q3134554;83240993;FALSE;NA;0;NA;12618889d;http://data.bnf.fr/ark:/12148/cb12618889d#about;45;17;49;19
+601;http://www.wikidata.org/entity/Q3292379;Marie Barrère-Affre;1885;1963;78;NA;Q3292379;61676373;FALSE;NA;0;NA;111946468;http://data.bnf.fr/ark:/12148/cb111946468#about;65;32;72;34
+602;http://www.wikidata.org/entity/Q19958529;Claire Sainte-Soline;1891;1967;76;NA;Q19958529;27119262;FALSE;NA;0;NA;11923419h;http://data.bnf.fr/ark:/12148/cb11923419h#about;24;5;34;9
+603;http://www.wikidata.org/entity/Q518783;André Germain;1882;1971;89;NA;Q518783;60295325;FALSE;NA;0;NA;13321429k;http://data.bnf.fr/ark:/12148/cb13321429k#about;42;26;55;35
+604;http://www.wikidata.org/entity/Q48889747;Charles Foleÿ;1861;1956;95;NA;Q48889747;29245826;FALSE;NA;0;NA;12091284z;http://data.bnf.fr/ark:/12148/cb12091284z#about;6;5;9;8
+605;http://www.wikidata.org/entity/Q3384251;Pierre Bénard;1898;1946;48;NA;Q3384251;174562349;FALSE;NA;0;NA;10939921z;http://data.bnf.fr/ark:/12148/cb10939921z#about;5;5;6;6
+606;http://www.wikidata.org/entity/Q523569;André de Lorde;1869;1942;73;NA;Q523569;29614848;FALSE;NA;0;NA;121203465;http://data.bnf.fr/ark:/12148/cb121203465#about;51;50;67;64
+607;http://www.wikidata.org/entity/Q3175794;Jean des Vallières;1895;1970;75;NA;Q3175794;26826135;FALSE;NA;0;NA;11899738b;http://data.bnf.fr/ark:/12148/cb11899738b#about;29;15;31;15
+608;http://www.wikidata.org/entity/Q17486069;Thérèse Lenôtre;1894;1986;92;NA;Q17486069;26983338;FALSE;NA;0;NA;119124537;http://data.bnf.fr/ark:/12148/cb119124537#about;23;15;31;20
+609;http://www.wikidata.org/entity/Q50387161;Auguste-Pierre Garnier;1885;1966;81;NA;Q50387161;90300378;FALSE;NA;0;NA;112543652;http://data.bnf.fr/ark:/12148/cb112543652#about;26;18;31;23
+610;http://www.wikidata.org/entity/Q3160362;Jacques Des Gachons;1868;1945;77;2;Q3160362;84256664;FALSE;NA;0;0.0277777777777778;130919187;http://data.bnf.fr/ark:/12148/cb130919187#about;59;56;90;79
+611;http://www.wikidata.org/entity/Q3484623;Simone Téry;1897;1967;70;NA;Q3484623;05688964X;FALSE;NA;0;NA;129380983;http://data.bnf.fr/ark:/12148/cb129380983#about;13;7;23;8
+612;http://www.wikidata.org/entity/Q3122298;Guy de Téramond;1869;1957;88;NA;Q3122298;68961669;FALSE;NA;0;NA;12102847z;http://data.bnf.fr/ark:/12148/cb12102847z#about;13;11;15;12
+613;http://www.wikidata.org/entity/Q16219386;Marie de Sormiou;1865;1956;91;NA;Q16219386;170630005;FALSE;NA;0;NA;10745092w;http://data.bnf.fr/ark:/12148/cb10745092w#about;9;7;9;7
+614;http://www.wikidata.org/entity/Q1508996;Georges Lote;1880;1949;69;NA;Q1508996;26995085;FALSE;NA;0;NA;11913400w;http://data.bnf.fr/ark:/12148/cb11913400w#about;14;11;20;11
+615;http://www.wikidata.org/entity/Q3084022;François Bonjean;1884;1963;79;NA;Q3084022;30099129;FALSE;NA;0;NA;12158310q;http://data.bnf.fr/ark:/12148/cb12158310q#about;17;6;25;10
+616;http://www.wikidata.org/entity/Q19518238;Pierre Mornand;1884;1972;88;NA;Q19518238;27039021;FALSE;NA;0;NA;126270206;http://data.bnf.fr/ark:/12148/cb126270206#about;31;15;34;16
+617;http://www.wikidata.org/entity/Q1574176;Pierre Apesteguy;1912;1972;60;NA;Q1574176;30856639;FALSE;NA;0;NA;12218835s;http://data.bnf.fr/ark:/12148/cb12218835s#about;16;4;23;6
+618;http://www.wikidata.org/entity/Q3288931;Marcel Espiau;1899;1971;72;NA;Q3288931;56768427;FALSE;NA;0;NA;10948993s;http://data.bnf.fr/ark:/12148/cb10948993s#about;7;6;9;8
+619;http://www.wikidata.org/entity/Q3436454;Robert Vallery-Radot;1885;1970;85;NA;Q3436454;83900799;FALSE;NA;0;NA;12187425d;http://data.bnf.fr/ark:/12148/cb12187425d#about;28;20;42;32
+620;http://www.wikidata.org/entity/Q3268294;Lya Berger;1877;1941;64;NA;Q3268294;10843687X;FALSE;NA;0;NA;12730235g;http://data.bnf.fr/ark:/12148/cb12730235g#about;24;23;26;24
+621;http://www.wikidata.org/entity/Q23765768;Martial Piéchaud;1888;1957;69;NA;Q23765768;126504237;FALSE;NA;0;NA;10448808k;http://data.bnf.fr/ark:/12148/cb10448808k#about;18;14;21;17
+622;http://www.wikidata.org/entity/Q55629448;Edmond Delage;1886;1968;82;NA;Q55629448;26818477;FALSE;NA;0;NA;11899172v;http://data.bnf.fr/ark:/12148/cb11899172v#about;13;10;15;10
+623;http://www.wikidata.org/entity/Q83018819;Victor Goedorp;1874;1963;89;NA;Q83018819;140383735;FALSE;NA;0;NA;127363863;http://data.bnf.fr/ark:/12148/cb127363863#about;13;9;14;10
+624;http://www.wikidata.org/entity/Q992969;Jean Hytier;1899;1983;84;4;Q992969;26929430;FALSE;NA;0;0.0975609756097561;11908126r;http://data.bnf.fr/ark:/12148/cb11908126r#about;12;8;16;9
+625;http://www.wikidata.org/entity/Q53434532;Pierre La Mazière;1879;1947;68;1;Q53434532;88472787;FALSE;NA;0;0.0163934426229508;127353338;http://data.bnf.fr/ark:/12148/cb127353338#about;14;14;21;21
+626;http://www.wikidata.org/entity/Q3271414;Léon Xanrof;1867;1953;86;NA;Q3271414;86703633;FALSE;NA;0;NA;124075424;http://data.bnf.fr/ark:/12148/cb124075424#about;6;4;18;16
+627;http://www.wikidata.org/entity/Q3384354;Pierre Chaine;1882;1963;81;NA;Q3384354;80917003;FALSE;NA;0;NA;12662869c;http://data.bnf.fr/ark:/12148/cb12662869c#about;31;23;45;33
+628;http://www.wikidata.org/entity/Q1543235;Marc Henry;1873;1943;70;NA;Q1543235;59056657;FALSE;NA;0;NA;12138605j;http://data.bnf.fr/ark:/12148/cb12138605j#about;9;9;9;9
+629;http://www.wikidata.org/entity/Q3426263;René Georgin;1888;1978;90;NA;Q3426263;59194529;FALSE;NA;0;NA;12608548s;http://data.bnf.fr/ark:/12148/cb12608548s#about;16;5;34;10
+630;http://www.wikidata.org/entity/Q15970545;Alfred Colling;1902;1981;79;NA;Q15970545;85697133;FALSE;NA;0;NA;12597843b;http://data.bnf.fr/ark:/12148/cb12597843b#about;23;10;30;12
+631;http://www.wikidata.org/entity/Q72356527;Constantin Photiadès;1883;1949;66;NA;Q72356527;150665865;FALSE;NA;0;NA;143131849;http://data.bnf.fr/ark:/12148/cb143131849#about;29;28;31;30
+632;http://www.wikidata.org/entity/Q3169567;Jean-Pierre Maxence;1906;1956;50;2;Q3169567;30891299;FALSE;NA;0;0.0588235294117647;122216123;http://data.bnf.fr/ark:/12148/cb122216123#about;13;8;15;9
+633;http://www.wikidata.org/entity/Q767118;Jacques Decrest;1893;1954;61;NA;Q767118;26816865;FALSE;NA;0;NA;11899051m;http://data.bnf.fr/ark:/12148/cb11899051m#about;10;3;24;6
+634;http://www.wikidata.org/entity/Q67373558;Charles Fegdal;1880;1944;64;NA;Q67373558;81821646;FALSE;NA;0;NA;127312916;http://data.bnf.fr/ark:/12148/cb127312916#about;14;12;23;19
+635;http://www.wikidata.org/entity/Q54365956;Jacques Heugel;1890;1979;89;NA;Q54365956;20335270X;FALSE;NA;0;NA;14826308j;http://data.bnf.fr/ark:/12148/cb14826308j#about;23;9;25;9
+636;http://www.wikidata.org/entity/Q585568;Antoine Adam;1899;1980;81;NA;Q585568;157123863;FALSE;NA;0;NA;11929829c;http://data.bnf.fr/ark:/12148/cb11929829c#about;15;3;27;6
+637;http://www.wikidata.org/entity/Q2965734;Christiane Aimery;1883;1964;81;NA;Q2965734;178378496;FALSE;NA;0;NA;11133463t;http://data.bnf.fr/ark:/12148/cb11133463t#about;32;12;34;12
+638;http://www.wikidata.org/entity/Q3271111;Léon Lafage;1874;1953;79;NA;Q3271111;70010781;FALSE;NA;0;NA;12730810s;http://data.bnf.fr/ark:/12148/cb12730810s#about;11;10;13;11
+639;http://www.wikidata.org/entity/Q60580728;Gabriel Bernard;1882;1954;72;NA;Q60580728;71463720;FALSE;NA;0;NA;13004761p;http://data.bnf.fr/ark:/12148/cb13004761p#about;5;5;6;6
+640;http://www.wikidata.org/entity/Q23765883;Jean Robiquet;1874;1960;86;4;Q23765883;60889489;FALSE;NA;0;0.0606060606060606;128862950;http://data.bnf.fr/ark:/12148/cb128862950#about;17;13;19;14
+641;http://www.wikidata.org/entity/Q3159872;Jacques Richepin;1880;1946;66;NA;Q3159872;34111166;FALSE;NA;0;NA;12490180r;http://data.bnf.fr/ark:/12148/cb12490180r#about;16;14;24;20
+642;http://www.wikidata.org/entity/Q15970534;Max Régnier;1905;1969;64;NA;Q15970534;130310956;FALSE;NA;0;NA;12326807f;http://data.bnf.fr/ark:/12148/cb12326807f#about;26;4;38;7
+643;http://www.wikidata.org/entity/Q19630650;Aurèle Patorni;1880;1955;75;NA;Q19630650;180412884;FALSE;NA;0;NA;121247525;http://data.bnf.fr/ark:/12148/cb121247525#about;15;10;19;12
+644;http://www.wikidata.org/entity/Q3438929;Roger Dévigne;1885;1965;80;NA;Q3438929;35709286;FALSE;NA;0;NA;134873609;http://data.bnf.fr/ark:/12148/cb134873609#about;23;16;25;18
+645;http://www.wikidata.org/entity/Q472402;Jean Stern;1875;1962;87;NA;Q472402;60267747;FALSE;NA;0;NA;14316230c;http://data.bnf.fr/ark:/12148/cb14316230c#about;15;7;17;9
+646;http://www.wikidata.org/entity/Q18115548;André Maurel;1863;1943;80;NA;Q18115548;60371943;FALSE;NA;0;NA;127260444;http://data.bnf.fr/ark:/12148/cb127260444#about;35;33;49;41
+647;http://www.wikidata.org/entity/Q29473974;Maurice Guierre;1888;1972;84;NA;Q29473974;87679701;FALSE;NA;0;NA;113002905;http://data.bnf.fr/ark:/12148/cb113002905#about;14;6;17;7
+648;http://www.wikidata.org/entity/Q2935011;Camille Mayran;1889;1989;100;NA;Q2935011;27020304;FALSE;NA;0;NA;11915360z;http://data.bnf.fr/ark:/12148/cb11915360z#about;10;5;13;8
+649;http://www.wikidata.org/entity/Q50385269;Jeanne Ramel-Cals;1883;1976;93;NA;Q50385269;69867631;FALSE;NA;0;NA;12741294f;http://data.bnf.fr/ark:/12148/cb12741294f#about;15;11;18;13
+650;http://www.wikidata.org/entity/Q27049491;George Delamare;1881;1975;94;NA;Q27049491;02992782X;FALSE;NA;0;NA;12144945v;http://data.bnf.fr/ark:/12148/cb12144945v#about;20;12;24;15
+651;http://www.wikidata.org/entity/Q3175548;Jean de Létraz;1897;1954;57;NA;Q3175548;81715196;FALSE;NA;0;NA;126207793;http://data.bnf.fr/ark:/12148/cb126207793#about;33;11;49;20
+652;http://www.wikidata.org/entity/Q2821539;Abel Tarride;1865;1951;86;NA;Q2821539;89491653;FALSE;NA;0;NA;146537609;http://data.bnf.fr/ark:/12148/cb146537609#about;8;8;10;9
+653;http://www.wikidata.org/entity/Q17277800;Jean-Victor Pellerin;1889;1970;81;NA;Q17277800;30304008;FALSE;NA;0;NA;12174783g;http://data.bnf.fr/ark:/12148/cb12174783g#about;22;8;22;8
+654;http://www.wikidata.org/entity/Q22210357;Alphonse Crozière;1873;1946;73;NA;Q22210357;171336933;FALSE;NA;0;NA;148570166;http://data.bnf.fr/ark:/12148/cb148570166#about;55;45;56;46
+655;http://www.wikidata.org/entity/Q3420821;Raymond Duncan;1874;1966;92;NA;Q3420821;30385156;FALSE;NA;0;NA;121810204;http://data.bnf.fr/ark:/12148/cb121810204#about;17;14;17;14
+656;http://www.wikidata.org/entity/Q3102762;Georges Gaudy;1895;1987;92;NA;Q3102762;120082268;FALSE;NA;0;NA;10952428q;http://data.bnf.fr/ark:/12148/cb10952428q#about;13;8;16;9
+657;http://www.wikidata.org/entity/Q22680824;Henri Austruy;1871;1944;73;NA;Q22680824;30385180;FALSE;NA;0;NA;12805909m;http://data.bnf.fr/ark:/12148/cb12805909m#about;14;12;16;13
+658;http://www.wikidata.org/entity/Q27919756;Gaston Armelin;1860;1942;82;NA;Q27919756;140873929;FALSE;NA;0;NA;12995666n;http://data.bnf.fr/ark:/12148/cb12995666n#about;15;14;21;18
+659;http://www.wikidata.org/entity/Q16650288;Charles Saunier;1865;1941;76;1;Q16650288;29981018;FALSE;NA;0;0.0133333333333333;12149165g;http://data.bnf.fr/ark:/12148/cb12149165g#about;35;29;38;31
+660;http://www.wikidata.org/entity/Q55237503;Henri Du Passage;1874;1963;89;1;Q55237503;03435493X;FALSE;NA;0;0.0151515151515152;125118824;http://data.bnf.fr/ark:/12148/cb125118824#about;17;14;20;17
+661;http://www.wikidata.org/entity/Q47344069;Jehanne d'Orliac;1883;1974;91;NA;Q47344069;02960009X;FALSE;NA;0;NA;121191813;http://data.bnf.fr/ark:/12148/cb121191813#about;37;30;42;33
+662;http://www.wikidata.org/entity/Q73262941;José Vincent;1869;1950;81;NA;Q73262941;114493367;FALSE;NA;0;NA;12735292h;http://data.bnf.fr/ark:/12148/cb12735292h#about;5;5;6;6
+663;http://www.wikidata.org/entity/Q2847203;André Barde;1874;1945;71;NA;Q2847203;07434580X;FALSE;NA;0;NA;10841647x;http://data.bnf.fr/ark:/12148/cb10841647x#about;56;48;64;56
+664;http://www.wikidata.org/entity/Q20797853;Robert Trébor;1879;1942;63;NA;Q20797853;136885624;FALSE;NA;0;NA;10718866n;http://data.bnf.fr/ark:/12148/cb10718866n#about;16;13;17;14
+665;http://www.wikidata.org/entity/Q18155899;George Bonnamour;1866;1954;88;NA;Q18155899;35133295;FALSE;NA;0;NA;134988337;http://data.bnf.fr/ark:/12148/cb134988337#about;33;30;46;43
+666;http://www.wikidata.org/entity/Q2975045;Claire Géniaux;1879;1971;92;NA;Q2975045;75896397;FALSE;NA;0;NA;11012020m;http://data.bnf.fr/ark:/12148/cb11012020m#about;14;10;14;10
+667;http://www.wikidata.org/entity/Q3102188;André Fribourg;1887;1948;61;NA;Q3102188;30603595;FALSE;NA;0;NA;12198550b;http://data.bnf.fr/ark:/12148/cb12198550b#about;17;17;21;21
+668;http://www.wikidata.org/entity/Q3103602;Georges Vidal;1903;1964;61;NA;Q3103602;138497842;FALSE;NA;0;NA;12448011j;http://data.bnf.fr/ark:/12148/cb12448011j#about;73;39;76;39
+669;http://www.wikidata.org/entity/Q50385553;Germain Trézel;1877;1946;69;NA;Q50385553;183694678;FALSE;NA;0;NA;10725060v;http://data.bnf.fr/ark:/12148/cb10725060v#about;16;10;17;10
+670;http://www.wikidata.org/entity/Q3371880;Paul Mourousy;1915;2002;87;1;Q3371880;27041174;FALSE;NA;0;0.04;11917101c;http://data.bnf.fr/ark:/12148/cb11917101c#about;27;8;34;9
+671;http://www.wikidata.org/entity/Q3435178;Robert Gaillard;1909;1975;66;1;Q3435178;26878607;FALSE;NA;0;0.032258064516129;11903881m;http://data.bnf.fr/ark:/12148/cb11903881m#about;89;7;142;10
+672;http://www.wikidata.org/entity/Q15407375;André Arnyvelde;1881;1942;61;NA;Q15407375;89492269;FALSE;NA;0;NA;12730587j;http://data.bnf.fr/ark:/12148/cb12730587j#about;11;10;20;16
+673;http://www.wikidata.org/entity/Q967039;Félix Gandéra;1885;1957;72;NA;Q967039;83487824;FALSE;NA;0;NA;14099928m;http://data.bnf.fr/ark:/12148/cb14099928m#about;11;9;13;11
+674;http://www.wikidata.org/entity/Q3265376;Lucien Besnard;1872;1955;83;NA;Q3265376;67260500;FALSE;NA;0;NA;13013243b;http://data.bnf.fr/ark:/12148/cb13013243b#about;30;26;39;34
+675;http://www.wikidata.org/entity/Q3188705;Jules Lafforgue;1873;1947;74;NA;Q3188705;29900123;FALSE;NA;0;NA;121427852;http://data.bnf.fr/ark:/12148/cb121427852#about;6;5;8;6
+676;http://www.wikidata.org/entity/Q20241057;Pierre de Régnier;1898;1943;45;NA;Q20241057;94640092;FALSE;NA;0;NA;156180063;http://data.bnf.fr/ark:/12148/cb156180063#about;7;6;14;11
+677;http://www.wikidata.org/entity/Q3060116;Eugène Pujarniscle;1881;1951;70;NA;Q3060116;69834016;FALSE;NA;0;NA;12757553b;http://data.bnf.fr/ark:/12148/cb12757553b#about;7;6;13;9
+678;http://www.wikidata.org/entity/Q3426412;René Jolivet;1898;1975;77;NA;Q3426412;140765484;FALSE;NA;0;NA;14659416f;http://data.bnf.fr/ark:/12148/cb14659416f#about;10;8;15;13
+679;http://www.wikidata.org/entity/Q3438737;Roger Boutet de Monvel;1879;1951;72;NA;Q3438737;73392618;FALSE;NA;0;NA;127694574;http://data.bnf.fr/ark:/12148/cb127694574#about;13;12;15;14
+680;http://www.wikidata.org/entity/Q3807599;Jean-Joseph Renaud;1873;1953;80;1;Q3807599;26660024;FALSE;NA;0;0.0149253731343284;118866473;http://data.bnf.fr/ark:/12148/cb118866473#about;8;8;8;8
+681;http://www.wikidata.org/entity/Q1605707;Henri Bauche;1880;1947;67;NA;Q1605707;32119488;FALSE;NA;0;NA;12321102k;http://data.bnf.fr/ark:/12148/cb12321102k#about;15;12;18;13
+682;http://www.wikidata.org/entity/Q24258876;Marie de Wailly;1880;1964;84;NA;Q24258876;129530980;FALSE;NA;0;NA;12791553q;http://data.bnf.fr/ark:/12148/cb12791553q#about;25;24;27;26
+683;http://www.wikidata.org/entity/Q15970833;Jeanne Dortzal;1878;1943;65;NA;Q15970833;68962398;FALSE;NA;0;NA;143020508;http://data.bnf.fr/ark:/12148/cb143020508#about;12;12;13;13
+684;http://www.wikidata.org/entity/Q3171693;Jean Desbordes;1906;1944;38;NA;Q3171693;30333377;FALSE;NA;0;NA;12177033q;http://data.bnf.fr/ark:/12148/cb12177033q#about;5;4;8;6
+685;http://www.wikidata.org/entity/Q25929695;Marcel Caruel;1893;1955;62;NA;Q25929695;185576729;FALSE;NA;0;NA;16681853q;http://data.bnf.fr/ark:/12148/cb16681853q#about;6;5;10;6
+686;http://www.wikidata.org/entity/Q286276;Émile Pagès;1893;1963;70;NA;Q286276;145703207;FALSE;NA;0;NA;123242048;http://data.bnf.fr/ark:/12148/cb123242048#about;7;6;8;7
+687;http://www.wikidata.org/entity/Q2381486;Henry Musnik;1895;1957;62;NA;Q2381486;120064677;FALSE;NA;0;NA;12757851g;http://data.bnf.fr/ark:/12148/cb12757851g#about;138;57;157;59
+688;http://www.wikidata.org/entity/Q2848839;André de Badet;1891;1977;86;NA;Q2848839;149854846;FALSE;NA;0;NA;148356206;http://data.bnf.fr/ark:/12148/cb148356206#about;10;8;11;9
+689;http://www.wikidata.org/entity/Q2982528;Colette Vivier;1898;1979;81;NA;Q2982528;27188906;FALSE;NA;0;NA;119285895;http://data.bnf.fr/ark:/12148/cb119285895#about;36;7;61;8
+690;http://www.wikidata.org/entity/Q3175154;Jean d'Agraives;1892;1951;59;NA;Q3175154;29091993;FALSE;NA;0;NA;12078994g;http://data.bnf.fr/ark:/12148/cb12078994g#about;50;35;71;48
+691;http://www.wikidata.org/entity/Q3419230;Raoul Monmarson;1895;1976;81;NA;Q3419230;178142123;FALSE;NA;0;NA;127728196;http://data.bnf.fr/ark:/12148/cb127728196#about;12;5;14;6
+692;http://www.wikidata.org/entity/Q3426360;René Herval;1890;1972;82;NA;Q3426360;26920891;FALSE;NA;0;NA;119074130;http://data.bnf.fr/ark:/12148/cb119074130#about;51;27;73;37
+693;http://www.wikidata.org/entity/Q1872437;Fabius de Champville;1865;1946;81;3;Q1872437;174936877;FALSE;NA;0;0.04;13003044x;http://data.bnf.fr/ark:/12148/cb13003044x#about;42;38;45;41
+694;http://www.wikidata.org/entity/Q15627175;Albert Keim;1876;1947;71;1;Q15627175;33186162;FALSE;NA;0;0.015625;124078152;http://data.bnf.fr/ark:/12148/cb124078152#about;31;23;34;26
+695;http://www.wikidata.org/entity/Q3343516;Norbert Sevestre;1879;1946;67;NA;Q3343516;129623601;FALSE;NA;0;NA;12729329s;http://data.bnf.fr/ark:/12148/cb12729329s#about;46;45;57;48
+696;http://www.wikidata.org/entity/Q3132753;Henry Dupuy-Mazuel;1885;1962;77;NA;Q3132753;198109059;FALSE;NA;0;NA;12733823v;http://data.bnf.fr/ark:/12148/cb12733823v#about;35;10;45;15
+697;http://www.wikidata.org/entity/Q21582360;Lucien Népoty;1878;1945;67;NA;Q21582360;35319550;FALSE;NA;0;NA;13181463n;http://data.bnf.fr/ark:/12148/cb13181463n#about;18;17;24;19
+698;http://www.wikidata.org/entity/Q15630834;Albert Dubeux;1894;1979;85;NA;Q15630834;142312215;FALSE;NA;0;NA;15591532t;http://data.bnf.fr/ark:/12148/cb15591532t#about;55;40;60;42
+699;http://www.wikidata.org/entity/Q51883108;Pol d'Estoc;1878;1948;70;NA;Q51883108;03376624X;FALSE;NA;0;NA;13006509h;http://data.bnf.fr/ark:/12148/cb13006509h#about;17;14;18;14
+700;http://www.wikidata.org/entity/Q3383649;Pierre Aguétant;1890;1940;50;NA;Q3383649;88975932;FALSE;NA;0;NA;12680954j;http://data.bnf.fr/ark:/12148/cb12680954j#about;35;32;44;38
+701;http://www.wikidata.org/entity/Q18197505;André Fage;1883;1948;65;NA;Q18197505;165007699;FALSE;NA;0;NA;127369277;http://data.bnf.fr/ark:/12148/cb127369277#about;8;7;8;7
+702;http://www.wikidata.org/entity/Q2975147;Claire Éliane Engel;1903;1976;73;NA;Q2975147;33999058;FALSE;NA;0;NA;12479917z;http://data.bnf.fr/ark:/12148/cb12479917z#about;24;10;29;10
+703;http://www.wikidata.org/entity/Q3174420;Jean Rosmer;1876;1951;75;NA;Q3174420;129261335;FALSE;NA;0;NA;12740229r;http://data.bnf.fr/ark:/12148/cb12740229r#about;74;59;82;62
+704;http://www.wikidata.org/entity/Q8323287;Fanny Clar;1875;1944;69;NA;Q8323287;06703585X;FALSE;NA;0;NA;12141348h;http://data.bnf.fr/ark:/12148/cb12141348h#about;16;15;17;15
+705;http://www.wikidata.org/entity/Q20807841;Robert Boudry;1893;1958;65;NA;Q20807841;76419487;FALSE;NA;0;NA;10937756k;http://data.bnf.fr/ark:/12148/cb10937756k#about;11;9;11;9
+706;http://www.wikidata.org/entity/Q61968643;Paul Leclercq;1872;1956;84;NA;Q61968643;200406930;FALSE;NA;0;NA;127288397;http://data.bnf.fr/ark:/12148/cb127288397#about;9;8;9;8
+707;http://www.wikidata.org/entity/Q3171788;Jean Dornis;1864;1948;84;1;Q3171788;30269199;FALSE;NA;0;0.0131578947368421;127683568;http://data.bnf.fr/ark:/12148/cb127683568#about;18;18;23;22
+708;http://www.wikidata.org/entity/Q4348573;Ernest Dimnet;1866;1954;88;1;Q4348573;85899100;FALSE;NA;0;0.0135135135135135;13191952k;http://data.bnf.fr/ark:/12148/cb13191952k#about;11;10;12;11
+709;http://www.wikidata.org/entity/Q57342365;A. Broquelet;1861;1957;96;1;Q57342365;109477928;FALSE;NA;0;0.0126582278481013;14970607s;http://data.bnf.fr/ark:/12148/cb14970607s#about;19;16;28;25
+710;http://www.wikidata.org/entity/Q3370505;Paul Armont;1874;1943;69;NA;Q3370505;35100095;FALSE;NA;0;NA;13167029d;http://data.bnf.fr/ark:/12148/cb13167029d#about;32;32;36;36
+711;http://www.wikidata.org/entity/Q3069186;Fernand Hauser;1869;1941;72;NA;Q3069186;149800657;FALSE;NA;0;NA;103557136;http://data.bnf.fr/ark:/12148/cb103557136#about;17;17;18;18
+712;http://www.wikidata.org/entity/Q3121643;Guy Chantepleure;1870;1951;81;NA;Q3121643;80664431;FALSE;NA;0;NA;12596051h;http://data.bnf.fr/ark:/12148/cb12596051h#about;23;23;58;47
+713;http://www.wikidata.org/entity/Q3259683;Lortac;1884;1973;89;NA;Q3259683;30880688;FALSE;NA;0;NA;122207991;http://data.bnf.fr/ark:/12148/cb122207991#about;18;10;18;10
+714;http://www.wikidata.org/entity/Q3302114;Max Fuchs;1876;1949;73;NA;Q3302114;34407634;FALSE;NA;0;NA;12516621k;http://data.bnf.fr/ark:/12148/cb12516621k#about;23;16;27;16
+715;http://www.wikidata.org/entity/Q11926052;Horace Chauvet;1873;1962;89;NA;Q11926052;29870720;FALSE;NA;0;NA;12140590m;http://data.bnf.fr/ark:/12148/cb12140590m#about;17;7;24;9
+716;http://www.wikidata.org/entity/Q3131466;Henri Leclerc;1870;1955;85;2;Q3131466;69831629;FALSE;NA;0;0.0285714285714286;12275115r;http://data.bnf.fr/ark:/12148/cb12275115r#about;103;78;113;85
+717;http://www.wikidata.org/entity/Q18115342;René La Bruyère;1875;1951;76;NA;Q18115342;02970460X;FALSE;NA;0;NA;149803044;http://data.bnf.fr/ark:/12148/cb149803044#about;29;19;32;21
+718;http://www.wikidata.org/entity/Q10320343;Lucien Farnoux-Reynaud;1894;1962;68;NA;Q10320343;57256381;FALSE;NA;0;NA;13022855z;http://data.bnf.fr/ark:/12148/cb13022855z#about;9;6;9;6
+719;http://www.wikidata.org/entity/Q50323011;Louis Hennevé;1885;1972;87;NA;Q50323011;170105415;FALSE;NA;0;NA;14835660f;http://data.bnf.fr/ark:/12148/cb14835660f#about;61;55;123;115
+720;http://www.wikidata.org/entity/Q3175461;Jean de Kerlecq;1882;1969;87;NA;Q3175461;100930913;FALSE;NA;0;NA;12112617p;http://data.bnf.fr/ark:/12148/cb12112617p#about;70;47;77;50
+721;http://www.wikidata.org/entity/Q28495942;Comtesse de Baillehache;1878;1948;70;NA;Q28495942;144415674;FALSE;NA;0;NA;127315106;http://data.bnf.fr/ark:/12148/cb127315106#about;7;6;8;7
+722;http://www.wikidata.org/entity/Q31072070;Pierre-Louis Duchartre;1894;1983;89;NA;Q31072070;80281583;FALSE;NA;0;NA;119008769;http://data.bnf.fr/ark:/12148/cb119008769#about;21;5;25;6
+723;http://www.wikidata.org/entity/Q55771033;Y.-M. Goblet;1881;1955;74;NA;Q55771033;67051545;FALSE;NA;0;NA;12360567v;http://data.bnf.fr/ark:/12148/cb12360567v#about;17;12;17;12
+724;http://www.wikidata.org/entity/Q2848208;André Mabille de Poncheville;1886;1969;83;3;Q2848208;26999161;FALSE;NA;0;0.0555555555555556;11913717f;http://data.bnf.fr/ark:/12148/cb11913717f#about;69;46;96;61
+725;http://www.wikidata.org/entity/Q3293848;Marius Riollet;1880;1962;82;1;Q3293848;06725215X;FALSE;NA;0;0.0166666666666667;130048342;http://data.bnf.fr/ark:/12148/cb130048342#about;21;12;25;12
+726;http://www.wikidata.org/entity/Q55231092;Armand Rébillon;1879;1974;95;1;Q55231092;59053771;FALSE;NA;0;0.0163934426229508;12939246n;http://data.bnf.fr/ark:/12148/cb12939246n#about;9;7;14;9
+727;http://www.wikidata.org/entity/Q18578082;Xavier de Courville;1894;1984;90;NA;Q18578082;50788647;FALSE;NA;0;NA;135465739;http://data.bnf.fr/ark:/12148/cb135465739#about;32;17;39;22
+728;http://www.wikidata.org/entity/Q18647935;François Moutier;1881;1961;80;NA;Q18647935;115561439;FALSE;NA;0;NA;171227573;http://data.bnf.fr/ark:/12148/cb171227573#about;14;10;14;10
+729;http://www.wikidata.org/entity/Q3270799;Léon Cathlin;1882;1962;80;NA;Q3270799;67241476;FALSE;NA;0;NA;127357352;http://data.bnf.fr/ark:/12148/cb127357352#about;9;7;11;9
+730;http://www.wikidata.org/entity/Q3295179;Marthe Bertheaume;1878;1963;85;NA;Q3295179;158098420;FALSE;NA;0;NA;12735919c;http://data.bnf.fr/ark:/12148/cb12735919c#about;9;6;10;6
+731;http://www.wikidata.org/entity/Q3370378;Paul-Yves Sébillot;1885;1971;86;NA;Q3370378;29548578;FALSE;NA;0;NA;121151547;http://data.bnf.fr/ark:/12148/cb121151547#about;38;22;51;27
+732;http://www.wikidata.org/entity/Q2958531;Charles Berlet;1878;1941;63;1;Q2958531;71415602;FALSE;NA;0;0.0161290322580645;13015045z;http://data.bnf.fr/ark:/12148/cb13015045z#about;7;5;8;6
+733;http://www.wikidata.org/entity/Q21028951;Paul-Émile Cadilhac;1891;1968;77;NA;Q21028951;99763192;FALSE;NA;0;NA;111970241;http://data.bnf.fr/ark:/12148/cb111970241#about;9;7;9;7
+734;http://www.wikidata.org/entity/Q3371340;Paul Gordeaux;1891;1974;83;NA;Q3371340;71600728;FALSE;NA;0;NA;12609737x;http://data.bnf.fr/ark:/12148/cb12609737x#about;25;5;28;7
+735;http://www.wikidata.org/entity/Q30015819;Jacques Yvel;1862;1940;78;NA;Q30015819;17583489X;FALSE;NA;0;NA;121309550;http://data.bnf.fr/ark:/12148/cb121309550#about;25;16;30;21
+736;http://www.wikidata.org/entity/Q2830973;Albert Bonneau;1898;1967;69;NA;Q2830973;30252008;FALSE;NA;0;NA;121708337;http://data.bnf.fr/ark:/12148/cb121708337#about;421;298;558;329
+737;http://www.wikidata.org/entity/Q2831200;Albert Gervais;1892;1979;87;NA;Q2831200;97507512;FALSE;NA;0;NA;11177171d;http://data.bnf.fr/ark:/12148/cb11177171d#about;4;3;7;6
+738;http://www.wikidata.org/entity/Q3157709;Jacqueline Duché;1892;1973;81;NA;Q3157709;67050980;FALSE;NA;0;NA;12147810n;http://data.bnf.fr/ark:/12148/cb12147810n#about;19;6;23;6
+739;http://www.wikidata.org/entity/Q3172908;Jean Kéry;1893;1985;92;NA;Q3172908;26948478;FALSE;NA;0;NA;119096627;http://data.bnf.fr/ark:/12148/cb119096627#about;62;27;64;27
+740;http://www.wikidata.org/entity/Q3189621;Julien Priollet;1877;1953;76;NA;Q3189621;86251791;FALSE;NA;0;NA;10359631t;http://data.bnf.fr/ark:/12148/cb10359631t#about;31;27;34;29
+741;http://www.wikidata.org/entity/Q3588787;Émile Violet;1877;1965;88;NA;Q3588787;34089586;FALSE;NA;0;NA;12488114p;http://data.bnf.fr/ark:/12148/cb12488114p#about;14;9;15;10
+742;http://www.wikidata.org/entity/Q5980155;Pierre Maudru;1892;1992;100;NA;Q5980155;67024130;FALSE;NA;0;NA;11915196d;http://data.bnf.fr/ark:/12148/cb11915196d#about;10;5;14;8
+743;http://www.wikidata.org/entity/Q40025876;Louis Gautier-Vignal;1888;1982;94;NA;Q40025876;77321170;FALSE;NA;0;NA;12608208q;http://data.bnf.fr/ark:/12148/cb12608208q#about;14;8;16;9
+744;http://www.wikidata.org/entity/Q63329901;Paul Garcin;1897;1954;57;NA;Q63329901;97418927;FALSE;NA;0;NA;10854873z;http://data.bnf.fr/ark:/12148/cb10854873z#about;11;5;18;7
+745;http://www.wikidata.org/entity/Q3102810;Georges Gromort;1870;1961;91;2;Q3102810;32834918;FALSE;NA;0;0.0285714285714286;123787515;http://data.bnf.fr/ark:/12148/cb123787515#about;18;7;22;8
+746;http://www.wikidata.org/entity/Q3300278;Maurice-Charles Renard;1888;1973;85;1;Q3300278;29778921;FALSE;NA;0;0.0192307692307692;12133050h;http://data.bnf.fr/ark:/12148/cb12133050h#about;18;9;23;11
+747;http://www.wikidata.org/entity/Q28131328;Alice Pujo;1869;1953;84;NA;Q28131328;12942207X;FALSE;NA;0;NA;106075426;http://data.bnf.fr/ark:/12148/cb106075426#about;16;16;20;18
+748;http://www.wikidata.org/entity/Q2401587;Paul Nourrisson;1858;1940;82;NA;Q2401587;03302975X;FALSE;NA;0;NA;123938195;http://data.bnf.fr/ark:/12148/cb123938195#about;44;44;53;53
+749;http://www.wikidata.org/entity/Q3292631;Marie Lahy-Hollebecque;1881;1957;76;NA;Q3292631;29735823;FALSE;NA;0;NA;12129584f;http://data.bnf.fr/ark:/12148/cb12129584f#about;23;17;31;21
+750;http://www.wikidata.org/entity/Q3093553;Gabriel-Joseph Gros;1890;1980;90;NA;Q3093553;186083866;FALSE;NA;0;NA;112027409;http://data.bnf.fr/ark:/12148/cb112027409#about;9;7;10;7
+751;http://www.wikidata.org/entity/Q16334440;Angèle Maraval-Berthoin;1875;1965;90;NA;Q16334440;75549751;FALSE;NA;0;NA;124084276;http://data.bnf.fr/ark:/12148/cb124084276#about;19;14;20;14
+752;http://www.wikidata.org/entity/Q18533822;Anne Osmont;1872;1953;81;NA;Q18533822;10159447X;FALSE;NA;0;NA;12814401f;http://data.bnf.fr/ark:/12148/cb12814401f#about;25;17;27;19
+753;http://www.wikidata.org/entity/Q50384861;Éléonor Daubrée;1881;1961;80;NA;Q50384861;34001298;FALSE;NA;0;NA;13022361h;http://data.bnf.fr/ark:/12148/cb13022361h#about;6;5;9;8
+754;http://www.wikidata.org/entity/Q827780;Berthe Bernage;1886;1972;86;NA;Q827780;60723130;FALSE;NA;0;NA;11891474f;http://data.bnf.fr/ark:/12148/cb11891474f#about;61;11;108;11
+755;http://www.wikidata.org/entity/Q1812961;Max-André Dazergues;1903;1963;60;NA;Q1812961;07071505X;FALSE;NA;0;NA;15566586b;http://data.bnf.fr/ark:/12148/cb15566586b#about;236;128;254;138
+756;http://www.wikidata.org/entity/Q3131383;Henri Kubnick;1912;1991;79;NA;Q3131383;26812223;FALSE;NA;0;NA;11910156z;http://data.bnf.fr/ark:/12148/cb11910156z#about;32;14;34;16
+757;http://www.wikidata.org/entity/Q3289589;Marcelle Vérité;1904;1994;90;NA;Q3289589;27181243;FALSE;NA;0;NA;11927982m;http://data.bnf.fr/ark:/12148/cb11927982m#about;168;15;233;17
+758;http://www.wikidata.org/entity/Q3290662;Marguerite Allotte de La Fuÿe;1874;1959;85;NA;Q3290662;67222056;FALSE;NA;0;NA;12747260k;http://data.bnf.fr/ark:/12148/cb12747260k#about;15;8;16;8
+759;http://www.wikidata.org/entity/Q3291096;Maria de Crisenoy;1882;1965;83;NA;Q3291096;129430099;FALSE;NA;0;NA;12936225z;http://data.bnf.fr/ark:/12148/cb12936225z#about;55;27;61;31
+760;http://www.wikidata.org/entity/Q3300488;Maurice Briault;1874;1953;79;NA;Q3300488;05737998X;FALSE;NA;0;NA;13078592t;http://data.bnf.fr/ark:/12148/cb13078592t#about;11;7;15;9
+761;http://www.wikidata.org/entity/Q3300635;Maurice David;1891;1974;83;NA;Q3300635;122205464;FALSE;NA;0;NA;113485379;http://data.bnf.fr/ark:/12148/cb113485379#about;22;10;70;14
+762;http://www.wikidata.org/entity/Q13080812;Armand Ziwès;1887;1962;75;NA;Q13080812;29987415;FALSE;NA;0;NA;12149637m;http://data.bnf.fr/ark:/12148/cb12149637m#about;11;3;17;6
+763;http://www.wikidata.org/entity/Q16855623;Jacques du Tillet;1857;1942;85;NA;Q16855623;91640563;FALSE;NA;0;NA;129971820;http://data.bnf.fr/ark:/12148/cb129971820#about;5;5;6;6
+764;http://www.wikidata.org/entity/Q16915516;Pierre Jay;1868;1947;79;NA;Q16915516;02826326X;FALSE;NA;0;NA;10357715c;http://data.bnf.fr/ark:/12148/cb10357715c#about;5;5;6;6
+765;http://www.wikidata.org/entity/Q51170685;Antonin Lavergne;1863;1941;78;NA;Q51170685;85719927;FALSE;NA;0;NA;126189541;http://data.bnf.fr/ark:/12148/cb126189541#about;6;6;8;8
+766;http://www.wikidata.org/entity/Q55418342;Maurice Caudel;1871;1950;79;NA;Q55418342;76569977;FALSE;NA;0;NA;109975777;http://data.bnf.fr/ark:/12148/cb109975777#about;10;10;12;12
+767;http://www.wikidata.org/entity/Q55771708;Augustin-Fernand Leynaud;1865;1953;88;4;Q55771708;75151820;FALSE;NA;0;0.0533333333333333;123453731;http://data.bnf.fr/ark:/12148/cb123453731#about;11;10;13;12
+768;http://www.wikidata.org/entity/Q3171927;Jean Ernest-Charles;1875;1953;78;2;Q3171927;88551466;FALSE;NA;0;0.0307692307692308;127755716;http://data.bnf.fr/ark:/12148/cb127755716#about;21;19;22;20
+769;http://www.wikidata.org/entity/Q21157850;Christian Schefer;1866;1944;78;2;Q21157850;34555064;FALSE;NA;0;0.027027027027027;12529888b;http://data.bnf.fr/ark:/12148/cb12529888b#about;10;10;12;12
+770;http://www.wikidata.org/entity/Q3426010;René Christian-Frogé;1880;1958;78;1;Q3426010;151535256;FALSE;NA;0;0.0166666666666667;12771737m;http://data.bnf.fr/ark:/12148/cb12771737m#about;9;9;11;10
+771;http://www.wikidata.org/entity/Q18197809;Edmond Andre Rocher;1873;1948;75;1;Q18197809;33135118;FALSE;NA;0;0.0149253731343284;12403218g;http://data.bnf.fr/ark:/12148/cb12403218g#about;17;17;19;19
+772;http://www.wikidata.org/entity/Q3166371;Jean-Jacques Olivier;1877;1954;77;1;Q3166371;14999513X;FALSE;NA;0;0.0158730158730159;12208637q;http://data.bnf.fr/ark:/12148/cb12208637q#about;8;8;8;8
+773;http://www.wikidata.org/entity/Q3370262;Paul-Clément Jagot;1889;1962;73;1;Q3370262;26934132;FALSE;NA;0;0.0196078431372549;119085005;http://data.bnf.fr/ark:/12148/cb119085005#about;69;12;109;12
+774;http://www.wikidata.org/entity/Q19631140;Pierre Ibos;1871;1949;78;1;Q19631140;09924392X;FALSE;NA;0;0.0144927536231884;130139407;http://data.bnf.fr/ark:/12148/cb130139407#about;10;8;11;8
+775;http://www.wikidata.org/entity/Q30709765;Pierre Buffault;1866;1942;76;1;Q30709765;91240336;FALSE;NA;0;0.0135135135135135;145883318;http://data.bnf.fr/ark:/12148/cb145883318#about;11;9;13;10
+776;http://www.wikidata.org/entity/Q61609772;Émile Pourésy;1864;1948;84;1;Q61609772;61644749;FALSE;NA;0;0.0131578947368421;10326749t;http://data.bnf.fr/ark:/12148/cb10326749t#about;15;10;17;10
+777;http://www.wikidata.org/entity/Q64243287;Henriette de Vismes;1884;1958;74;NA;Q64243287;129730440;FALSE;NA;0;NA;12734104w;http://data.bnf.fr/ark:/12148/cb12734104w#about;8;8;9;9
+778;http://www.wikidata.org/entity/Q3439277;Roger Mennevée;1885;1972;87;NA;Q3439277;103080589;FALSE;NA;0;NA;12289025z;http://data.bnf.fr/ark:/12148/cb12289025z#about;9;9;13;13
+779;http://www.wikidata.org/entity/Q55712239;Bernard Latzarus;1885;1951;66;NA;Q55712239;34395962;FALSE;NA;0;NA;12515576b;http://data.bnf.fr/ark:/12148/cb12515576b#about;5;5;6;6
+780;http://www.wikidata.org/entity/Q2848855;André de La Franquerie;1901;1992;91;NA;Q2848855;02695611X;FALSE;NA;0;NA;11910270s;http://data.bnf.fr/ark:/12148/cb11910270s#about;37;9;48;11
+781;http://www.wikidata.org/entity/Q3189764;Juliette Heuzey;1865;1952;87;NA;Q3189764;29517109;FALSE;NA;0;NA;10569061n;http://data.bnf.fr/ark:/12148/cb10569061n#about;18;16;21;19
+782;http://www.wikidata.org/entity/Q3525506;Roger Poidatz;1894;1976;82;NA;Q3525506;02828156X;FALSE;NA;0;NA;12659859j;http://data.bnf.fr/ark:/12148/cb12659859j#about;4;3;19;10
+783;http://www.wikidata.org/entity/Q18002264;A. Verley;1862;1942;80;NA;Q18002264;137338821;FALSE;NA;0;NA;127283929;http://data.bnf.fr/ark:/12148/cb127283929#about;41;41;53;53
+784;http://www.wikidata.org/entity/Q49140652;Mathieu Fournier;1868;1963;95;NA;Q49140652;137758758;FALSE;NA;0;NA;121601720;http://data.bnf.fr/ark:/12148/cb121601720#about;35;31;49;42
+785;http://www.wikidata.org/entity/Q23765819;Gaston de Wailly;1857;1943;86;NA;Q23765819;142397881;FALSE;NA;0;NA;106120404;http://data.bnf.fr/ark:/12148/cb106120404#about;29;28;42;41
+786;http://www.wikidata.org/entity/Q3436688;Robert de Machiels;1880;1965;85;NA;Q3436688;179981587;FALSE;NA;0;NA;127260653;http://data.bnf.fr/ark:/12148/cb127260653#about;29;26;35;32
+787;http://www.wikidata.org/entity/Q3051725;Elsa Koeberlé;1881;1950;69;NA;Q3051725;149720122;FALSE;NA;0;NA;10315961s;http://data.bnf.fr/ark:/12148/cb10315961s#about;3;3;6;6
+788;http://www.wikidata.org/entity/Q18011890;Martial Besson;1856;1945;89;NA;Q18011890;120855569;FALSE;NA;0;NA;12993132g;http://data.bnf.fr/ark:/12148/cb12993132g#about;8;8;8;8
+789;http://www.wikidata.org/entity/Q547329;Charles Armand Picquenard;1872;1940;68;NA;Q547329;14753836X;FALSE;NA;0;NA;106701091;http://data.bnf.fr/ark:/12148/cb106701091#about;14;14;15;15
+790;http://www.wikidata.org/entity/Q2898453;Bernhard Frank;1887;1967;80;NA;Q2898453;29715350;FALSE;NA;0;NA;12128014n;http://data.bnf.fr/ark:/12148/cb12128014n#about;11;5;15;7
+791;http://www.wikidata.org/entity/Q3175471;Jean La Brète;1858;1945;87;NA;Q3175471;50132210;FALSE;NA;0;NA;12781788q;http://data.bnf.fr/ark:/12148/cb12781788q#about;34;32;64;56
+792;http://www.wikidata.org/entity/Q3265303;Lucie Rauzier-Fontayne;1895;1986;91;NA;Q3265303;27090612;FALSE;NA;0;NA;119212242;http://data.bnf.fr/ark:/12148/cb119212242#about;47;14;66;17
+793;http://www.wikidata.org/entity/Q3271138;Léon Le Berre;1874;1946;72;NA;Q3271138;06706664X;FALSE;NA;0;NA;127260146;http://data.bnf.fr/ark:/12148/cb127260146#about;12;11;16;15
+794;http://www.wikidata.org/entity/Q3289591;Marcelle de Jouvenel;1896;1971;75;NA;Q3289591;26942038;FALSE;NA;0;NA;11909143k;http://data.bnf.fr/ark:/12148/cb11909143k#about;12;6;14;6
+795;http://www.wikidata.org/entity/Q3292071;Marie-Louise Grobert;1896;1966;70;NA;Q3292071;129243671;FALSE;NA;0;NA;10745440r;http://data.bnf.fr/ark:/12148/cb10745440r#about;19;9;19;9
+796;http://www.wikidata.org/entity/Q3553634;Valentine Benoît d'Entrevaux;1889;1956;67;NA;Q3553634;101341482;FALSE;NA;0;NA;12754639b;http://data.bnf.fr/ark:/12148/cb12754639b#about;18;13;22;16
+797;http://www.wikidata.org/entity/Q15501620;Camille Bruno;1868;1943;75;NA;Q15501620;181157403;FALSE;NA;0;NA;107316404;http://data.bnf.fr/ark:/12148/cb107316404#about;17;17;19;19
+798;http://www.wikidata.org/entity/Q18197711;Camille Pert;1870;1952;82;NA;Q18197711;180906321;FALSE;NA;0;NA;127337734;http://data.bnf.fr/ark:/12148/cb127337734#about;26;25;30;28
+799;http://www.wikidata.org/entity/Q16662241;Joseph Castagné;1875;1958;83;NA;Q16662241;56983204;FALSE;NA;0;NA;15131739v;http://data.bnf.fr/ark:/12148/cb15131739v#about;10;10;11;11
+800;http://www.wikidata.org/entity/Q18744745;Stanislas Gamber;1856;1941;85;NA;Q18744745;08160985X;FALSE;NA;0;NA;10585718w;http://data.bnf.fr/ark:/12148/cb10585718w#about;14;14;15;15
+801;http://www.wikidata.org/entity/Q51457259;Félix Larrieu;1863;1941;78;NA;Q51457259;144906813;FALSE;NA;0;NA;10529010x;http://data.bnf.fr/ark:/12148/cb10529010x#about;8;7;11;10
+802;http://www.wikidata.org/entity/Q59529063;Georges Lecarpentier;1850;1950;100;NA;Q59529063;32845022;FALSE;NA;0;NA;12379569x;http://data.bnf.fr/ark:/12148/cb12379569x#about;4;4;6;6
+803;http://www.wikidata.org/entity/Q89265253;Pierre Noury (engraver);1894;1981;87;NA;Q89265253;74199390;FALSE;NA;0;NA;12143374j;http://data.bnf.fr/ark:/12148/cb12143374j#about;11;6;12;7
+804;http://www.wikidata.org/entity/Q20203898;Fernand Aubier;1876;1961;85;NA;Q20203898;NA;FALSE;NA;NA;NA;12729587h;http://data.bnf.fr/ark:/12148/cb12729587h#about;9;9;10;10
+805;http://www.wikidata.org/entity/Q3435133;Robert Francis;1909;1946;37;NA;Q3435133;NA;FALSE;NA;NA;NA;12921255g;http://data.bnf.fr/ark:/12148/cb12921255g#about;9;7;12;8
+806;http://www.wikidata.org/entity/Q20961824;Charles Forot;1890;1973;83;NA;Q20961824;NA;FALSE;NA;NA;NA;119031465;http://data.bnf.fr/ark:/12148/cb119031465#about;23;8;28;10
+807;http://www.wikidata.org/entity/Q3130923;Henri Deberly;1882;1947;65;NA;Q3130923;NA;FALSE;NA;NA;NA;10944902p;http://data.bnf.fr/ark:/12148/cb10944902p#about;20;20;31;30
+808;http://www.wikidata.org/entity/Q3568203;Wilfrid Lucas;1882;1976;94;NA;Q3568203;NA;FALSE;NA;NA;NA;122153768;http://data.bnf.fr/ark:/12148/cb122153768#about;12;6;15;9
+809;http://www.wikidata.org/entity/Q2856665;Antoine Rédier;1873;1954;81;NA;Q2856665;NA;FALSE;NA;NA;NA;10634069r;http://data.bnf.fr/ark:/12148/cb10634069r#about;39;31;52;38
+810;http://www.wikidata.org/entity/Q3309213;Michel Carré;1865;1945;80;NA;Q3309213;NA;FALSE;NA;NA;NA;12463046d;http://data.bnf.fr/ark:/12148/cb12463046d#about;41;38;45;41
+811;http://www.wikidata.org/entity/Q50385275;Raymond Genty;1881;1950;69;NA;Q50385275;NA;FALSE;NA;NA;NA;109527841;http://data.bnf.fr/ark:/12148/cb109527841#about;29;20;36;23
+812;http://www.wikidata.org/entity/Q12258328;Gaëtan Bernoville;1889;1960;71;NA;Q12258328;NA;FALSE;NA;NA;NA;120357277;http://data.bnf.fr/ark:/12148/cb120357277#about;67;24;80;27
+813;http://www.wikidata.org/entity/Q28933512;Victor Forbin;1864;1947;83;NA;Q28933512;NA;FALSE;NA;NA;NA;125079950;http://data.bnf.fr/ark:/12148/cb125079950#about;19;16;19;16
+814;http://www.wikidata.org/entity/Q41432110;Maurice Hamel;1890;1967;77;NA;Q41432110;NA;FALSE;NA;NA;NA;121464856;http://data.bnf.fr/ark:/12148/cb121464856#about;16;14;19;17
+815;http://www.wikidata.org/entity/Q19630176;Pierre Lyautey;1893;1976;83;NA;Q19630176;NA;FALSE;NA;NA;NA;126221506;http://data.bnf.fr/ark:/12148/cb126221506#about;44;14;52;16
+816;http://www.wikidata.org/entity/Q28143975;Albert Crémieux;1899;1967;68;NA;Q28143975;NA;FALSE;NA;NA;NA;100788629;http://data.bnf.fr/ark:/12148/cb100788629#about;10;6;13;8
+817;http://www.wikidata.org/entity/Q59588807;Maurice Wullens;1894;1945;51;NA;Q59588807;NA;FALSE;NA;NA;NA;13008145r;http://data.bnf.fr/ark:/12148/cb13008145r#about;7;6;7;6
+818;http://www.wikidata.org/entity/Q50385638;Théo Martin;1895;1976;81;NA;Q50385638;NA;FALSE;NA;NA;NA;12779445b;http://data.bnf.fr/ark:/12148/cb12779445b#about;9;5;10;6
+819;http://www.wikidata.org/entity/Q3573379;Yvan Noé;1895;1963;68;NA;Q3573379;NA;FALSE;NA;NA;NA;101924254;http://data.bnf.fr/ark:/12148/cb101924254#about;22;13;26;17
+820;http://www.wikidata.org/entity/Q3170059;Jean-Toussaint Samat;1891;1944;53;NA;Q3170059;NA;FALSE;NA;NA;NA;121400442;http://data.bnf.fr/ark:/12148/cb121400442#about;35;26;43;32
+821;http://www.wikidata.org/entity/Q3093981;Gabriel Timmory;1870;1965;95;NA;Q3093981;NA;FALSE;NA;NA;NA;127351164;http://data.bnf.fr/ark:/12148/cb127351164#about;55;42;64;50
+822;http://www.wikidata.org/entity/Q27941568;Roland Charmy;1885;1959;74;NA;Q27941568;NA;FALSE;NA;NA;NA;12736355t;http://data.bnf.fr/ark:/12148/cb12736355t#about;21;18;26;22
+823;http://www.wikidata.org/entity/Q55126614;René Druart;1888;1961;73;NA;Q55126614;NA;FALSE;NA;NA;NA;12132457s;http://data.bnf.fr/ark:/12148/cb12132457s#about;13;9;18;13
+824;http://www.wikidata.org/entity/Q42664189;Loÿs Labèque;1869;1941;72;NA;Q42664189;NA;FALSE;NA;NA;NA;14815728t;http://data.bnf.fr/ark:/12148/cb14815728t#about;9;8;10;9
+825;http://www.wikidata.org/entity/Q17425806;Lionel Nastorg;1881;1940;59;NA;Q17425806;NA;FALSE;NA;NA;NA;10366467r;http://data.bnf.fr/ark:/12148/cb10366467r#about;9;9;10;9
+826;http://www.wikidata.org/entity/Q50386125;André Turquet;1868;1940;72;NA;Q50386125;NA;FALSE;NA;NA;NA;103362814;http://data.bnf.fr/ark:/12148/cb103362814#about;7;7;7;7
+827;http://www.wikidata.org/entity/Q49689662;Claude Roland;1872;1946;74;NA;Q49689662;NA;FALSE;NA;NA;NA;103354118;http://data.bnf.fr/ark:/12148/cb103354118#about;51;47;67;58
+828;http://www.wikidata.org/entity/Q3372381;Paul Vimereu;1881;1962;81;NA;Q3372381;NA;FALSE;NA;NA;NA;119284249;http://data.bnf.fr/ark:/12148/cb119284249#about;15;8;18;8
+829;http://www.wikidata.org/entity/Q3574228;Yvonne Schultz;1889;1977;88;NA;Q3574228;NA;FALSE;NA;NA;NA;12137490t;http://data.bnf.fr/ark:/12148/cb12137490t#about;28;22;54;38
+830;http://www.wikidata.org/entity/Q20723432;Édouard Letailleur;1897;1976;79;NA;Q20723432;NA;FALSE;NA;NA;NA;11183152c;http://data.bnf.fr/ark:/12148/cb11183152c#about;9;9;10;10
+831;http://www.wikidata.org/entity/Q26997566;Alain Messiaen;1912;1990;78;NA;Q26997566;NA;FALSE;NA;NA;NA;12625311k;http://data.bnf.fr/ark:/12148/cb12625311k#about;27;5;31;6
+832;http://www.wikidata.org/entity/Q27535561;Jean Thiry;1899;1979;80;NA;Q27535561;NA;FALSE;NA;NA;NA;12182565q;http://data.bnf.fr/ark:/12148/cb12182565q#about;45;10;72;15
+833;http://www.wikidata.org/entity/Q83017051;Pierre de Lacretelle;1886;1969;83;NA;Q83017051;NA;FALSE;NA;NA;NA;12917282m;http://data.bnf.fr/ark:/12148/cb12917282m#about;13;12;15;14
+834;http://www.wikidata.org/entity/Q2832983;Alex Madis;1886;1968;82;NA;Q2832983;NA;FALSE;NA;NA;NA;14689424p;http://data.bnf.fr/ark:/12148/cb14689424p#about;7;6;7;6
+835;http://www.wikidata.org/entity/Q3371613;Paul Laffitte;1864;1949;85;NA;Q3371613;NA;FALSE;NA;NA;NA;145841385;http://data.bnf.fr/ark:/12148/cb145841385#about;7;7;9;9
+836;http://www.wikidata.org/entity/Q16176000;Albert Bausil;1881;1943;62;NA;Q16176000;NA;FALSE;NA;NA;NA;125884945;http://data.bnf.fr/ark:/12148/cb125884945#about;13;8;14;8
+837;http://www.wikidata.org/entity/Q50378704;Émile Vinchon;1880;1963;83;NA;Q50378704;NA;FALSE;NA;NA;NA;120254098;http://data.bnf.fr/ark:/12148/cb120254098#about;15;13;15;13
+838;http://www.wikidata.org/entity/Q57982248;Jean Kolb;1880;1959;79;NA;Q57982248;NA;FALSE;NA;NA;NA;15060774k;http://data.bnf.fr/ark:/12148/cb15060774k#about;24;17;28;18
+839;http://www.wikidata.org/entity/Q15970532;Émile Mazaud;1884;1970;86;NA;Q15970532;NA;FALSE;NA;NA;NA;14310698n;http://data.bnf.fr/ark:/12148/cb14310698n#about;15;15;22;22
+840;http://www.wikidata.org/entity/Q62528305;Juliette Portron;1872;1961;89;NA;Q62528305;NA;FALSE;NA;NA;NA;10449167d;http://data.bnf.fr/ark:/12148/cb10449167d#about;8;7;8;7
+841;http://www.wikidata.org/entity/Q44611032;Paul de Pitray;1862;1942;80;NA;Q44611032;NA;FALSE;NA;NA;NA;10621283x;http://data.bnf.fr/ark:/12148/cb10621283x#about;25;23;28;25
+842;http://www.wikidata.org/entity/Q3103048;Georges Le Faure;1856;1953;97;NA;Q3103048;NA;FALSE;NA;NA;NA;127391748;http://data.bnf.fr/ark:/12148/cb127391748#about;103;81;117;85
+843;http://www.wikidata.org/entity/Q27535710;Jacques Ladreit de Lacharrière;1881;1958;77;NA;Q27535710;NA;FALSE;NA;NA;NA;10675421x;http://data.bnf.fr/ark:/12148/cb10675421x#about;10;10;10;10
+844;http://www.wikidata.org/entity/Q3386141;Pierre Mariel;1900;1980;80;NA;Q3386141;NA;FALSE;NA;NA;NA;11914567p;http://data.bnf.fr/ark:/12148/cb11914567p#about;104;43;114;50
+845;http://www.wikidata.org/entity/Q93427853;Daniel Jourda;1867;1952;85;NA;Q93427853;NA;FALSE;NA;NA;NA;103150870;http://data.bnf.fr/ark:/12148/cb103150870#about;48;40;63;52
+846;http://www.wikidata.org/entity/Q3103442;Georges Rozet;1871;1962;91;NA;Q3103442;NA;FALSE;NA;NA;NA;12903250t;http://data.bnf.fr/ark:/12148/cb12903250t#about;27;20;29;21
+847;http://www.wikidata.org/entity/Q3159020;Jacques Grandchamp;1885;1956;71;NA;Q3159020;NA;FALSE;NA;NA;NA;11177842r;http://data.bnf.fr/ark:/12148/cb11177842r#about;15;13;15;13
+848;http://www.wikidata.org/entity/Q42529380;Marguerite Reynier;1881;1950;69;NA;Q42529380;NA;FALSE;NA;NA;NA;12748302x;http://data.bnf.fr/ark:/12148/cb12748302x#about;36;25;55;36
+849;http://www.wikidata.org/entity/Q60843233;Jeanne Moreau-Jousseaud;1882;1955;73;NA;Q60843233;NA;FALSE;NA;NA;NA;12919620n;http://data.bnf.fr/ark:/12148/cb12919620n#about;27;21;27;21
+850;http://www.wikidata.org/entity/Q3270666;Léon Abric;1869;1942;73;NA;Q3270666;NA;FALSE;NA;NA;NA;14665864n;http://data.bnf.fr/ark:/12148/cb14665864n#about;12;7;13;8
+851;http://www.wikidata.org/entity/Q8320989;Alliette Audra;1897;1962;65;NA;Q8320989;NA;FALSE;NA;NA;NA;118894954;http://data.bnf.fr/ark:/12148/cb118894954#about;14;8;15;9
+852;http://www.wikidata.org/entity/Q19630154;Armand Megglé;1889;1959;70;NA;Q19630154;NA;FALSE;NA;NA;NA;10969407n;http://data.bnf.fr/ark:/12148/cb10969407n#about;16;12;17;13
+853;http://www.wikidata.org/entity/Q3300803;Maurice Froyez;1860;1942;82;NA;Q3300803;NA;FALSE;NA;NA;NA;10352450v;http://data.bnf.fr/ark:/12148/cb10352450v#about;11;10;12;11
+854;http://www.wikidata.org/entity/Q61442824;Georges Arnould;1870;1948;78;NA;Q61442824;NA;FALSE;NA;NA;NA;110439877;http://data.bnf.fr/ark:/12148/cb110439877#about;36;32;40;36
+855;http://www.wikidata.org/entity/Q18012130;André Couvreur;1865;1944;79;NA;Q18012130;NA;FALSE;NA;NA;NA;12730768t;http://data.bnf.fr/ark:/12148/cb12730768t#about;7;7;9;7
+856;http://www.wikidata.org/entity/Q50385263;Suzanne Mercey;1886;1964;78;NA;Q50385263;NA;FALSE;NA;NA;NA;12739221z;http://data.bnf.fr/ark:/12148/cb12739221z#about;60;33;66;34
+857;http://www.wikidata.org/entity/Q3263716;Louise Compain;1869;1941;72;NA;Q3263716;NA;FALSE;NA;NA;NA;10999581z;http://data.bnf.fr/ark:/12148/cb10999581z#about;9;9;10;10
+858;http://www.wikidata.org/entity/Q23053121;Pauline Valmy;1876;1962;86;NA;Q23053121;NA;FALSE;NA;NA;NA;107369854;http://data.bnf.fr/ark:/12148/cb107369854#about;10;5;13;7
+859;http://www.wikidata.org/entity/Q33100472;Jules Méry;1867;1943;76;NA;Q33100472;NA;FALSE;NA;NA;NA;14657064q;http://data.bnf.fr/ark:/12148/cb14657064q#about;9;9;9;9
+860;http://www.wikidata.org/entity/Q3099058;Gaston Le Révérend;1885;1962;77;NA;Q3099058;NA;FALSE;NA;NA;NA;10504476b;http://data.bnf.fr/ark:/12148/cb10504476b#about;9;8;9;8
+861;http://www.wikidata.org/entity/Q3348817;Octave-Louis Aubert;1870;1950;80;NA;Q3348817;NA;FALSE;NA;NA;NA;15116417h;http://data.bnf.fr/ark:/12148/cb15116417h#about;22;19;31;22
+862;http://www.wikidata.org/entity/Q3435113;Robert Florigni;1881;1945;64;NA;Q3435113;NA;FALSE;NA;NA;NA;12132845w;http://data.bnf.fr/ark:/12148/cb12132845w#about;31;30;34;33
+863;http://www.wikidata.org/entity/Q76401651;Henriette Bezançon;1875;1942;67;NA;Q76401651;NA;FALSE;NA;NA;NA;12729440k;http://data.bnf.fr/ark:/12148/cb12729440k#about;57;54;68;64
+864;http://www.wikidata.org/entity/Q23906098;René Poupon;1902;1994;92;NA;Q23906098;NA;FALSE;NA;NA;NA;15566329z;http://data.bnf.fr/ark:/12148/cb15566329z#about;128;96;141;105
+865;http://www.wikidata.org/entity/Q21664349;Victor de Cottens;1862;1956;94;NA;Q21664349;NA;FALSE;NA;NA;NA;13005600f;http://data.bnf.fr/ark:/12148/cb13005600f#about;30;23;34;25
+866;http://www.wikidata.org/entity/Q61445836;Ferdinand Bossuyt;1850;1948;98;NA;Q61445836;NA;FALSE;NA;NA;NA;111375485;http://data.bnf.fr/ark:/12148/cb111375485#about;8;8;10;10
+867;http://www.wikidata.org/entity/Q2864980;Arthur Bagot;1864;1951;87;NA;Q2864980;NA;FALSE;NA;NA;NA;12734768s;http://data.bnf.fr/ark:/12148/cb12734768s#about;14;10;18;13
+868;http://www.wikidata.org/entity/Q3419397;Raphaël Barquisseau;1888;1961;73;NA;Q3419397;NA;FALSE;NA;NA;NA;12165155m;http://data.bnf.fr/ark:/12148/cb12165155m#about;34;14;45;18
+869;http://www.wikidata.org/entity/Q2958558;Charles Birette;1878;1941;63;NA;Q2958558;NA;FALSE;NA;NA;NA;129208803;http://data.bnf.fr/ark:/12148/cb129208803#about;7;6;11;9
+870;http://www.wikidata.org/entity/Q3104109;Germain Fried;1905;1963;58;NA;Q3104109;NA;FALSE;NA;NA;NA;10951362c;http://data.bnf.fr/ark:/12148/cb10951362c#about;6;6;6;6
+871;http://www.wikidata.org/entity/Q3426053;René Crayssac;1883;1940;57;NA;Q3426053;NA;FALSE;NA;NA;NA;12863540d;http://data.bnf.fr/ark:/12148/cb12863540d#about;6;6;6;6
+872;http://www.wikidata.org/entity/Q19365709;Madeleine Saint-René Taillandier;1865;1959;94;NA;Q19365709;NA;FALSE;NA;NA;NA;12264336t;http://data.bnf.fr/ark:/12148/cb12264336t#about;22;12;26;14
+873;http://www.wikidata.org/entity/Q21335560;Pierre de Quirielle;1863;1944;81;NA;Q21335560;NA;FALSE;NA;NA;NA;133071409;http://data.bnf.fr/ark:/12148/cb133071409#about;9;9;10;10
+874;http://www.wikidata.org/entity/Q23310084;Henriette Daux;1864;1953;89;NA;Q23310084;NA;FALSE;NA;NA;NA;10545759n;http://data.bnf.fr/ark:/12148/cb10545759n#about;7;7;7;7
+875;http://www.wikidata.org/entity/Q46582019;Albert Lantenois;1871;1949;78;NA;Q46582019;NA;FALSE;NA;NA;NA;104414121;http://data.bnf.fr/ark:/12148/cb104414121#about;15;12;19;16
+876;http://www.wikidata.org/entity/Q55625628;Henri Henne;1895;1983;88;NA;Q55625628;NA;FALSE;NA;NA;NA;124250431;http://data.bnf.fr/ark:/12148/cb124250431#about;8;8;9;9
+877;http://www.wikidata.org/entity/Q50384873;Gustave Rouger;1886;1974;88;NA;Q50384873;NA;FALSE;NA;NA;NA;12128553x;http://data.bnf.fr/ark:/12148/cb12128553x#about;9;9;9;9
