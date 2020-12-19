@@ -8,9 +8,9 @@
 
 
 
-Le ratio poetes_fr / poetes_fr_pol est égal à 14,64%
+Le ratio poetes_fr_pol / poetes_fr est égal à 14,64%
 
-Le ratio poetes_fr_1800 / poetes_fr_pol_1800 est égal à 19,66%
+Le ratio poetes_fr_pol_1800 / poetes_fr_1800 est égal à 19,66%
 
 
 **Sur la période contemporaine, ce sont donc environ 20% des poètes qui ont eu une activité politique.**
