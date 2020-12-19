@@ -1,6 +1,6 @@
-Nous avons extrait de la base wikidata tous les poètes français (poetes_fr.csv).
-Nous avons aussi extrait depuis cette même base la liste de tous les poètes français investis en politique ou journalistes (poetes_fr_pol.csv).
-Nous avons éliminés les personnages morts avant 1800 et après 2000 dans ces deux bases (poetes_fr_1800.csv et poetes_fr_pol_1800.csv).
+Nous avons extrait de la base wikidata tous les poètes français (poetes_fr.csv). \n
+Nous avons aussi extrait depuis cette même base la liste de tous les poètes français investis en politique ou journalistes (poetes_fr_pol.csv). \n
+Nous avons éliminés les personnages morts avant 1800 et après 2000 dans ces deux bases (poetes_fr_1800.csv et poetes_fr_pol_1800.csv). \n
 Les doublons ont été éliminés.
 
 
